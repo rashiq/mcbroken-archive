@@ -13,7 +13,7 @@ jobs:
     - name: Download recently changed data.
       run: |
         curl --compressed https://mcbroken2.nyc3.digitaloceanspaces.com/markers.json \
-          | jq [ .features[] | select(.properties.last_checked | split(" ")[1] | tonumber < 31) ] > mcbroken.json
+          | jq '[ .features[] | select(.properties.last_checked | split(" ")[1] | tonumber < 31) ]' > mcbroken.json
     - name: Commit data
       run: |
         git config user.name "Archive"
