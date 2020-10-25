@@ -1,0 +1,23 @@
+name: Data Archive
+
+on:
+  push:
+  schedule:
+  - cron: '7,37 * * * *'
+
+jobs:
+  scheduled:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+    - name: Download recently changed data.
+      run: |
+        curl --compressed https://mcbroken2.nyc3.digitaloceanspaces.com/markers.json \
+          | jq '[ .features[] | select(.properties.last_checked | split(" ")[1] | tonumber < 31) ]' > mcbroken.json
+    - name: Commit data
+      run: |
+        git config user.name "Archive"
+        git config user.email "actions@users.noreply.github.com"
+        git add -A
+        git commit -m "Archive from $(date -u)" || exit 0
+        git push
