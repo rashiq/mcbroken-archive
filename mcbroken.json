@@ -2,215 +2,6 @@
   {
     "geometry": {
       "coordinates": [
-        "-112.026825",
-        "40.609795",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "state": "UT",
-      "city": "West Jordan",
-      "street": "5706 West 7800 South",
-      "last_checked": "Checked 26 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "-112.266717",
-        "40.688484",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "state": "UT",
-      "city": "Lake Point",
-      "street": "8727 N Hwy 40",
-      "last_checked": "Checked 25 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "-110.079573",
-        "34.504062",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "state": "AZ",
-      "city": "Snowflake",
-      "street": "380 S Main St",
-      "last_checked": "Checked 25 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "-112.086648",
-        "38.753709",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "state": "UT",
-      "city": "Richfield",
-      "street": "1000 S Us Hwy 89",
-      "last_checked": "Checked 25 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "-114.037141",
-        "46.907262",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": false,
-      "state": "MT",
-      "city": "Missoula",
-      "street": "4560 N Reserve St",
-      "last_checked": "Checked 25 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "-114.081539",
-        "46.757812",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "state": "MT",
-      "city": "Lolo",
-      "street": "11882 Hwy 93 South",
-      "last_checked": "Checked 25 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "-112.568431",
-        "39.352129",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "state": "UT",
-      "city": "Delta",
-      "street": "290 E Main St",
-      "last_checked": "Checked 25 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "-114.332432",
-        "48.199949",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "state": "MT",
-      "city": "Kalispell",
-      "street": "1110 Hwy 2 W",
-      "last_checked": "Checked 25 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "-112.648049",
-        "38.292877",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": false,
-      "state": "UT",
-      "city": "Beaver",
-      "street": "365 W 1400 N",
-      "last_checked": "Checked 25 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "-111.627079",
-        "35.19254",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "state": "AZ",
-      "city": "Flagstaff",
-      "street": "1940 E Butler",
-      "last_checked": "Checked 25 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "-110.798467",
-        "32.25848",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "state": "AZ",
-      "city": "Tucson",
-      "street": "9075 E Tanque Verde Rd",
-      "last_checked": "Checked 19 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
         "-111.030982",
         "32.134225",
         0
@@ -223,7 +14,7 @@
       "state": "AZ",
       "city": "Tucson",
       "street": "2990 W Valencia",
-      "last_checked": "Checked 11 minutes ago"
+      "last_checked": "Checked 30 minutes ago"
     },
     "type": "Feature"
   },
@@ -242,7 +33,7 @@
       "state": "AZ",
       "city": "Phoenix",
       "street": "3140 W Carefree Highway",
-      "last_checked": "Checked 5 minutes ago"
+      "last_checked": "Checked 24 minutes ago"
     },
     "type": "Feature"
   },
@@ -261,7 +52,7 @@
       "state": "AZ",
       "city": "Tempe",
       "street": "1740 E Elliot Rd",
-      "last_checked": "Checked 5 minutes ago"
+      "last_checked": "Checked 23 minutes ago"
     },
     "type": "Feature"
   },
@@ -280,7 +71,64 @@
       "state": "AZ",
       "city": "Phoenix",
       "street": "6005 S Central Ave",
-      "last_checked": "Checked 9 minutes ago"
+      "last_checked": "Checked 28 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-112.289675",
+        "33.492983",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": "AZ",
+      "city": "Avondale",
+      "street": "3925 N 107th Ave",
+      "last_checked": "Checked 10 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-117.171213",
+        "46.739599",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": "WA",
+      "city": "Pullman",
+      "street": "400 Stadium Way N",
+      "last_checked": "Checked 4 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-116.665949",
+        "43.648652",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": "ID",
+      "city": "Caldwell",
+      "street": "2923 Cleveland Blvd",
+      "last_checked": "Checked 4 minutes ago"
     },
     "type": "Feature"
   },
@@ -299,7 +147,26 @@
       "state": "NV",
       "city": "Las Vegas",
       "street": "836 N Nellis Blvd",
-      "last_checked": "Checked 10 minutes ago"
+      "last_checked": "Checked 29 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-115.116646",
+        "36.264736",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": "NV",
+      "city": "North Las Vegas",
+      "street": "5740 Losee Road",
+      "last_checked": "Checked 9 minutes ago"
     },
     "type": "Feature"
   },
@@ -318,102 +185,7 @@
       "state": "NV",
       "city": "Las Vegas",
       "street": "4400 E Charleston",
-      "last_checked": "Checked 10 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "-115.062298",
-        "36.112779",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": false,
-      "state": "NV",
-      "city": "Las Vegas",
-      "street": "5111 Boulder Hwy",
-      "last_checked": "Checked 26 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "-115.046683",
-        "36.064001",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "state": "NV",
-      "city": "Henderson",
-      "street": "601 N Stephanie",
-      "last_checked": "Checked 25 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "-115.128444",
-        "36.195247",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": false,
-      "state": "NV",
-      "city": "North Las Vegas",
-      "street": "1003 E Lake Mead Blvd",
-      "last_checked": "Checked 25 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "-115.160798",
-        "36.239955",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "state": "NV",
-      "city": "North Las Vegas",
-      "street": "1406 W Craig Rd",
-      "last_checked": "Checked 25 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "-115.168776",
-        "36.236827",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": false,
-      "state": "NV",
-      "city": "North Las Vegas",
-      "street": "1807 W Craig Rd",
-      "last_checked": "Checked 25 minutes ago"
+      "last_checked": "Checked 28 minutes ago"
     },
     "type": "Feature"
   },
@@ -432,83 +204,7 @@
       "state": "NV",
       "city": "Las Vegas",
       "street": "3229 E Tropicana Ave",
-      "last_checked": "Checked 8 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "-115.146667",
-        "36.172162",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "state": "NV",
-      "city": "Las Vegas",
-      "street": "1 S Main Street",
-      "last_checked": "Checked 25 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "-115.207138",
-        "36.279917",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": true,
-      "is_active": true,
-      "state": "NV",
-      "city": "Las Vegas",
-      "street": "6595 N Decatur Blvd",
-      "last_checked": "Checked 25 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "-115.115373",
-        "36.071926",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "state": "NV",
-      "city": "Las Vegas",
-      "street": "2550 E Sunset Rd",
-      "last_checked": "Checked 25 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "-115.162624",
-        "36.158525",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "state": "NV",
-      "city": "Las Vegas",
-      "street": "1601 W Charleston Blvd",
-      "last_checked": "Checked 25 minutes ago"
+      "last_checked": "Checked 26 minutes ago"
     },
     "type": "Feature"
   },
@@ -527,215 +223,6 @@
       "state": "NV",
       "city": "Las Vegas",
       "street": "4804 W Lone Mountain",
-      "last_checked": "Checked 6 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "-115.154446",
-        "36.122028",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "state": "NV",
-      "city": "Las Vegas",
-      "street": "3700 S Paradise Rd",
-      "last_checked": "Checked 25 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "-118.38751",
-        "45.931299",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "state": "OR",
-      "city": "Milton Freewater",
-      "street": "408 S Main St",
-      "last_checked": "Checked 25 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "-115.112948",
-        "36.006667",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "state": "NV",
-      "city": "Henderson",
-      "street": "10020 S Eastern",
-      "last_checked": "Checked 25 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "-115.172174",
-        "36.108489",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "state": "NV",
-      "city": "Las Vegas",
-      "street": "3717 S Las Vegas Blvd",
-      "last_checked": "Checked 25 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "-115.135282",
-        "36.012769",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": false,
-      "state": "NV",
-      "city": "Las Vegas",
-      "street": "1343 Silverado Ranch",
-      "last_checked": "Checked 25 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "-115.186314",
-        "36.100511",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "state": "NV",
-      "city": "Las Vegas",
-      "street": "3451 W Tropicana",
-      "last_checked": "Checked 25 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "-115.171403",
-        "36.056504",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "state": "NV",
-      "city": "Las Vegas",
-      "street": "7310 S Las Vegas Blvd",
-      "last_checked": "Checked 25 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "-115.233748",
-        "36.159499",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": false,
-      "state": "NV",
-      "city": "Las Vegas",
-      "street": "6360 W Charleston",
-      "last_checked": "Checked 25 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "-115.256453",
-        "36.181715",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "state": "NV",
-      "city": "Las Vegas",
-      "street": "7530 W Washington",
-      "last_checked": "Checked 25 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "-115.281423",
-        "36.218979",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": false,
-      "state": "NV",
-      "city": "Las Vegas",
-      "street": "8620 W Cheyenne Ave",
-      "last_checked": "Checked 25 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "-115.246403",
-        "36.122957",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": false,
-      "state": "NV",
-      "city": "Las Vegas",
-      "street": "3625 S Rainbow Blvd",
       "last_checked": "Checked 25 minutes ago"
     },
     "type": "Feature"
@@ -755,520 +242,7 @@
       "state": "NV",
       "city": "Las Vegas",
       "street": "10590 Southern Highlands Parkway",
-      "last_checked": "Checked 1 minute ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "-115.241972",
-        "36.061777",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "state": "NV",
-      "city": "Las Vegas",
-      "street": "6990 S Rainbow Road",
-      "last_checked": "Checked 25 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "-80.29361",
-        "43.13109",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "state": null,
-      "city": "Brantford",
-      "street": "440 Colborne Street West, Unit 1",
-      "last_checked": "Checked 25 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "-78.28535",
-        "43.96935",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "state": null,
-      "city": "Port Hope",
-      "street": "175 Rose Glen Road North",
-      "last_checked": "Checked 25 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "-80.51877",
-        "43.41584",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": false,
-      "state": null,
-      "city": "Kitchener",
-      "street": "(Wal-Mart) Kitchener, 1400 Ottawa Street S., Unit E",
-      "last_checked": "Checked 25 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "-81.27578",
-        "43.02816",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "state": null,
-      "city": "London",
-      "street": "103 Fanshawe Park Road East",
-      "last_checked": "Checked 25 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "-81.26537",
-        "42.99212",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "state": null,
-      "city": "London",
-      "street": "61 Oxford Street West",
-      "last_checked": "Checked 25 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "-81.26052",
-        "42.95979",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "state": null,
-      "city": "London",
-      "street": "462 Wharncliffe Road",
-      "last_checked": "Checked 25 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "-81.48424",
-        "43.36342",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "state": null,
-      "city": "Exeter",
-      "street": "261 Main Street North",
-      "last_checked": "Checked 25 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "-81.3957",
-        "44.42827",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": true,
-      "is_active": true,
-      "state": null,
-      "city": "Port Elgin",
-      "street": "278 Goderich Street",
-      "last_checked": "Checked 25 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "-81.61586",
-        "44.17485",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": false,
-      "state": null,
-      "city": "Kincardine",
-      "street": "792 Broadway Street",
-      "last_checked": "Checked 25 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "-77.85604",
-        "45.06239",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "state": null,
-      "city": "Bancroft",
-      "street": "141 Hastings Street North",
-      "last_checked": "Checked 25 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "-76.5726",
-        "44.26462",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": false,
-      "state": null,
-      "city": "Kingston",
-      "street": "(Wal-Mart) 1130 Midland Avenue ",
-      "last_checked": "Checked 25 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "-76.45471",
-        "44.2396",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "state": null,
-      "city": "Kingston",
-      "street": "Canadian Forces Base, 7 Niagara Park Dr Vimy Box Cfb Kingston",
-      "last_checked": "Checked 25 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "-82.40349",
-        "42.98021",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "state": null,
-      "city": "Sarnia",
-      "street": "411 Christina Street N.",
-      "last_checked": "Checked 25 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "-82.20596",
-        "42.38629",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "state": null,
-      "city": "Chatham",
-      "street": "710 Richmond Street",
-      "last_checked": "Checked 26 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "-76.14964",
-        "44.33847",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": false,
-      "state": null,
-      "city": "Gananoque",
-      "street": "670 King Street East",
-      "last_checked": "Checked 25 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "-79.45181",
-        "46.29055",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "state": null,
-      "city": "North Bay",
-      "street": "140 Lakeshore Dr.",
-      "last_checked": "Checked 25 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "-76.66662",
-        "45.47013",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "state": null,
-      "city": "Renfrew",
-      "street": "413 O'Brien Rd.",
-      "last_checked": "Checked 25 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "-77.2833",
-        "45.89826",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": false,
-      "state": null,
-      "city": "Petawawa",
-      "street": "3446 Petawawa Blvd",
-      "last_checked": "Checked 25 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "-79.9166",
-        "46.36614",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "state": null,
-      "city": "Sturgeon Falls",
-      "street": "195 Front Street",
-      "last_checked": "Checked 25 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "-82.72257",
-        "42.29309",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": true,
-      "is_active": true,
-      "state": null,
-      "city": "Belle River",
-      "street": "1635 Essex County Road 22 ",
-      "last_checked": "Checked 25 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "-82.86994",
-        "42.30979",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "state": null,
-      "city": "Tecumseh",
-      "street": "1631 Manning Road",
-      "last_checked": "Checked 25 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "-82.8458",
-        "42.17829",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": false,
-      "state": null,
-      "city": "Essex",
-      "street": "390 Maidstone Ave. West",
-      "last_checked": "Checked 25 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "-82.98937",
-        "42.30362",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "state": null,
-      "city": "Windsor",
-      "street": "2780 Tecumseh Rd E.,",
-      "last_checked": "Checked 25 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "-73.82188",
-        "45.63003",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": true,
-      "is_active": true,
-      "state": null,
-      "city": "Rosemère",
-      "street": "(Wal-Mart) 401, Boul. Curé-Labelle ",
-      "last_checked": "Checked 26 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "-73.80099",
-        "45.62353",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": false,
-      "state": null,
-      "city": "Rosemère",
-      "street": "190, Boul. Curé-Labelle",
-      "last_checked": "Checked 25 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "11.56532182",
-        "47.74827246",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "state": null,
-      "city": "Bad Tölz",
-      "street": "Demmeljochstr. 54",
-      "last_checked": "Checked 25 minutes ago"
+      "last_checked": "Checked 20 minutes ago"
     },
     "type": "Feature"
   }
