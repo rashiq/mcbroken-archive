@@ -2,196 +2,6 @@
   {
     "geometry": {
       "coordinates": [
-        "-122.475029",
-        "45.489834",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "state": "OR",
-      "city": "Gresham",
-      "street": "900 Sw Highland Dr",
-      "last_checked": "Checked 26 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "-122.556983",
-        "45.53381",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "state": "OR",
-      "city": "Portland",
-      "street": "1525 Ne 103rd Ave",
-      "last_checked": "Checked 18 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "-122.540558",
-        "45.430548",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "state": "OR",
-      "city": "Happy Valley",
-      "street": "11899 Se Sunnyside Road",
-      "last_checked": "Checked 23 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "-117.93008",
-        "33.917708",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "state": "CA",
-      "city": "Fullerton",
-      "street": "205 Imperial Hwy",
-      "last_checked": "Checked 18 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "-119.156275",
-        "36.29771",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "state": "CA",
-      "city": "Exeter",
-      "street": "1109 W Visalia Rd",
-      "last_checked": "Checked 23 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "-122.579604",
-        "45.48205",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "state": "OR",
-      "city": "Portland",
-      "street": "5613 Se 82nd Ave",
-      "last_checked": "Checked 15 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "-117.970972",
-        "33.913475",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "state": "CA",
-      "city": "La Habra",
-      "street": "1400 S Beach Blvd",
-      "last_checked": "Checked 13 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "-122.622445",
-        "45.5373",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "state": "OR",
-      "city": "Portland",
-      "street": "2010 Ne Cesar E Chavez Blvd",
-      "last_checked": "Checked 13 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "-122.648459",
-        "45.638879",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "state": "WA",
-      "city": "Vancouver",
-      "street": "2110 E 4th Plain Blvd",
-      "last_checked": "Checked 17 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "-122.635882",
-        "45.497723",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "state": "OR",
-      "city": "Portland",
-      "street": "2875 Se Powell Blvd",
-      "last_checked": "Checked 16 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
         "-122.628548",
         "45.443344",
         0
@@ -204,64 +14,7 @@
       "state": "OR",
       "city": "Milwaukie",
       "street": "10970 Se Oak St",
-      "last_checked": "Checked 11 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "-117.920792",
-        "33.760235",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "state": "CA",
-      "city": "Garden Grove",
-      "street": "13971 Harbor Blvd",
-      "last_checked": "Checked 14 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "-122.746794",
-        "45.911167",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "state": "WA",
-      "city": "Woodland",
-      "street": "1601 Pacific Ave",
-      "last_checked": "Checked 14 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "-122.680596",
-        "45.610169",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "state": "OR",
-      "city": "Portland",
-      "street": "12005 N Center St",
-      "last_checked": "Checked 14 minutes ago"
+      "last_checked": "Checked 30 minutes ago"
     },
     "type": "Feature"
   },
@@ -280,7 +33,7 @@
       "state": "CA",
       "city": "Anaheim",
       "street": "2411 West Ball Road",
-      "last_checked": "Checked 9 minutes ago"
+      "last_checked": "Checked 28 minutes ago"
     },
     "type": "Feature"
   },
@@ -299,26 +52,7 @@
       "state": "CA",
       "city": "Visalia",
       "street": "1401 E Noble Ave",
-      "last_checked": "Checked 8 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "-122.962506",
-        "46.678065",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": false,
-      "state": "WA",
-      "city": "Chehalis",
-      "street": "15 Ne Median",
-      "last_checked": "Checked 11 minutes ago"
+      "last_checked": "Checked 27 minutes ago"
     },
     "type": "Feature"
   },
@@ -337,63 +71,6 @@
       "state": "CA",
       "city": "Newport Beach",
       "street": "700 W Pacific Coast Hwy",
-      "last_checked": "Checked 7 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "-118.26815",
-        "34.070595",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "state": "CA",
-      "city": "Los Angeles",
-      "street": "405 N Alvarado St",
-      "last_checked": "Checked 29 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "-118.270819",
-        "34.05596",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "state": "CA",
-      "city": "Los Angeles",
-      "street": "1625 W Wilshire Blvd",
-      "last_checked": "Checked 27 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "-122.867108",
-        "45.53723",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "state": "OR",
-      "city": "Hillsboro",
-      "street": "2435 Nw Town Center Dr",
       "last_checked": "Checked 26 minutes ago"
     },
     "type": "Feature"
@@ -401,8 +78,46 @@
   {
     "geometry": {
       "coordinates": [
-        "-122.934544",
-        "45.53386",
+        "-119.329974",
+        "36.180937",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": false,
+      "state": "CA",
+      "city": "Tulare",
+      "street": "2710 S Blackstone St",
+      "last_checked": "Checked 17 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-119.348558",
+        "36.213331",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": false,
+      "state": "CA",
+      "city": "Tulare",
+      "street": "108 E Cross Ave",
+      "last_checked": "Checked 17 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-119.700686",
+        "36.808076",
         0
       ],
       "type": "Point"
@@ -410,10 +125,67 @@
     "properties": {
       "is_broken": false,
       "is_active": true,
-      "state": "OR",
-      "city": "Hillsboro",
-      "street": "1215 Ne 48th",
-      "last_checked": "Checked 15 minutes ago"
+      "state": "CA",
+      "city": "Clovis",
+      "street": "640 East Shaw Avenue",
+      "last_checked": "Checked 7 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-118.193136",
+        "33.847129",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": false,
+      "state": "CA",
+      "city": "Long Beach",
+      "street": "5020 Long Beach Blvd",
+      "last_checked": "Checked 3 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-118.282951",
+        "33.931297",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": "CA",
+      "city": "Los Angeles",
+      "street": "501 W Imperial Hwy",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-119.246638",
+        "35.776318",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": "CA",
+      "city": "Delano",
+      "street": "907 Cecil Ave",
+      "last_checked": "Checked 1 minute ago"
     },
     "type": "Feature"
   },
@@ -432,7 +204,8063 @@
       "state": "CA",
       "city": "Mcfarland",
       "street": "101 W Sherwood Avenue",
-      "last_checked": "Checked 8 minutes ago"
+      "last_checked": "Checked 27 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "13.51561834",
+        "52.60091905",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Ahrensfelde",
+      "street": "Karl-Marx-Str. 50",
+      "last_checked": "Checked 2 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "7.07651913",
+        "51.55175702",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": false,
+      "state": null,
+      "city": "Gelsenkirchen",
+      "street": "Adenauerallee 126a",
+      "last_checked": "Checked 2 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "6.15379997",
+        "50.80515722",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": false,
+      "state": null,
+      "city": "Würselen",
+      "street": "Adenauerstr. 21",
+      "last_checked": "Checked 2 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "8.72868117",
+        "48.54469866",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Nagold",
+      "street": "Haiterbacher Str. 68",
+      "last_checked": "Checked 2 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "7.01864584",
+        "50.94904419",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Köln",
+      "street": "Frankfurter Str. 236",
+      "last_checked": "Checked 2 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "13.2188873",
+        "52.53752638",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Berlin",
+      "street": "Am Juliusturm 40-46",
+      "last_checked": "Checked 2 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "8.42884296",
+        "49.33921472",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Speyer",
+      "street": "Wormser Landstr. 196",
+      "last_checked": "Checked 2 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "11.38888558",
+        "48.77566",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Ingolstadt",
+      "street": "Am Westpark 10",
+      "last_checked": "Checked 2 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "10.45287344",
+        "51.22311507",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Mühlhausen",
+      "street": "Ammersche Landstr. 146",
+      "last_checked": "Checked 2 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "11.98867099",
+        "51.18809524",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Weißenfels",
+      "street": "Heinrich-Hertz-Str. 2",
+      "last_checked": "Checked 2 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "8.22032031",
+        "50.049119",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Wiesbaden",
+      "street": "Hagenauer Str. 41",
+      "last_checked": "Checked 2 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "10.24038657",
+        "51.51722241",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Duderstadt",
+      "street": "Brandenburger Str. 1",
+      "last_checked": "Checked 2 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "13.62343952",
+        "52.50433373",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Berlin",
+      "street": "Alt-Mahlsdorf 60",
+      "last_checked": "Checked 2 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "9.22707254",
+        "48.47477962",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Pfullingen",
+      "street": "Max-Eyth-Str. 16",
+      "last_checked": "Checked 2 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "6.48324235",
+        "51.22372997",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": true,
+      "is_active": true,
+      "state": null,
+      "city": "Mönchengladbach",
+      "street": "Krefelder Str. 672",
+      "last_checked": "Checked 2 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "8.54715849",
+        "49.51478705",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": false,
+      "state": null,
+      "city": "Mannheim",
+      "street": "Rosslauer Weg 2-4",
+      "last_checked": "Checked 2 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "8.17952845",
+        "48.77636008",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Sinzheim",
+      "street": "Industriestr. 26",
+      "last_checked": "Checked 2 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "8.78020776",
+        "52.20582701",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": true,
+      "is_active": true,
+      "state": null,
+      "city": "Löhne",
+      "street": "Ringstr. 27",
+      "last_checked": "Checked 2 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "11.77798775",
+        "48.63299828",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Mainburg",
+      "street": "Straßäcker 2",
+      "last_checked": "Checked 2 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "9.75796026",
+        "48.51445085",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Merklingen",
+      "street": "Industriestr. 2",
+      "last_checked": "Checked 2 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "12.19395659",
+        "54.11413787",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Bentwisch",
+      "street": "Hansestr. 49",
+      "last_checked": "Checked 2 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "10.95814184",
+        "50.85617644",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": false,
+      "state": null,
+      "city": "Arnstadt",
+      "street": "Alfred-Ley-Str. 6a",
+      "last_checked": "Checked 2 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "11.31649496",
+        "50.96010275",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Weimar",
+      "street": "Berkaer Str. 73",
+      "last_checked": "Checked 2 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "8.41248293",
+        "52.8961572",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": true,
+      "is_active": true,
+      "state": null,
+      "city": "Wildeshausen",
+      "street": "Immelmannstr. 19",
+      "last_checked": "Checked 2 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "12.59131022",
+        "50.68026584",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Wildenfels",
+      "street": "Arno-Schmidt-Str. 28",
+      "last_checked": "Checked 2 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "11.48481164",
+        "51.76788955",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Aschersleben",
+      "street": "Güstener Str. 19",
+      "last_checked": "Checked 2 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "12.25975186",
+        "51.66729349",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Wolfen",
+      "street": "Krondorfer Str.",
+      "last_checked": "Checked 2 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "6.86466071",
+        "51.48344487",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Oberhausen",
+      "street": "Mülheimer Str. 22-24",
+      "last_checked": "Checked 2 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "7.35253761",
+        "51.442337",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": false,
+      "state": null,
+      "city": "Witten",
+      "street": "Dortmunder Str. 23",
+      "last_checked": "Checked 2 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "12.48672959",
+        "51.11464254",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": false,
+      "state": null,
+      "city": "Borna",
+      "street": "Am Wilhelmschacht 21",
+      "last_checked": "Checked 2 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "9.13375463",
+        "50.20310863",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Gründau",
+      "street": "Rudolf-Walther-Str. 2",
+      "last_checked": "Checked 2 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "6.88033226",
+        "51.49176286",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Oberhausen",
+      "street": "Centroallee 78",
+      "last_checked": "Checked 2 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "8.2812907",
+        "50.67433252",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Herborn",
+      "street": "Auf den Lüppen 3a",
+      "last_checked": "Checked 2 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "10.54856057",
+        "52.98663647",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Uelzen",
+      "street": "Nordallee 6",
+      "last_checked": "Checked 2 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "8.35623243",
+        "49.8468903",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Oppenheim",
+      "street": "Auf der Saar 13",
+      "last_checked": "Checked 2 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "8.06787122",
+        "52.84002184",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": false,
+      "state": null,
+      "city": "Cloppenburg",
+      "street": "Max-Planck-Str. 1",
+      "last_checked": "Checked 2 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "9.86108824",
+        "52.38092171",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Hannover",
+      "street": "Kreisstr. 2",
+      "last_checked": "Checked 2 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "12.39605951",
+        "50.49399824",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Auerbach",
+      "street": "Göltzschtalstr. 79",
+      "last_checked": "Checked 2 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "10.48317368",
+        "48.85444648",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Nördlingen",
+      "street": "Würzburger Str. 3",
+      "last_checked": "Checked 2 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "8.42181293",
+        "49.45170239",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Ludwigshafen am Rhein",
+      "street": "In der Mörschgewanne 12/16",
+      "last_checked": "Checked 2 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "12.53335115",
+        "52.43325425",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Brandenburg a.d. Havel",
+      "street": "Rathenower Landstr.",
+      "last_checked": "Checked 2 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "13.04901592",
+        "54.32031487",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Stralsund",
+      "street": "Grünhufer Bogen 9",
+      "last_checked": "Checked 2 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "9.94104348",
+        "49.76848212",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Würzburg",
+      "street": "Mergentheimer Str. 31",
+      "last_checked": "Checked 2 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "11.72827402",
+        "49.17639161",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Parsberg",
+      "street": "Im Grund 2",
+      "last_checked": "Checked 2 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "13.69231443",
+        "51.08541183",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Dresden",
+      "street": "Peschelstr. 38",
+      "last_checked": "Checked 2 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "12.44446261",
+        "50.84177638",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Meerane",
+      "street": "Hohe Str. 15",
+      "last_checked": "Checked 2 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "11.07706696",
+        "51.88062458",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Halberstadt",
+      "street": "Im Sülzeteiche 9",
+      "last_checked": "Checked 2 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "8.3537968",
+        "52.19037027",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Melle",
+      "street": "Industriestr. 14",
+      "last_checked": "Checked 2 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "11.17908402",
+        "54.44275092",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Burg auf Fehmarn",
+      "street": "Mummendorfer Weg 5",
+      "last_checked": "Checked 2 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "9.20433022",
+        "48.08718983",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Sigmaringen",
+      "street": "In den Käppeleswiesen 8",
+      "last_checked": "Checked 2 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "9.30890335",
+        "48.71312318",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Ostfildern",
+      "street": "Felix-Wankel-Str. 5",
+      "last_checked": "Checked 2 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "7.31425187",
+        "51.29868821",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Ennepetal",
+      "street": "Kölner Str. 306",
+      "last_checked": "Checked 2 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "13.64452315",
+        "52.54354018",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": true,
+      "is_active": true,
+      "state": null,
+      "city": "Hönow",
+      "street": "Altlandsberger Chaussee",
+      "last_checked": "Checked 2 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "11.40496791",
+        "53.65149259",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Schwerin",
+      "street": "Wismarsche Str. 378",
+      "last_checked": "Checked 2 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "10.94313434",
+        "51.80637597",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Blankenburg",
+      "street": "Lerchenbreite 48",
+      "last_checked": "Checked 2 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "9.43110707",
+        "48.64461289",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Kirchheim unter Teck",
+      "street": "Marie-Curie-Str. 2",
+      "last_checked": "Checked 2 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "6.54052588",
+        "51.34745323",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Krefeld",
+      "street": "Kleinewefersstr. 48",
+      "last_checked": "Checked 2 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "9.1651894",
+        "49.98797229",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Aschaffenburg",
+      "street": "Schönbornstr. 50",
+      "last_checked": "Checked 2 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "13.39417836",
+        "54.07257301",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Greifswald",
+      "street": "An der Thronpost 1",
+      "last_checked": "Checked 2 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "10.06835243",
+        "49.18182116",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": true,
+      "is_active": true,
+      "state": null,
+      "city": "Satteldorf",
+      "street": "Marco-Polo-Str. 1",
+      "last_checked": "Checked 2 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "11.58305934",
+        "50.92783545",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": true,
+      "is_active": true,
+      "state": null,
+      "city": "Jena",
+      "street": "Leutragraben 8",
+      "last_checked": "Checked 2 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "8.85943897",
+        "51.28036021",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Korbach",
+      "street": "An der Kuhbach 4",
+      "last_checked": "Checked 2 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "12.97866584",
+        "52.53974494",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Wustermark",
+      "street": "Alter Spandauer Weg 5a",
+      "last_checked": "Checked 2 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "11.28787389",
+        "49.51502838",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Lauf a.d. Pegnitz",
+      "street": "Hersbrucker Str. 54",
+      "last_checked": "Checked 2 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "6.66419958",
+        "51.66225088",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Wesel am Rhein",
+      "street": "Schermbecker Landstr. 119",
+      "last_checked": "Checked 2 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "13.54369869",
+        "52.55285589",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Berlin",
+      "street": "Bitterfelder Str. 9",
+      "last_checked": "Checked 2 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "11.95312132",
+        "51.52252367",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": false,
+      "state": null,
+      "city": "Halle",
+      "street": "Magdeburger Chaussee 10",
+      "last_checked": "Checked 2 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "7.5011172",
+        "50.44250716",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Neuwied",
+      "street": "Junkerstücke 4",
+      "last_checked": "Checked 2 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "14.31960848",
+        "51.77837178",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Cottbus",
+      "street": "Heinrich-Hertz-Str. 1",
+      "last_checked": "Checked 2 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "14.00861239",
+        "51.52739715",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Senftenberg",
+      "street": "Güterbahnhofstr. 33",
+      "last_checked": "Checked 2 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "12.96043233",
+        "48.85116352",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Deggendorf",
+      "street": "Graflingerstr. 180",
+      "last_checked": "Checked 2 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "7.17024133",
+        "51.92860352",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": false,
+      "state": null,
+      "city": "Coesfeld",
+      "street": "Dülmener Str. 106",
+      "last_checked": "Checked 2 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "13.53162812",
+        "52.50988256",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Berlin",
+      "street": "Alt-Friedrichsfelde 61",
+      "last_checked": "Checked 2 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "13.26069226",
+        "53.51878657",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Neubrandenburg",
+      "street": "Akeleiweg 3",
+      "last_checked": "Checked 2 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "7.6073411",
+        "51.23896228",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Lüdenscheid",
+      "street": "Brockhauser Weg 97",
+      "last_checked": "Checked 2 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "6.81684181",
+        "51.23463644",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Düsseldorf",
+      "street": "Grafenberger Allee 258",
+      "last_checked": "Checked 2 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "7.07480655",
+        "50.74237069",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": false,
+      "state": null,
+      "city": "Bonn",
+      "street": "Bornheimer Str. 232",
+      "last_checked": "Checked 2 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "6.75243904",
+        "51.16352137",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Neuss",
+      "street": "Sperberweg 22",
+      "last_checked": "Checked 2 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "12.40051788",
+        "51.39983146",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Leipzig",
+      "street": "Handelsstr. 1",
+      "last_checked": "Checked 2 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "8.03717776",
+        "50.37292002",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Diez",
+      "street": "Nikolaus-Otto-Str. 11",
+      "last_checked": "Checked 2 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "8.05891757",
+        "52.20581763",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Georgsmarienhütte",
+      "street": "Klöcknerstr. 14",
+      "last_checked": "Checked 2 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "13.73435782",
+        "51.294714",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Thiendorf",
+      "street": "Am Fiebig 1",
+      "last_checked": "Checked 2 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "9.53218233",
+        "50.3875431",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": true,
+      "is_active": true,
+      "state": null,
+      "city": "Schlüchtern",
+      "street": "Distelrasen",
+      "last_checked": "Checked 2 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "10.07626512",
+        "49.66464033",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Ochsenfurt",
+      "street": "Marktbreiter Str. 54",
+      "last_checked": "Checked 2 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "9.6932979",
+        "49.1030765",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Michelfeld",
+      "street": "Daimlerstr. 72",
+      "last_checked": "Checked 2 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "12.45071893",
+        "53.15728541",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Wittstock",
+      "street": "Hamburger Str. 7",
+      "last_checked": "Checked 2 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "13.69666146",
+        "52.84182818",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Finowfurt",
+      "street": "An der B167",
+      "last_checked": "Checked 2 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "10.9654202",
+        "49.58427635",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Erlangen",
+      "street": "Gundstr. 4",
+      "last_checked": "Checked 2 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "10.9883556",
+        "51.01279191",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Erfurt",
+      "street": "Dubliner Str. 20",
+      "last_checked": "Checked 2 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "9.84655999",
+        "53.47367108",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Hamburg",
+      "street": "Cuxhavener Str. 382",
+      "last_checked": "Checked 2 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "13.24586385",
+        "52.7656353",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": true,
+      "is_active": true,
+      "state": null,
+      "city": "Oranienburg",
+      "street": "Sachsenhausener Str. 23",
+      "last_checked": "Checked 2 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "8.86565988",
+        "52.02868891",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Lemgo",
+      "street": "Liemer Weg 78",
+      "last_checked": "Checked 2 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "11.34159333",
+        "49.38200387",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Altdorf",
+      "street": "Prackenfelser Str. 14",
+      "last_checked": "Checked 2 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "12.34587744",
+        "47.84415979",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Prien am Chiemsee",
+      "street": "Am Reitbach 4",
+      "last_checked": "Checked 2 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "11.10377894",
+        "49.24782615",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Roth",
+      "street": "Allersberger Str. 81",
+      "last_checked": "Checked 2 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "7.32711647",
+        "52.49780874",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Lingen",
+      "street": "Zum Heidhof 22",
+      "last_checked": "Checked 2 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "12.78220485",
+        "52.16041944",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Linthe",
+      "street": "Westfalenstr. 3",
+      "last_checked": "Checked 2 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "8.56475283",
+        "52.03447941",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Bielefeld",
+      "street": "Eckendorfer Str. 58",
+      "last_checked": "Checked 2 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "8.13063087",
+        "49.19262204",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Landau in der Pfalz",
+      "street": "Johannes-Kopp-Str. 4",
+      "last_checked": "Checked 2 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "6.21149269",
+        "51.32748024",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Nettetal",
+      "street": "An der Landwehr 8",
+      "last_checked": "Checked 2 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "8.80027459",
+        "50.02037488",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Dietzenbach",
+      "street": "Karl-Benz-Str. 5",
+      "last_checked": "Checked 2 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "12.19328113",
+        "53.81487756",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Güstrow",
+      "street": "Lindbruch 4",
+      "last_checked": "Checked 2 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "10.98824252",
+        "52.24087976",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Helmstedt",
+      "street": "Dieselstr. 18",
+      "last_checked": "Checked 2 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "11.8291937",
+        "53.41812257",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Parchim",
+      "street": "Am Sportplatz 17-19",
+      "last_checked": "Checked 2 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "7.05459648",
+        "51.18496267",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": false,
+      "state": null,
+      "city": "Solingen",
+      "street": "Frankfurter Damm 18",
+      "last_checked": "Checked 2 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "13.54708084",
+        "52.43188223",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Berlin",
+      "street": "Adlergestell 289a",
+      "last_checked": "Checked 2 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "6.91408758",
+        "50.84518006",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": false,
+      "state": null,
+      "city": "Brühl",
+      "street": "Hamburger Str. 12",
+      "last_checked": "Checked 2 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "11.20235349",
+        "47.69129076",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Murnau am Staffelsee",
+      "street": "Strassäcker 22",
+      "last_checked": "Checked 2 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "8.80632284",
+        "53.02911018",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Stuhr",
+      "street": "Bremer Str. 107",
+      "last_checked": "Checked 2 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "6.60660532",
+        "51.53606399",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": false,
+      "state": null,
+      "city": "Rheinberg",
+      "street": "An der Neuweide 33",
+      "last_checked": "Checked 2 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "12.66520804",
+        "51.89029993",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Lutherstadt Wittenberg",
+      "street": "Berliner Chaussee 71",
+      "last_checked": "Checked 2 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "12.93708015",
+        "52.3647527",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Werder",
+      "street": "Obstzüchterstr. 1",
+      "last_checked": "Checked 2 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "8.28370071",
+        "52.71068907",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Vechta",
+      "street": "Friesenstr. 1",
+      "last_checked": "Checked 2 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "13.08740031",
+        "52.38275388",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Potsdam",
+      "street": "Horstweg 53B",
+      "last_checked": "Checked 2 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "9.75310648",
+        "50.68893469",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Hünfeld",
+      "street": "Carl-Zeiss-Str. 4",
+      "last_checked": "Checked 2 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "13.11972977",
+        "51.15310706",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Großweitzschen",
+      "street": "Heiterer Blick 1",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "8.48254558",
+        "49.59401474",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Lampertheim",
+      "street": "Industriestr. 34 A",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "8.47457408",
+        "53.50354635",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Nordenham",
+      "street": "An der Sielbrücke 3",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "14.45424047",
+        "51.19029513",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Bautzen",
+      "street": "Kreckwitzer Str. 3",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "8.25538678",
+        "47.62169557",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Waldshut-Tiengen",
+      "street": "Von-Opel-Str. 2b",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "8.480833",
+        "50.584167",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": false,
+      "state": null,
+      "city": "Aßlar",
+      "street": "Walbergraben 20",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "9.1474501",
+        "48.83811298",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Stuttgart",
+      "street": "Wollinstr. 6",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "8.59912653",
+        "50.13651807",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Frankfurt am Main",
+      "street": "Guerickestr. 12",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "8.3711224",
+        "49.22748245",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Germersheim",
+      "street": "Mainzer Str.2",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "7.11332846",
+        "50.81842935",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Troisdorf",
+      "street": "Echternacher Str. 6",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "7.42391035",
+        "50.43479986",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Andernach",
+      "street": "Hans-Julius-Ahlmann-Str. 1",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "7.17470068",
+        "51.39906794",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Hattingen",
+      "street": "Kreisstr. 29a",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "11.11544934",
+        "49.48101396",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Nürnberg",
+      "street": "Haeberleinstr. 4",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "11.14288055",
+        "49.42768541",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Nürnberg",
+      "street": "Regensburger Str. 416",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "7.93341552",
+        "53.2524149",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Westerstede",
+      "street": "Ammerlandallee 16",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "10.16719575",
+        "48.00078595",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Memmingen",
+      "street": "Rudolf-Diesel-Str. 17",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "10.87256945",
+        "49.9178656",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": true,
+      "is_active": true,
+      "state": null,
+      "city": "Hallstadt",
+      "street": "Emil-Kemmer-Str. 21",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "10.41133949",
+        "50.58985785",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Meiningen",
+      "street": "Leipziger Str. 110",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "12.3797154",
+        "51.34525343",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Leipzig",
+      "street": "Willy-Brandt-Platz",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "9.2763376",
+        "51.12124047",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Fritzlar",
+      "street": "Alte Wildunger Str. 6",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "10.01838963",
+        "51.19720202",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": false,
+      "state": null,
+      "city": "Eschwege",
+      "street": "Landstr. 6",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "9.24087105",
+        "50.7338042",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Alsfeld",
+      "street": "Rasthof Pfefferhöhe",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "9.01645698",
+        "51.72023593",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Bad Driburg",
+      "street": "Dringenberger Str. 91",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "6.99765792",
+        "51.46157771",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": false,
+      "state": null,
+      "city": "Essen",
+      "street": "Hans-Böckler-Str. 70",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "9.24735744",
+        "52.23359708",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Auetal",
+      "street": "Altes Feld 16",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "8.69507039",
+        "49.27439405",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": true,
+      "is_active": true,
+      "state": null,
+      "city": "Rauenberg",
+      "street": "Hohenaspen 38",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "13.48936504",
+        "51.16522833",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Meißen",
+      "street": "Fabrikstr. 12",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "12.310159",
+        "51.32770594",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Leipzig",
+      "street": "Saarländer Str. 2",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "11.71975139",
+        "53.00423835",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Wittenberge",
+      "street": "Lenzener Chaussee 21",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "9.93202101",
+        "51.55304184",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Göttingen",
+      "street": "Hannoversche Str. 38",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "8.7459173",
+        "50.1393667",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Frankfurt am Main",
+      "street": "Borsigallee 33",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "7.13634074",
+        "49.26848148",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "St. Ingbert",
+      "street": "Südstr. 1/60",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "9.94532873",
+        "54.65674325",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Kappeln",
+      "street": "Eckernförder Str. 9b",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "9.12083656",
+        "53.9001714",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Brunsbüttel",
+      "street": "Olof-Palme-Allee 4",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "10.58450182",
+        "49.57743306",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Neustadt an der Aisch",
+      "street": "Karl-Eibl-Str. 41",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "12.6639045",
+        "49.20241725",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": true,
+      "is_active": true,
+      "state": null,
+      "city": "Cham",
+      "street": "Werner-von-Siemens-Str. 35",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "8.03671847",
+        "48.6412336",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Achern",
+      "street": "Am Achernsee 4",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "6.68222056",
+        "51.18330784",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Neuss",
+      "street": "Moselstr. 4",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "12.22251374",
+        "49.93638945",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Mitterteich",
+      "street": "Ludwig-Erhard-Str. 9",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "10.21872208",
+        "53.33915473",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Winsen",
+      "street": "Max-Planck-Str. 12",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "9.79744511",
+        "52.3175084",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Laatzen",
+      "street": "Karlsruher Str. 12a",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "10.37858504",
+        "52.04989135",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Salzgitter",
+      "street": "Am Pfingstanger 20",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "13.46836746",
+        "52.54706399",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Berlin",
+      "street": "Hansastr. 1",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "12.80198652",
+        "48.16281112",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Burghausen",
+      "street": "Gewerbepark Lindach C",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "11.1704507",
+        "48.71987453",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Neuburg a.d. Donau",
+      "street": "Am Südpark 3",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "10.22125363",
+        "53.6635374",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Ahrensburg",
+      "street": "Hamburger Str. 159",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "8.40074134",
+        "48.99408996",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Karlsruhe",
+      "street": "Bahnhofplatz 1",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "12.49811345",
+        "51.26573836",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Großpösna",
+      "street": "Grimmaische Str.",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "13.20440962",
+        "52.65253672",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Hennigsdorf",
+      "street": "Veltenerstr. 16",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "13.88295676",
+        "53.30449482",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Prenzlau",
+      "street": "Angermünder Str. 7",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "12.68122145",
+        "48.67785359",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Landau a.d. Isar",
+      "street": "Harburger Str. 25",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "9.76242083",
+        "49.49544793",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Bad Mergentheim",
+      "street": "Max-Eyth-Str. 14",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "11.83137125",
+        "51.14506975",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Naumburg",
+      "street": "Steinkreuzweg",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "10.32880934",
+        "49.06799775",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": false,
+      "state": null,
+      "city": "Dinkelsbühl",
+      "street": "Luitpoldstr. 25",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "8.73446727",
+        "50.10728099",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Offenbach am Main",
+      "street": "Strahlenbergerstr. 103",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "13.60298815",
+        "52.31736346",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Wildau",
+      "street": "Gewerbepark 2",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "12.97122898",
+        "51.56157274",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Torgau",
+      "street": "Aussenring 5",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "13.33247318",
+        "50.89569856",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": false,
+      "state": null,
+      "city": "Freiberg",
+      "street": "Häuersteig 8a",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "8.43946016",
+        "51.88128934",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Gütersloh",
+      "street": "An der Autobahn 1",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "12.22216501",
+        "48.04907818",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Wasserburg am Inn",
+      "street": "Bernd-Motzkus-Str. 1",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "13.31183723",
+        "48.39496021",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Pocking",
+      "street": "Bgm.-Wenig-Str. 1",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "13.7434498",
+        "52.42817421",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Erkner",
+      "street": "Berliner Str. 12",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "6.96805904",
+        "51.65787809",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Dorsten",
+      "street": "Europaplatz 1",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "13.13695257",
+        "48.96528815",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Regen",
+      "street": "Wieshof 1",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "11.14407415",
+        "50.33987937",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Neustadt",
+      "street": "Mühlweg 2",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "7.05332064",
+        "50.91180091",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Köln",
+      "street": "Edmund-Rumpler-Str. 1",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "6.99814874",
+        "50.92224005",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": true,
+      "is_active": true,
+      "state": null,
+      "city": "Köln",
+      "street": "Rolshover Str. 380",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "6.13756959",
+        "50.91980653",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Übach-Palenberg",
+      "street": "F.-W. Raiffeisen-Str. 30",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "11.08808421",
+        "53.09159055",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Dannenberg",
+      "street": "Develangring 73",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "9.86712239",
+        "52.15995544",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Giesen",
+      "street": "Gutenbergstr. 1-3",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "8.58917236",
+        "51.66666845",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Salzkotten",
+      "street": "Geseker Str. 78",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "8.29452235",
+        "50.48143634",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Weilburg",
+      "street": "Viehweg 10",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "7.40871401",
+        "49.73869573",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Idar-Oberstein",
+      "street": "Fischbacher Str. 2",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "9.58702545",
+        "49.77083681",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Wertheim am Main",
+      "street": "Almosenberg 3",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "11.09639497",
+        "53.49947615",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Wittenburg",
+      "street": "Rudolf-Diesel-Str. 4",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "11.7530991",
+        "48.38137154",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Freising",
+      "street": "Clemensänger Ring 1",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "6.80575308",
+        "50.65151285",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Euskirchen",
+      "street": "Von-Siemens-Str. 6",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "6.95139646",
+        "51.25325781",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": false,
+      "state": null,
+      "city": "Mettmann",
+      "street": "Rudolf-Diesel-Str. 1",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "9.11588643",
+        "49.33749514",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": false,
+      "state": null,
+      "city": "Mosbach",
+      "street": "An der B 27",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "7.28199331",
+        "51.29171814",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Schwelm",
+      "street": "Talstr. 25",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "8.78353467",
+        "52.68444838",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Sulingen",
+      "street": "Friedrich-Tietjen-Str. 17",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "9.77143089",
+        "49.95644262",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Karlstadt",
+      "street": "Würzburger Str.1",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "10.13854228",
+        "51.9469868",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Seesen",
+      "street": "Am Zainer Berg 1",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "11.17179826",
+        "52.84109687",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Salzwedel",
+      "street": "Magdeburger Str.7a",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "9.78981125",
+        "50.96228975",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Bebra",
+      "street": "Gottlieb-Daimler-Str. 6",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "8.77637303",
+        "48.91980862",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": true,
+      "is_active": true,
+      "state": null,
+      "city": "Niefern-Öschelbronn",
+      "street": "Enztalstr. 2",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "9.39605794",
+        "53.11660396",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": false,
+      "state": null,
+      "city": "Rotenburg",
+      "street": "Rönnebrocksweg 3/13",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "8.68110922",
+        "50.4361016",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Butzbach",
+      "street": "Griedeler Str. 77",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "11.00236766",
+        "49.82044935",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": false,
+      "state": null,
+      "city": "Hirschaid",
+      "street": "Industriestr. 17",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "7.91145175",
+        "50.9119216",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Freudenberg",
+      "street": "Bühler Höhe 1",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "7.81259351",
+        "48.57683682",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Kehl",
+      "street": "Königsbergerstr. 17",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "6.6383855",
+        "51.21714747",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Kaarst",
+      "street": "Neersener Str. 4",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "8.81663511",
+        "50.11873",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Mühlheim am Main",
+      "street": "Borsigstr. 1",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "10.64167726",
+        "47.89989657",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Kaufbeuren",
+      "street": "Sudetenstr. 14",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "8.01084721",
+        "49.10248904",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": false,
+      "state": null,
+      "city": "Bad Bergzabern",
+      "street": "Kapeller Str. 1g",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "7.38171426",
+        "53.08365536",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Papenburg",
+      "street": "Deverweg 45",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "7.00714869",
+        "50.97648746",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Köln",
+      "street": "Clevischer Ring",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "6.86353296",
+        "51.84957362",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Borken",
+      "street": "Bahnhofstr. 26",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "8.59776872",
+        "49.67248065",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Bensheim",
+      "street": "Wormser Str. 101",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "8.76849532",
+        "50.83234797",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Marburg",
+      "street": "Afföllerstr. 102",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "6.99047591",
+        "49.23970101",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Saarbrücken",
+      "street": "Reichsstr. 1",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "8.6085118",
+        "49.901191",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": false,
+      "state": null,
+      "city": "Weiterstadt",
+      "street": "Rudolf-Diesel-Str. 28",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "6.84608714",
+        "51.16607264",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Düsseldorf",
+      "street": "Am Trippelsberg 4",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "8.48054613",
+        "51.98009506",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Bielefeld",
+      "street": "Im Brocke 43",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "8.77951605",
+        "51.0601971",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Frankenberg",
+      "street": "Ruhrstr. 17",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "6.62602812",
+        "49.44265163",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Merzig",
+      "street": "Saarwiesenring 2",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "7.63635866",
+        "50.88597658",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Waldbröl",
+      "street": "Wiehler Str. 22",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "6.2213787",
+        "50.77893985",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Stolberg",
+      "street": "Eisenbahnstr. 11",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "10.14382193",
+        "53.57063775",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Hamburg",
+      "street": "Barsbütteler Str. 45",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "7.00389963",
+        "51.16147009",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Solingen",
+      "street": "Bahnstr. 5",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "8.29553413",
+        "48.82259803",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Gaggenau",
+      "street": "Murgtalstr. 1",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "8.03232417",
+        "51.14739363",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Lennestadt",
+      "street": "Elsper Str. 42",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "11.35895896",
+        "47.76581896",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Penzberg",
+      "street": "Seeshaupter Str. 56",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "8.45034665",
+        "49.55050407",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Mannheim",
+      "street": "Viernheimer Weg 23",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "6.78490525",
+        "49.28559583",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Bous",
+      "street": "Saarbrücker Str. 213",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "8.70224846",
+        "53.01178814",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Stuhr",
+      "street": "Am Schwarzen Moor 3",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "9.41670785",
+        "52.42844471",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Wunstorf",
+      "street": "An der Nonnenwiese 1a",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "13.23338811",
+        "52.52702566",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Berlin",
+      "street": "Charlottenburger Chaussee 49",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "7.90701465",
+        "53.58048867",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Jever",
+      "street": "Am Bullhamm 1a",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "7.52771636",
+        "51.6162579",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Lünen",
+      "street": "Engelswiese 4",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "10.10723336",
+        "52.60125292",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Celle",
+      "street": "Siedemeierkamp 3",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "13.28621312",
+        "52.5842352",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": true,
+      "is_active": true,
+      "state": null,
+      "city": "Berlin",
+      "street": "Am Borsigturm 2",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "13.30633556",
+        "52.50649214",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Berlin",
+      "street": "Kantstr. 111a",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "6.15322196",
+        "50.75986373",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": false,
+      "state": null,
+      "city": "Aachen",
+      "street": "Debyestr. 39",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "6.21680237",
+        "51.05300074",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": false,
+      "state": null,
+      "city": "Hückelhoven",
+      "street": "Roermonder Str. 20",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "6.41527594",
+        "51.37773621",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Kempen",
+      "street": "Otto-Schott-Str. 15",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "11.06187161",
+        "49.42813319",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Nürnberg",
+      "street": "Heisterstr. 1",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "10.96168793",
+        "49.01749771",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Weißenburg",
+      "street": "Augsburger Str. 75",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "8.35316635",
+        "49.5461409",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": false,
+      "state": null,
+      "city": "Frankenthal",
+      "street": "Wormser Str. 105",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "9.76614747",
+        "48.78980962",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Schwäbisch Gmünd",
+      "street": "Lorcher Str. 183",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "6.96905701",
+        "50.97944909",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Köln",
+      "street": "Amsterdamerstr. 236",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "7.37238827",
+        "51.19829325",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Radevormwald",
+      "street": "Wasserturmstr. 12",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "8.95049084",
+        "47.74788693",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Radolfzell am Bodensee",
+      "street": "Robert-Gerwig-Str. 27",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "11.53118379",
+        "48.04749597",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Grünwald",
+      "street": "Südliche Münchner Str. 34a",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "10.11715316",
+        "50.0032783",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Werneck",
+      "street": "Am Eschenbach 3",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "8.79220304",
+        "47.85640613",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": false,
+      "state": null,
+      "city": "Engen",
+      "street": "Jahnstr. 45",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "8.98098272",
+        "50.43118932",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Nidda",
+      "street": "Zeppelinstr. 3",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "10.79079819",
+        "51.85216199",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Wernigerode",
+      "street": "Dornbergsweg 38a",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "11.843159",
+        "52.25890304",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": false,
+      "state": null,
+      "city": "Burg",
+      "street": "Magdeburger Chaussee 81",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "14.2711616",
+        "53.06493576",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Schwedt",
+      "street": "Handelsstraße 1b",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "9.6153133",
+        "52.43074893",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Garbsen",
+      "street": "Bremer Str. 4a",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "9.26406784",
+        "49.70658846",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Bürgstadt",
+      "street": "Am Stadtweg 1",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "7.10231906",
+        "51.64472549",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Marl",
+      "street": "Freerbruchstr. 36",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "9.58482698",
+        "50.00166156",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Lohr am Main",
+      "street": "Jahnstr. 87",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "13.52604007",
+        "48.8084879",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Freyung",
+      "street": "Ort 38",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "7.90112767",
+        "51.56269276",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Werl",
+      "street": "Neuwerk 2a",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "8.74227284",
+        "50.19074021",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": true,
+      "is_active": true,
+      "state": null,
+      "city": "Bad Vilbel",
+      "street": "Friedberger Str. 89a",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "9.36328051",
+        "48.81446586",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Weinstadt",
+      "street": "Kalkofenstr. 18",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "6.42012116",
+        "51.13992143",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Mönchengladbach",
+      "street": "Adolf-Kempken-Weg 121",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "9.82447265",
+        "47.69823097",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": false,
+      "state": null,
+      "city": "Wangen",
+      "street": "Ravensburger Str. 100",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "9.51248624",
+        "53.91935013",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": true,
+      "is_active": true,
+      "state": null,
+      "city": "Itzehoe",
+      "street": "Am Brookhafen 6",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "7.27012653",
+        "50.38177443",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Mendig",
+      "street": "Ludwig-Erhard-Str. 1",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "7.99769971",
+        "51.33752867",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": false,
+      "state": null,
+      "city": "Sundern",
+      "street": "Schweinsohl 2",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "10.08259142",
+        "48.50075852",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Langenau",
+      "street": "Magirusstr. 14",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "10.88447689",
+        "48.34486735",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Augsburg",
+      "street": "Edisonstr. 12a",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "8.46545465",
+        "48.06861502",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Villingen-Schwenningen",
+      "street": "Milanstr. 4",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "10.27115015",
+        "53.48886924",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Wentorf",
+      "street": "Immenberg 2",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "8.74855269",
+        "52.86026214",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": false,
+      "state": null,
+      "city": "Bassum",
+      "street": "Industriestr. 23",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "10.58290936",
+        "49.30290498",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Ansbach",
+      "street": "Nürnberger Str. 42a",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "8.52891711",
+        "48.0316623",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Bad Dürrheim",
+      "street": "Carl-Friedrich-Benz-Str. 15",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "10.73478073",
+        "53.7002408",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Ratzeburg",
+      "street": "Am Rackerschlag 2",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "7.11070669",
+        "50.54577114",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": true,
+      "is_active": true,
+      "state": null,
+      "city": "Bad Neuenahr-Ahrweiler",
+      "street": "Wilhelmstr. 50-56",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "7.54496692",
+        "52.16375487",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Emsdetten",
+      "street": "Grevener Damm 121",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "7.2277663",
+        "50.63060886",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Bad Honnef",
+      "street": "Wittichenauer Str. 3",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "11.3465654",
+        "48.00239515",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Starnberg",
+      "street": "Münchner Str. 10",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "9.01826718",
+        "48.7849762",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": false,
+      "state": null,
+      "city": "Leonberg",
+      "street": "Neue Ramtelstr. 9",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "9.80198155",
+        "48.0845186",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": true,
+      "is_active": true,
+      "state": null,
+      "city": "Biberach a.d. Riß",
+      "street": "Leipzigstr. 39",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "9.62670782",
+        "52.26650475",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Wennigsen",
+      "street": "Im Büntefeld 2",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "6.79478571",
+        "51.25207041",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": false,
+      "state": null,
+      "city": "Düsseldorf",
+      "street": "Mercedesstr. 13",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "9.22623369",
+        "49.17870945",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Neckarsulm",
+      "street": "Heiner-Fleischmann-Str. 1/1",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "9.97813248",
+        "53.10077653",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Bispingen",
+      "street": "Horstfeldweg 3",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "8.95243665",
+        "48.4797776",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Rottenburg am Neckar",
+      "street": "Wilhelm-Maybach-Str. 9",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "6.69906117",
+        "51.2254661",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Düsseldorf",
+      "street": "Burgunderstr. 51-53",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "6.96444666",
+        "51.5665871",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Gladbeck",
+      "street": "Rockwoolstr. 6",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "7.18769023",
+        "50.8850517",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Rösrath",
+      "street": "Otto-Brenner-Str. 2",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "10.60469062",
+        "47.77351555",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Marktoberdorf",
+      "street": "Brückenstr. 5",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "10.23815657",
+        "51.73305793",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Osterode am Harz",
+      "street": "Petershütter Allee 4",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "9.94416872",
+        "53.7423794",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Quickborn",
+      "street": "Auf dem Halenberg",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "13.01062288",
+        "50.59185744",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Annaberg-Buchholz",
+      "street": "Chemnitzer Str. 36",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "12.78472153",
+        "52.91792719",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Neuruppin",
+      "street": "Neustädterstr. 27",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "7.59295613",
+        "47.9082505",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Hartheim",
+      "street": "Rastanlage Bremgarten 2",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "7.85054666",
+        "53.0148535",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Friesoythe",
+      "street": "Huntestr. 2",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "7.17411529",
+        "49.34365479",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Neunkirchen",
+      "street": "Boxbergweg 1",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "13.37128112",
+        "52.46964819",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Berlin",
+      "street": "Alboinstr. 4",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "9.57821806",
+        "47.66458069",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": false,
+      "state": null,
+      "city": "Tettnang",
+      "street": "Dr.-Klein-Str. 7",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "9.27799496",
+        "51.976579",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Bad Pyrmont",
+      "street": "Siemensstr. 2",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "10.02690799",
+        "53.54278489",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Hamburg",
+      "street": "Amsinckstr. 73",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "9.66803026",
+        "49.62238949",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Tauberbischofsheim",
+      "street": "Mergentheimer Straße 10",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "7.29737204",
+        "50.94290716",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Overath",
+      "street": "Burghof 4",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "6.80048227",
+        "50.95848094",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Pulheim",
+      "street": "Sachsstr. 1",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "6.97712736",
+        "50.76306979",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Bornheim",
+      "street": "Am Hellenkreuz 2",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "13.41843365",
+        "48.5566246",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Passau",
+      "street": "Meraner Str. 2",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "8.22301142",
+        "48.86583715",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Rastatt",
+      "street": "Ettlinger Str.3",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "8.92903865",
+        "50.11584631",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Hanau",
+      "street": "Rodgaustr. 7",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "9.6859852",
+        "48.69698419",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Eislingen",
+      "street": "Daimlerstr. 6",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "13.43492925",
+        "52.50950946",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Berlin",
+      "street": "Am Ostbahnhof 9",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "9.68753064",
+        "52.67456322",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Buchholz",
+      "street": "An der Autobahn 2",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "12.3379361",
+        "51.51069645",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Delitzsch",
+      "street": "Dr.-Helmut-Schreyer-Str. 12",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "7.6239241",
+        "50.6894128",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": false,
+      "state": null,
+      "city": "Altenkirchen",
+      "street": "Kölner Str. 117",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "6.60795849",
+        "51.09570742",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Grevenbroich",
+      "street": "An der Zuckerfabrik 2",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "9.67553599",
+        "50.54331674",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Fulda",
+      "street": "Frankfurter Str. 8a",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "7.45999991",
+        "51.54593689",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Dortmund",
+      "street": "Evinger Str. 154",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "8.82202676",
+        "50.59800543",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Reiskirchen",
+      "street": "Carl-Benz-Str. 2",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "7.35090122",
+        "49.24877642",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Zweibrücken",
+      "street": "Gottlieb-Daimler-Str. 32-38",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "12.33389998",
+        "48.45432081",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Vilsbiburg",
+      "street": "Ohmstr. 1",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "13.19114578",
+        "48.63059259",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": false,
+      "state": null,
+      "city": "Vilshofen",
+      "street": "Bahnhofstr. 1",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "7.21133996",
+        "51.53169849",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Herne",
+      "street": "Am Westerfeld 2",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "8.37271351",
+        "48.9898144",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": true,
+      "is_active": true,
+      "state": null,
+      "city": "Karlsruhe",
+      "street": "Pulverhausstr. 42",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "9.64610067",
+        "51.42846542",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Hann. Münden",
+      "street": "Göttinger Str. 25",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "9.99985454",
+        "53.49969673",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Hamburg",
+      "street": "Dratelnstr. 31a",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "9.72382044",
+        "53.5833285",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": false,
+      "state": null,
+      "city": "Wedel",
+      "street": "Rissener Str. 96-98",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "9.97825867",
+        "54.08848437",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Neumünster",
+      "street": "Brückenstr. 2",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "10.75895572",
+        "48.1970935",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Schwabmünchen",
+      "street": "Augsburger Str. 82",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "11.61410607",
+        "48.18858711",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "München",
+      "street": "Situlistr. 6",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "8.46977407",
+        "50.55071395",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Wetzlar",
+      "street": "Alte Str. 1",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "6.15498022",
+        "51.79004142",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Kleve",
+      "street": "Van-Den-Bergh-Str. 64",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "9.86427022",
+        "47.59419574",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Lindenberg",
+      "street": "Hans-Liebherr-Str. 25",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "9.82809232",
+        "54.4724283",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": false,
+      "state": null,
+      "city": "Eckernförde",
+      "street": "Noorstr. 15",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "13.30776016",
+        "52.63553019",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Glienicke",
+      "street": "Nohlstr. 31-32",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "11.0746535",
+        "49.46988795",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Nürnberg",
+      "street": "Röthensteig 30",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "8.02772333",
+        "50.96017286",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Kreuztal",
+      "street": "Zitzenbachstr. 2",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "6.57546602",
+        "50.54965324",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Kall",
+      "street": "Werner-Schumacher-Str. 14",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "7.5731322",
+        "51.5052351",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Dortmund",
+      "street": "Schleefstr. 17",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "13.30789722",
+        "52.47733621",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Berlin",
+      "street": "Mecklenburgische Str. 65-68",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "7.9306484",
+        "47.55421978",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Bad Säckingen",
+      "street": "Tullastr. 1",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "6.54351155",
+        "51.50785277",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": false,
+      "state": null,
+      "city": "Kamp-Lintfort",
+      "street": "Prinzenstr. 84",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "11.6090546",
+        "52.15948386",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Magdeburg",
+      "street": "Olvenstedter Graseweg 37",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "9.12265603",
+        "53.49287391",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Bremervörde",
+      "street": "Zeppelinstr. 6",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "10.97749933",
+        "48.27390443",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Mering",
+      "street": "Hertzstr. 1",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "6.86566494",
+        "51.35089055",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Ratingen",
+      "street": "An der Pönt 49",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "8.51547882",
+        "51.59883249",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": false,
+      "state": null,
+      "city": "Geseke",
+      "street": "Bürener Str. 153",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "7.45995822",
+        "51.76664546",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Lüdinghausen",
+      "street": "Valve 50",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "9.23222261",
+        "48.84149436",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Stuttgart",
+      "street": "Aldinger Str. 76",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "7.12154109",
+        "50.98493175",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Bergisch Gladbach",
+      "street": "Richard-Zanders-Str. 5",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "9.30912804",
+        "49.14271871",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Ellhofen",
+      "street": "Am Autobahnkreuz 3",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "7.4043007",
+        "51.34103481",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Hagen",
+      "street": "Enneper Str. 51",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "13.12393682",
+        "52.52869813",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Berlin",
+      "street": "Heerstr. 666",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "8.53484184",
+        "50.163024",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Schwalbach am Taunus",
+      "street": "Am Kronberger Hang 9",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "8.25878644",
+        "50.0018166",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Mainz am Rhein",
+      "street": "Bahnhofsplatz 1a",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "7.23293881",
+        "50.57511209",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Remagen",
+      "street": "Am Güterbahnhof 4-14",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "13.91387167",
+        "50.95643178",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Pirna",
+      "street": "Dresdner Str. 47",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "8.34459839",
+        "51.65088806",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Lippstadt",
+      "street": "Erwitter Str. 157a",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "11.17572142",
+        "48.89707496",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Eichstätt",
+      "street": "Weissenburger Str. 38",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "10.82504779",
+        "52.3114944",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Königslutter am Elm",
+      "street": "Am Mühlenhop 2",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "8.3606965",
+        "52.60699455",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Diepholz",
+      "street": "C.-Schwarze-Str. 3",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "9.31401008",
+        "49.51070614",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": true,
+      "is_active": true,
+      "state": null,
+      "city": "Buchen",
+      "street": "Carl-Benz-Strasse 2",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "6.077682",
+        "50.83529554",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": false,
+      "state": null,
+      "city": "Herzogenrath",
+      "street": "Roermonder Str. 194",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "8.69614525",
+        "48.45813434",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Horb am Neckar",
+      "street": "Rauher Grund 2",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "8.2158788",
+        "52.81093814",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Emstek",
+      "street": "Sulzbührener Str. 3",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "9.97284499",
+        "52.38762922",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Lehrte",
+      "street": "Burgdorfer Str. 106",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "12.89811634",
+        "48.78986199",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Plattling",
+      "street": "Dr.-Walter-Bruch-Str. 2",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "8.91417683",
+        "49.87157063",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Groß-Umstadt",
+      "street": "Georg-August-Zinn-Str. 100a",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "13.86669916",
+        "52.55639985",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Strausberg",
+      "street": "Herrenseeallee 15a",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "7.66362428",
+        "51.98780839",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Münster",
+      "street": "Rudolf-Diesel-Str. 65a",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "6.99235312",
+        "50.8113808",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": false,
+      "state": null,
+      "city": "Wesseling",
+      "street": "Vorgebirgsstr. 2",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "13.11124356",
+        "52.37609547",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Potsdam",
+      "street": "Fritz-Zubeil-Str. 95",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "7.5365791",
+        "49.98090543",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Simmern",
+      "street": "Sonnenhof 11",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "7.8942608",
+        "49.85147087",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Bad Kreuznach",
+      "street": "Schwabenheimer Weg 68",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "10.07666087",
+        "50.18680998",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": true,
+      "is_active": true,
+      "state": null,
+      "city": "Bad Kissingen",
+      "street": "Würzburger Str. 8",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "7.6718494",
+        "51.69799677",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": false,
+      "state": null,
+      "city": "Werne",
+      "street": "Nordlippestr. 52",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "9.48879289",
+        "48.02127076",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Bad Saulgau",
+      "street": "Herbertinger Str. 45",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "13.75098055",
+        "54.04719194",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Wolgast",
+      "street": "Am Fuchsberg 1a",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "11.28371281",
+        "48.09468149",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Gilching",
+      "street": "Landsberger Str. 90",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "8.67315496",
+        "49.96316723",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Egelsbach",
+      "street": "Woogstr. 52",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "9.47496461",
+        "52.50441116",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Neustadt am Rübenberge",
+      "street": "Mecklenhorster Str. 13",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "12.14984823",
+        "49.31485114",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Schwandorf",
+      "street": "Am Brunnfeld 3",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "8.75483896",
+        "52.07664832",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": false,
+      "state": null,
+      "city": "Bad Salzuflen",
+      "street": "Rudolph-Brandes-Allee 28",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "6.95355065",
+        "50.93662614",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": true,
+      "is_active": true,
+      "state": null,
+      "city": "Köln",
+      "street": "Schildergasse 60-68",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "10.905222",
+        "48.36608405",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Augsburg",
+      "street": "Willy-Brandt-Platz 1",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "12.0959665",
+        "48.53907975",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Landshut",
+      "street": "Ludwig-Erhard-Str. 2",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "13.31315469",
+        "52.41980063",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Berlin",
+      "street": "Osdorferstr. 125a",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "10.63589689",
+        "54.1228709",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Eutin",
+      "street": "Röntgenstr. 2",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "13.73981901",
+        "51.07480213",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Dresden",
+      "street": "Hansastr. 56",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "9.67851023",
+        "49.28910633",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Künzelsau",
+      "street": "Würzburger Str. 50",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "8.19861759",
+        "49.46785891",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Bad Dürkheim",
+      "street": "Bruchstr. 2c",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "7.78211981",
+        "51.26267624",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Werdohl",
+      "street": "Gildestr. 6b",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "9.72386755",
+        "52.44171712",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Langenhagen",
+      "street": "Brüsseler Str. 2",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "6.44378793",
+        "51.81868221",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Isselburg",
+      "street": "Dekkers Waide 1a",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "7.18081754",
+        "51.60789477",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": true,
+      "is_active": true,
+      "state": null,
+      "city": "Recklinghausen",
+      "street": "Westring 45",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "6.26134469",
+        "50.57815688",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": true,
+      "is_active": true,
+      "state": null,
+      "city": "Monschau",
+      "street": "Am Handwerkerzentrum 2",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "7.61688676",
+        "51.51288157",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Holzwickede",
+      "street": "Wilhelmstr. 2",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "8.0589536",
+        "52.27213494",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Osnabrück",
+      "street": "Theodor-Heuss-Platz 1",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "11.00100475",
+        "49.31086097",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": true,
+      "is_active": true,
+      "state": null,
+      "city": "Kammerstein",
+      "street": "An der Autobahn 2",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "8.92940002",
+        "50.3300187",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Florstadt",
+      "street": "In der Grobach 19",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "8.18463926",
+        "49.55447004",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Kirchheim a.d. Weinstraße",
+      "street": "Rosengartenweg 1",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "10.35391739",
+        "53.43323663",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": true,
+      "is_active": true,
+      "state": null,
+      "city": "Geesthacht",
+      "street": "Düneberger Str. 119",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "9.07192188",
+        "49.99387746",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Kleinostheim",
+      "street": "Saaläckerstr. 2b",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "14.07677146",
+        "52.33710229",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Fürstenwalde",
+      "street": "Alte Langewahler Chaussee 3",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "13.19756919",
+        "52.53337747",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Berlin",
+      "street": "Klosterstr. 3",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "11.63562703",
+        "48.30602437",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": false,
+      "state": null,
+      "city": "Eching",
+      "street": "Dieselstr. 2",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "8.34071798",
+        "51.46731705",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": false,
+      "state": null,
+      "city": "Warstein",
+      "street": "Zum Puddelhammer 24",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "9.26671637",
+        "49.05819511",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Ilsfeld",
+      "street": "Porschestr. 2",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "6.66515093",
+        "50.22246712",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": false,
+      "state": null,
+      "city": "Gerolstein",
+      "street": "Brunnenstr. 6",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "7.1856876",
+        "53.60285102",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Norden",
+      "street": "Gewerbestr. 9",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "11.20677284",
+        "49.3651428",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Feucht",
+      "street": "Schwarzenbrucker Str. 4",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "7.9716763",
+        "51.95451315",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Warendorf",
+      "street": "August-Wessing-Damm 83",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "13.32313319",
+        "52.56114393",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Berlin",
+      "street": "Kurt-Schumacher-Damm 38",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "9.93700149",
+        "53.57672773",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Hamburg",
+      "street": "Kieler Str. 191-193",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "6.8316154",
+        "51.5218605",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": false,
+      "state": null,
+      "city": "Oberhausen",
+      "street": "Weierstr. 114",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "8.25450765",
+        "50.21729239",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Idstein",
+      "street": "Auroffer Str. 2",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "9.42095207",
+        "51.02973145",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Homberg",
+      "street": "Hersfelder Str. 27",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "9.74748013",
+        "51.19820966",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Hessisch Lichtenau",
+      "street": "Leipziger Str. 203",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "7.02198985",
+        "51.46931235",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Essen",
+      "street": "Stoppenberger Str. 61",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "7.75031028",
+        "50.48329265",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Mogendorf",
+      "street": "Im Reimersheck 1",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "7.65501054",
+        "47.60683031",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Lörrach",
+      "street": "Clara-Immerwahr-Str. 1",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "11.30429373",
+        "51.45097452",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Sangerhausen",
+      "street": "Am Mittelfeld 1",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "10.11365188",
+        "54.33352438",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Kiel",
+      "street": "Gutenbergstr. 82a",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "8.63800921",
+        "49.50678257",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "state": null,
+      "city": "Hirschberg a.d. Bergstraße",
+      "street": "Goldbeckstr. 3",
+      "last_checked": "Checked 1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "8.63387465",
+        "49.88740952",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": false,
+      "state": null,
+      "city": "Darmstadt",
+      "street": "Gräfenhäuser Str. 89",
+      "last_checked": "Checked 1 minute ago"
     },
     "type": "Feature"
   }
