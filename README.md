@@ -1,8 +1,4 @@
 # mcbroken-archive
-Archive for data from [mcbroken.com](https://mcbroken.com). Downloads and
-commits data from the data storage space. Only data that has been changed
-recently (within the last 31 minutes) is archived. It runs on the 7th and 37th
-minute of every hour.
+Archive for data from [mcbroken.com](https://mcbroken.com). 
 
-Heavily inspired by
-[simonw/ca-fires-history](https://github.com/simonw/ca-fires-history).
+Mirror of [this repository](https://github.com/MrFlynn/mcbroken-archive).
