@@ -17,8 +17,8 @@ jobs:
           | jq '[ .features[] | select(.properties.last_checked | split(" ")[1] | tonumber < 31) ]' > mcbroken.json
     - name: Commit data
       run: |
-        git config user.name "Archive"
-        git config user.email "actions@users.noreply.github.com"
+        git config user.name "Rashiq"
+        git config user.email "rashiq@github.com"
         git add -A
         git commit -m "Archive from $(date -u)" || exit 0
         git push
