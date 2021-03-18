@@ -4,7 +4,7 @@ on:
   push:
   workflow_dispatch:
   schedule:
-  - cron: '7,37 * * * *'
+  - cron: '0 */2 * * *'
 
 jobs:
   scheduled:
