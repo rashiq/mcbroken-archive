@@ -2,6 +2,7 @@ name: Data Archive
 
 on:
   push:
+  workflow_dispatch:
   schedule:
   - cron: '7,37 * * * *'
 
