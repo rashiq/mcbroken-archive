@@ -3,9 +3,9 @@ Archive for data from [mcbroken.com](https://mcbroken.com). It updates the `mcbr
 
 Mirror of [this repository](https://github.com/MrFlynn/mcbroken-archive).
 
-# How do I list all revisions of the `mcbroken.json` file?
+# How do I get historical data?
 
-If you want to find history information of ice cream machine failures you can dump all past versions of the `mcbroken.json` file with the `list-revisions.sh` script.
+If you want to find historical data of ice cream machine failures you can dump all past reversions of the `mcbroken.json` file with the `list-revisions.sh` script.
 
 ```
 $ ./list-revisions.sh mcbroken.json
