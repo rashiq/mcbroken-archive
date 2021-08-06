@@ -1,1 +1,7373 @@
-[]
+[
+  {
+    "geometry": {
+      "coordinates": [
+        "-119.722331",
+        "34.401877",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "CA",
+      "city": "Santa Barbara",
+      "street": "1906 Cliff Dr",
+      "country": "USA",
+      "last_checked": "Checked 2 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-123.308321",
+        "42.436527",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "OR",
+      "city": "Grants Pass",
+      "street": "204 Ne Beacon Dr",
+      "country": "USA",
+      "last_checked": "1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-123.322221",
+        "42.461272",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": true,
+      "is_active": true,
+      "dot": "broken",
+      "state": "OR",
+      "city": "Grants Pass",
+      "street": "1891 N 6th St",
+      "country": "USA",
+      "last_checked": "Checked 2 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-121.434521",
+        "37.761772",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "CA",
+      "city": "Tracy",
+      "street": "3430 Tracy Blvd",
+      "country": "USA",
+      "last_checked": "Checked 2 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-124.052474",
+        "44.646866",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "OR",
+      "city": "Newport",
+      "street": "1300 N Coast Hwy",
+      "country": "USA",
+      "last_checked": "Checked 2 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-121.450564",
+        "37.738984",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "CA",
+      "city": "Tracy",
+      "street": "1820 W 11th St",
+      "country": "USA",
+      "last_checked": "Checked 2 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-123.353337",
+        "42.420628",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "OR",
+      "city": "Grants Pass",
+      "street": "1610 Allen Creek Road",
+      "country": "USA",
+      "last_checked": "Checked 2 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-119.830205",
+        "34.436848",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "CA",
+      "city": "Goleta",
+      "street": "146 S Fairview Avenue",
+      "country": "USA",
+      "last_checked": "Checked 2 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-119.870084",
+        "34.429038",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "CA",
+      "city": "Goleta",
+      "street": "6900 Marketplace Drive",
+      "country": "USA",
+      "last_checked": "Checked 2 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-122.145951",
+        "39.157288",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "CA",
+      "city": "Colusa",
+      "street": "475 4th St",
+      "country": "USA",
+      "last_checked": "Checked 2 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-121.84161",
+        "38.457749",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "CA",
+      "city": "Dixon",
+      "street": "1410 Ary Ln",
+      "country": "USA",
+      "last_checked": "Checked 2 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-121.696442",
+        "37.947033",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "CA",
+      "city": "Brentwood",
+      "street": "7455 Brentwood Blvd",
+      "country": "USA",
+      "last_checked": "Checked 2 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-121.752089",
+        "38.005412",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "CA",
+      "city": "Oakley",
+      "street": "914 Main St",
+      "country": "USA",
+      "last_checked": "Checked 2 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-121.932958",
+        "38.386125",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": false,
+      "dot": "inactive",
+      "state": "CA",
+      "city": "Vacaville",
+      "street": "817 Leisure Town Road",
+      "country": "USA",
+      "last_checked": "Checked 2 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-121.761807",
+        "37.96346",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "CA",
+      "city": "Antioch",
+      "street": "4893 Lone Tree Way",
+      "country": "USA",
+      "last_checked": "Checked 2 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-124.10095",
+        "43.984574",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "OR",
+      "city": "Florence",
+      "street": "2060 Hwy 101",
+      "country": "USA",
+      "last_checked": "Checked 2 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-121.785987",
+        "37.988757",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "CA",
+      "city": "Antioch",
+      "street": "3450 Deer Valley Rd",
+      "country": "USA",
+      "last_checked": "Checked 2 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-121.782753",
+        "37.966538",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "CA",
+      "city": "Antioch",
+      "street": "4440 Lone Tree Way",
+      "country": "USA",
+      "last_checked": "Checked 2 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-121.953757",
+        "38.335715",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "CA",
+      "city": "Vacaville",
+      "street": "3101 Alamo",
+      "country": "USA",
+      "last_checked": "Checked 2 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-121.972339",
+        "38.361329",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "CA",
+      "city": "Vacaville",
+      "street": "1310 E Monte Vista Ave",
+      "country": "USA",
+      "last_checked": "Checked 2 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-120.686405",
+        "35.642786",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "CA",
+      "city": "El Paso De Robles",
+      "street": "2715 Black Oak Dr",
+      "country": "USA",
+      "last_checked": "1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-121.985269",
+        "38.351859",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "CA",
+      "city": "Vacaville",
+      "street": "541 Davis St",
+      "country": "USA",
+      "last_checked": "Checked 2 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-120.681836",
+        "35.61462",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "CA",
+      "city": "Paso Robles",
+      "street": "186 Niblick Rd",
+      "country": "USA",
+      "last_checked": "Checked 2 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-121.834503",
+        "38.003803",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "CA",
+      "city": "Antioch",
+      "street": "2424 Mahogany Way",
+      "country": "USA",
+      "last_checked": "Checked 2 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-121.994618",
+        "38.342164",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "CA",
+      "city": "Vacaville",
+      "street": "990 Alamo Dr",
+      "country": "USA",
+      "last_checked": "1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-120.694834",
+        "35.590898",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "CA",
+      "city": "Paso Robles",
+      "street": "1859 Ramada Drive",
+      "country": "USA",
+      "last_checked": "Checked 2 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-121.723693",
+        "37.710847",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "CA",
+      "city": "Livermore",
+      "street": "805 N Vasco Road",
+      "country": "USA",
+      "last_checked": "Checked 2 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-120.189094",
+        "34.61408",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "CA",
+      "city": "Buellton",
+      "street": "337 Mcmurray Rd",
+      "country": "USA",
+      "last_checked": "Checked 2 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-121.868109",
+        "38.008973",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": true,
+      "is_active": true,
+      "dot": "broken",
+      "state": "CA",
+      "city": "Pittsburg",
+      "street": "2203 Loveridge Ln",
+      "country": "USA",
+      "last_checked": "1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-121.742486",
+        "37.699623",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "CA",
+      "city": "Livermore",
+      "street": "4528 Las Positas Rd",
+      "country": "USA",
+      "last_checked": "Checked 2 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-120.665758",
+        "35.484064",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "CA",
+      "city": "Atascadero",
+      "street": "6300 Morro Rd",
+      "country": "USA",
+      "last_checked": "Checked 2 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-121.887398",
+        "38.008003",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "CA",
+      "city": "Pittsburg",
+      "street": "460 Atlantic Ave",
+      "country": "USA",
+      "last_checked": "Checked 2 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-124.110501",
+        "43.699863",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "OR",
+      "city": "Reedsport",
+      "street": "310 N 14th St",
+      "country": "USA",
+      "last_checked": "1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-122.030807",
+        "38.293484",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "CA",
+      "city": "Fairfield",
+      "street": "3500 Nelson Road",
+      "country": "USA",
+      "last_checked": "Checked 2 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-122.019982",
+        "38.244177",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "CA",
+      "city": "Suisun City",
+      "street": "109 Sunset Center",
+      "country": "USA",
+      "last_checked": "Checked 2 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-122.033711",
+        "38.269241",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "CA",
+      "city": "Fairfield",
+      "street": "2212 No Texas St",
+      "country": "USA",
+      "last_checked": "1 minute ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-120.419156",
+        "34.935637",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "CA",
+      "city": "Santa Maria",
+      "street": "1407 Bradley Rd",
+      "country": "USA",
+      "last_checked": "Checked 2 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-121.778091",
+        "37.682648",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "CA",
+      "city": "Livermore",
+      "street": "283 N P St",
+      "country": "USA",
+      "last_checked": "Checked 2 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-120.435077",
+        "34.956193",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "CA",
+      "city": "Santa Maria",
+      "street": "320 N Broadway",
+      "country": "USA",
+      "last_checked": "Checked 2 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-120.484388",
+        "35.037893",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "CA",
+      "city": "Nipomo",
+      "street": "460 W Tefft Rd",
+      "country": "USA",
+      "last_checked": "Checked 2 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-121.94232",
+        "38.021021",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "CA",
+      "city": "Bay Point",
+      "street": "220 Bailey Road",
+      "country": "USA",
+      "last_checked": "Checked 2 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-121.389149",
+        "36.837093",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "CA",
+      "city": "Hollister",
+      "street": "1711 Airline Hwy",
+      "country": "USA",
+      "last_checked": "Checked 2 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-121.401039",
+        "36.859117",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "CA",
+      "city": "Hollister",
+      "street": "151 San Felipe Rd",
+      "country": "USA",
+      "last_checked": "Checked 2 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-120.43543",
+        "34.929667",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": false,
+      "dot": "inactive",
+      "state": "CA",
+      "city": "Santa Maria",
+      "street": "1710 S Broadway",
+      "country": "USA",
+      "last_checked": "Checked 2 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-122.067384",
+        "38.258816",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "CA",
+      "city": "Fairfield",
+      "street": "3080 Travis Blvd",
+      "country": "USA",
+      "last_checked": "Checked 2 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-122.066985",
+        "38.249042",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": false,
+      "dot": "inactive",
+      "state": "CA",
+      "city": "Fairfield",
+      "street": "699 Beck Ave",
+      "country": "USA",
+      "last_checked": "Checked 2 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-120.416212",
+        "34.864709",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "CA",
+      "city": "Orcutt",
+      "street": "1150 E Clark Ave",
+      "country": "USA",
+      "last_checked": "Checked 2 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-120.453499",
+        "34.920274",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "CA",
+      "city": "Santa Maria",
+      "street": "2280 Skyway Drive",
+      "country": "USA",
+      "last_checked": "Checked 2 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-121.136129",
+        "36.202574",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "CA",
+      "city": "King City",
+      "street": "1350 Broadway Cir",
+      "country": "USA",
+      "last_checked": "Checked 2 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-120.586459",
+        "35.120764",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "CA",
+      "city": "Arroyo Grande",
+      "street": "410 Grand Ave Po Box 306",
+      "country": "USA",
+      "last_checked": "Checked 2 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-121.986565",
+        "37.962128",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "CA",
+      "city": "Concord",
+      "street": "4550 Clayton Rd",
+      "country": "USA",
+      "last_checked": "Checked 2 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-121.871405",
+        "37.70066",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "CA",
+      "city": "Pleasanton",
+      "street": "6800 Santa Rita Rd",
+      "country": "USA",
+      "last_checked": "Checked 2 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-120.677356",
+        "35.262918",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "CA",
+      "city": "San Luis Obispo",
+      "street": "275 Madonna Rd",
+      "country": "USA",
+      "last_checked": "Checked 2 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-121.858222",
+        "37.669865",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": false,
+      "dot": "inactive",
+      "state": "CA",
+      "city": "Pleasanton",
+      "street": "3001 Bernal Avenue",
+      "country": "USA",
+      "last_checked": "Checked 2 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-121.922941",
+        "37.798991",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "CA",
+      "city": "Danville",
+      "street": "10000 Crow Canyon Rd",
+      "country": "USA",
+      "last_checked": "Checked 2 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-121.551889",
+        "37.008257",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "CA",
+      "city": "Gilroy",
+      "street": "7150 Camino Arroyo (W*M #2002)",
+      "country": "USA",
+      "last_checked": "Checked 2 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-120.612473",
+        "35.120835",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "CA",
+      "city": "Grover Beach",
+      "street": "1550 Grand Ave",
+      "country": "USA",
+      "last_checked": "Checked 2 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-121.562484",
+        "37.023616",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "CA",
+      "city": "Gilroy",
+      "street": "8390 Arroyo Circle",
+      "country": "USA",
+      "last_checked": "Checked 2 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-120.62644",
+        "35.13675",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "CA",
+      "city": "Pismo Beach",
+      "street": "350 Five Cities Drive",
+      "country": "USA",
+      "last_checked": "Checked 2 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-122.126244",
+        "38.222157",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "CA",
+      "city": "Fairfield",
+      "street": "4400 Central Pl",
+      "country": "USA",
+      "last_checked": "Checked 2 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-121.887415",
+        "37.698018",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": true,
+      "is_active": true,
+      "dot": "broken",
+      "state": "CA",
+      "city": "Pleasanton",
+      "street": "4501 Rosewood Dr",
+      "country": "USA",
+      "last_checked": "Checked 2 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-121.559998",
+        "37.001671",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "CA",
+      "city": "Gilroy",
+      "street": "6990 Automall Parkway",
+      "country": "USA",
+      "last_checked": "Checked 2 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-121.631362",
+        "37.133223",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "CA",
+      "city": "Morgan Hill",
+      "street": "17025 Condit Rd",
+      "country": "USA",
+      "last_checked": "Checked 2 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-121.249048",
+        "36.326786",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "CA",
+      "city": "Greenfield",
+      "street": "501 El Camino Real",
+      "country": "USA",
+      "last_checked": "Checked 2 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-121.586357",
+        "37.01379",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "CA",
+      "city": "Gilroy",
+      "street": "797 First St",
+      "country": "USA",
+      "last_checked": "Checked 2 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-121.655269",
+        "37.150625",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "CA",
+      "city": "Morgan Hill",
+      "street": "135 Cochrane Plz",
+      "country": "USA",
+      "last_checked": "Checked 2 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-121.641953",
+        "37.11129",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "CA",
+      "city": "Morgan Hill",
+      "street": "201 Vineyard Town Ctr",
+      "country": "USA",
+      "last_checked": "Checked 2 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-121.924286",
+        "37.706203",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "CA",
+      "city": "Dublin",
+      "street": "7145 Dublin Ave",
+      "country": "USA",
+      "last_checked": "Checked 2 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-122.041954",
+        "37.954807",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "CA",
+      "city": "Concord",
+      "street": "1691 Monument Blvd",
+      "country": "USA",
+      "last_checked": "Checked 2 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-121.92878",
+        "37.695206",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": true,
+      "is_active": true,
+      "dot": "broken",
+      "state": "CA",
+      "city": "Pleasanton",
+      "street": "1004 Stoneridge Mall",
+      "country": "USA",
+      "last_checked": "Checked 2 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-121.943196",
+        "37.724595",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "CA",
+      "city": "San Ramon",
+      "street": "21001 San Ramon Valley Blvd",
+      "country": "USA",
+      "last_checked": "Checked 2 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-121.321505",
+        "36.418298",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "CA",
+      "city": "Soledad",
+      "street": "1215 S Front St",
+      "country": "USA",
+      "last_checked": "Checked 2 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-122.06438",
+        "37.973266",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "CA",
+      "city": "Pleasant Hill",
+      "street": "624 Contra Costa Blvd",
+      "country": "USA",
+      "last_checked": "Checked 2 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-121.97654",
+        "37.774364",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "CA",
+      "city": "San Ramon",
+      "street": "2481 San Ramon Valley Rd",
+      "country": "USA",
+      "last_checked": "Checked 2 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-122.0597",
+        "37.953545",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": true,
+      "is_active": true,
+      "dot": "broken",
+      "state": "CA",
+      "city": "Pleasant Hill",
+      "street": "1690 Contra Costa Blvd",
+      "country": "USA",
+      "last_checked": "Checked 2 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-124.212791",
+        "43.361385",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "OR",
+      "city": "Coos Bay",
+      "street": "772 S Broadway",
+      "country": "USA",
+      "last_checked": "Checked 2 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-121.772301",
+        "37.300922",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "CA",
+      "city": "San Jose",
+      "street": "4838 San Felipe Rd",
+      "country": "USA",
+      "last_checked": "Checked 2 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-122.100967",
+        "37.994213",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "CA",
+      "city": "Martinez",
+      "street": "1185 Arnold Dr",
+      "country": "USA",
+      "last_checked": "Checked 2 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-124.238837",
+        "43.392261",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": false,
+      "dot": "inactive",
+      "state": "OR",
+      "city": "North Bend",
+      "street": "3303 Broadway Avenue",
+      "country": "USA",
+      "last_checked": "Checked 2 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-121.793639",
+        "37.315996",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "CA",
+      "city": "San Jose",
+      "street": "3221 S White Rd",
+      "country": "USA",
+      "last_checked": "Checked 2 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-120.458235",
+        "34.651564",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "CA",
+      "city": "Lompoc",
+      "street": "835 North H St",
+      "country": "USA",
+      "last_checked": "Checked 2 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-124.252163",
+        "43.389526",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": false,
+      "dot": "inactive",
+      "state": "OR",
+      "city": "Coos Bay",
+      "street": "2051 Newmark Ave",
+      "country": "USA",
+      "last_checked": "Checked 2 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-121.923195",
+        "37.539711",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "CA",
+      "city": "Fremont",
+      "street": "42800 Mission Blvd",
+      "country": "USA",
+      "last_checked": "Checked 3 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-121.823029",
+        "37.324743",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "CA",
+      "city": "San Jose",
+      "street": "1935 Tully Rd",
+      "country": "USA",
+      "last_checked": "Checked 2 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-121.437034",
+        "36.513998",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "CA",
+      "city": "Gonzales",
+      "street": "805 5th St",
+      "country": "USA",
+      "last_checked": "Checked 3 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-121.871582",
+        "37.417843",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": true,
+      "is_active": true,
+      "dot": "broken",
+      "state": "CA",
+      "city": "Milpitas",
+      "street": "1795 Landess Ave",
+      "country": "USA",
+      "last_checked": "Checked 4 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-121.848498",
+        "37.367015",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "CA",
+      "city": "San Jose",
+      "street": "2353 Mckee Rd",
+      "country": "USA",
+      "last_checked": "Checked 3 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-121.860566",
+        "37.387286",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "CA",
+      "city": "San Jose",
+      "street": "1142 N Capitol Ave",
+      "country": "USA",
+      "last_checked": "Checked 2 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-121.79978",
+        "37.254614",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "CA",
+      "city": "San Jose",
+      "street": "5508 Monterey Rd",
+      "country": "USA",
+      "last_checked": "Checked 3 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-121.822433",
+        "37.299934",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "CA",
+      "city": "San Jose",
+      "street": "1033 E Capitol Expwy",
+      "country": "USA",
+      "last_checked": "Checked 4 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-122.275536",
+        "38.281094",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "CA",
+      "city": "Napa",
+      "street": "806 Imola Ave",
+      "country": "USA",
+      "last_checked": "Checked 3 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-122.298515",
+        "38.319935",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "CA",
+      "city": "Napa",
+      "street": "3224 Jefferson St",
+      "country": "USA",
+      "last_checked": "Checked 2 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-122.193494",
+        "38.08182",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "CA",
+      "city": "Benicia",
+      "street": "2110 Columbus Parkway",
+      "country": "USA",
+      "last_checked": "Checked 3 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-122.209595",
+        "38.10561",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "CA",
+      "city": "Vallejo",
+      "street": "2565 Springs Rd",
+      "country": "USA",
+      "last_checked": "Checked 4 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-121.911057",
+        "37.457391",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "CA",
+      "city": "Milpitas",
+      "street": "1854 N Milpitas Blvd",
+      "country": "USA",
+      "last_checked": "Checked 3 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-121.901329",
+        "37.434448",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "CA",
+      "city": "Milpitas",
+      "street": "99 N Milpitas Blvd",
+      "country": "USA",
+      "last_checked": "Checked 2 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-122.113998",
+        "37.892375",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "CA",
+      "city": "Lafayette",
+      "street": "3459 Mt Diablo Blvd",
+      "country": "USA",
+      "last_checked": "Checked 3 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-122.223648",
+        "38.132084",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "CA",
+      "city": "Vallejo",
+      "street": "902 Admiral Callaghan Ln",
+      "country": "USA",
+      "last_checked": "Checked 4 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-121.865073",
+        "37.34875",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "CA",
+      "city": "San Jose",
+      "street": "1299 E Santa Clara St",
+      "country": "USA",
+      "last_checked": "Checked 3 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-121.897733",
+        "37.412754",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "CA",
+      "city": "Milpitas",
+      "street": "1249 Great Mall Dr",
+      "country": "USA",
+      "last_checked": "Checked 3 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-121.848877",
+        "37.307709",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "CA",
+      "city": "San Jose",
+      "street": "585 Tully Rd",
+      "country": "USA",
+      "last_checked": "Checked 4 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-121.860468",
+        "37.330946",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "CA",
+      "city": "San Jose",
+      "street": "777 Story Rd",
+      "country": "USA",
+      "last_checked": "Checked 3 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-121.832239",
+        "37.266437",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "CA",
+      "city": "San Jose",
+      "street": "163 Branham Ln",
+      "country": "USA",
+      "last_checked": "Checked 3 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-121.831841",
+        "37.250969",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "CA",
+      "city": "San Jose",
+      "street": "456 Blossom Hill Rd",
+      "country": "USA",
+      "last_checked": "Checked 3 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-121.895673",
+        "37.383211",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "CA",
+      "city": "San Jose",
+      "street": "1702 Oakland Rd",
+      "country": "USA",
+      "last_checked": "Checked 4 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-121.966749",
+        "37.534321",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "CA",
+      "city": "Fremont",
+      "street": "40708 Grimmer Blvd",
+      "country": "USA",
+      "last_checked": "Checked 3 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-122.25327",
+        "38.154466",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "CA",
+      "city": "Vallejo",
+      "street": "5200 Sonoma Blvd",
+      "country": "USA",
+      "last_checked": "Checked 3 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-121.949463",
+        "37.491051",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "CA",
+      "city": "Fremont",
+      "street": "4101 Cushing Pky",
+      "country": "USA",
+      "last_checked": "Checked 3 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-122.229331",
+        "38.095298",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "CA",
+      "city": "Vallejo",
+      "street": "416 E Lincoln Rd",
+      "country": "USA",
+      "last_checked": "Checked 4 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-121.862853",
+        "37.304719",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "CA",
+      "city": "San Jose",
+      "street": "2191 Monterey Highway",
+      "country": "USA",
+      "last_checked": "Checked 3 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-121.921689",
+        "37.42716",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "CA",
+      "city": "Milpitas",
+      "street": "41 Ranch Dr",
+      "country": "USA",
+      "last_checked": "Checked 3 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-122.231815",
+        "38.084423",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "CA",
+      "city": "Vallejo",
+      "street": "170 Lincoln Rd E",
+      "country": "USA",
+      "last_checked": "Checked 3 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-121.98912",
+        "37.54932",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "CA",
+      "city": "Fremont",
+      "street": "38860 Fremont Blvd",
+      "country": "USA",
+      "last_checked": "Checked 4 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-122.255508",
+        "38.119171",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": false,
+      "dot": "inactive",
+      "state": "CA",
+      "city": "Vallejo",
+      "street": "3289 Sonoma Blvd",
+      "country": "USA",
+      "last_checked": "Checked 3 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-122.617196",
+        "38.929988",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "CA",
+      "city": "Clearlake",
+      "street": "15940 Dam Rd",
+      "country": "USA",
+      "last_checked": "Checked 3 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-121.865249",
+        "37.275165",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "CA",
+      "city": "San Jose",
+      "street": "715 W Capital Auto Mall Expy",
+      "country": "USA",
+      "last_checked": "Checked 3 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-122.063026",
+        "37.68912",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "CA",
+      "city": "Castro Valley",
+      "street": "2905 Grove Way",
+      "country": "USA",
+      "last_checked": "Checked 4 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-122.020042",
+        "37.590275",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "CA",
+      "city": "Union City",
+      "street": "27 Union Square",
+      "country": "USA",
+      "last_checked": "Checked 3 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-121.880569",
+        "37.289906",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "CA",
+      "city": "San Jose",
+      "street": "2434 Almaden Rd",
+      "country": "USA",
+      "last_checked": "Checked 4 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-122.014076",
+        "37.556797",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "CA",
+      "city": "Fremont",
+      "street": "4318 Thornton Ave",
+      "country": "USA",
+      "last_checked": "Checked 4 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-121.875885",
+        "37.260862",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "CA",
+      "city": "San Jose",
+      "street": "4800 Almaden Expressway",
+      "country": "USA",
+      "last_checked": "Checked 4 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-122.00552",
+        "37.525716",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "CA",
+      "city": "Newark",
+      "street": "3000 Newpark Mall Rd",
+      "country": "USA",
+      "last_checked": "Checked 3 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-122.06591",
+        "37.64901",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "CA",
+      "city": "Hayward",
+      "street": "26253 Mission Blvd",
+      "country": "USA",
+      "last_checked": "Checked 4 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-121.913297",
+        "37.32322",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "CA",
+      "city": "San Jose",
+      "street": "1398 W San Carlos",
+      "country": "USA",
+      "last_checked": "Checked 4 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-121.605601",
+        "36.680134",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": false,
+      "dot": "inactive",
+      "state": "CA",
+      "city": "Salinas",
+      "street": "608 Williams Rd",
+      "country": "USA",
+      "last_checked": "Checked 4 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-122.031701",
+        "37.571052",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": false,
+      "dot": "inactive",
+      "state": "CA",
+      "city": "Fremont",
+      "street": "3990 Decoto Rd",
+      "country": "USA",
+      "last_checked": "Checked 3 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-122.089638",
+        "37.692089",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "CA",
+      "city": "Castro Valley",
+      "street": "1620 Strobridge Ave",
+      "country": "USA",
+      "last_checked": "Checked 4 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-121.626022",
+        "36.715266",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "CA",
+      "city": "Salinas",
+      "street": "600 East Boranda Drive",
+      "country": "USA",
+      "last_checked": "Checked 4 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-122.081131",
+        "37.667244",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": true,
+      "is_active": true,
+      "dot": "broken",
+      "state": "CA",
+      "city": "Hayward",
+      "street": "23989 Watkins St",
+      "country": "USA",
+      "last_checked": "Checked 4 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-121.666339",
+        "36.792455",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "CA",
+      "city": "Salinas",
+      "street": "17537 Vierra Canyon Rd",
+      "country": "USA",
+      "last_checked": "Checked 3 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-121.936514",
+        "37.356895",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "CA",
+      "city": "Santa Clara",
+      "street": "1451 Coleman Ave",
+      "country": "USA",
+      "last_checked": "Checked 4 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-121.888138",
+        "37.245586",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "CA",
+      "city": "San Jose",
+      "street": "1365 Blossom Hill Rd",
+      "country": "USA",
+      "last_checked": "Checked 4 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-122.066391",
+        "37.608723",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "CA",
+      "city": "Hayward",
+      "street": "30147 Industrial Parkway Southwest",
+      "country": "USA",
+      "last_checked": "Checked 4 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-122.067257",
+        "37.604668",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": false,
+      "dot": "inactive",
+      "state": "CA",
+      "city": "Union City",
+      "street": "30600 Dyer St",
+      "country": "USA",
+      "last_checked": "Checked 3 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-121.931313",
+        "37.310993",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "CA",
+      "city": "San Jose",
+      "street": "898 S Bascom Ave",
+      "country": "USA",
+      "last_checked": "Checked 4 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-122.110744",
+        "37.693394",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "CA",
+      "city": "Ashland",
+      "street": "16552 E 14th Street",
+      "country": "USA",
+      "last_checked": "Checked 4 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-122.04644",
+        "37.549561",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "CA",
+      "city": "Newark",
+      "street": "35192 Newark Blvd",
+      "country": "USA",
+      "last_checked": "Checked 4 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-121.629259",
+        "36.67286",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "CA",
+      "city": "Salinas",
+      "street": "840 E Alisal St",
+      "country": "USA",
+      "last_checked": "Checked 4 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-122.106169",
+        "37.666771",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "CA",
+      "city": "Hayward",
+      "street": "355 W A St",
+      "country": "USA",
+      "last_checked": "Checked 4 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-121.641011",
+        "36.680307",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "CA",
+      "city": "Salinas",
+      "street": "155 Kern St",
+      "country": "USA",
+      "last_checked": "Checked 4 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-121.653464",
+        "36.704682",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "CA",
+      "city": "Salinas",
+      "street": "1365 N Main St",
+      "country": "USA",
+      "last_checked": "Checked 4 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-121.922016",
+        "37.26208",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "CA",
+      "city": "San Jose",
+      "street": "1869 Camden Ave",
+      "country": "USA",
+      "last_checked": "Checked 4 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-121.978859",
+        "37.381836",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": false,
+      "dot": "inactive",
+      "state": "CA",
+      "city": "Santa Clara",
+      "street": "2850 Augustine Dr",
+      "country": "USA",
+      "last_checked": "Checked 4 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-121.753602",
+        "36.907686",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "CA",
+      "city": "Watsonville",
+      "street": "190 Main St",
+      "country": "USA",
+      "last_checked": "Checked 4 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-122.096474",
+        "37.631363",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "CA",
+      "city": "Hayward",
+      "street": "2299 W Tennyson Rd",
+      "country": "USA",
+      "last_checked": "Checked 4 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-122.271294",
+        "38.008762",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "CA",
+      "city": "Hercules",
+      "street": "1570 Sycamore Ave",
+      "country": "USA",
+      "last_checked": "Checked 4 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-122.132957",
+        "37.707821",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "CA",
+      "city": "San Leandro",
+      "street": "14823 E 14th St",
+      "country": "USA",
+      "last_checked": "Checked 4 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-121.769657",
+        "36.932166",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "CA",
+      "city": "Watsonville",
+      "street": "1598 Freedom Blvd",
+      "country": "USA",
+      "last_checked": "Checked 4 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-121.933524",
+        "37.272849",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "CA",
+      "city": "San Jose",
+      "street": "2699 Union Avenue",
+      "country": "USA",
+      "last_checked": "Checked 4 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-122.120697",
+        "37.670784",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "CA",
+      "city": "Hayward",
+      "street": "18708 Hesperian Blvd",
+      "country": "USA",
+      "last_checked": "Checked 4 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-121.950347",
+        "37.298073",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "CA",
+      "city": "San Jose",
+      "street": "1435 S Winchester Blvd",
+      "country": "USA",
+      "last_checked": "Checked 4 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-121.995384",
+        "37.385469",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "CA",
+      "city": "Sunnyvale",
+      "street": "550 Lawrence Expwy",
+      "country": "USA",
+      "last_checked": "Checked 4 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-122.174145",
+        "37.768189",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": true,
+      "is_active": true,
+      "dot": "broken",
+      "state": "CA",
+      "city": "Oakland",
+      "street": "7300 Bancroft Avenue",
+      "country": "USA",
+      "last_checked": "Checked 4 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-122.138611",
+        "37.6884",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "CA",
+      "city": "San Leandro",
+      "street": "130 Greenhouse Marketplace",
+      "country": "USA",
+      "last_checked": "Checked 4 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-121.96904",
+        "37.323669",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "CA",
+      "city": "Santa Clara",
+      "street": "3895 Stevens Creek Blvd",
+      "country": "USA",
+      "last_checked": "Checked 4 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-122.157056",
+        "37.724882",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "CA",
+      "city": "San Leandro",
+      "street": "1287 Washington St",
+      "country": "USA",
+      "last_checked": "Checked 4 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-121.775716",
+        "36.916825",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": false,
+      "dot": "inactive",
+      "state": "CA",
+      "city": "Watsonville",
+      "street": "1459 Main St",
+      "country": "USA",
+      "last_checked": "Checked 4 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-122.171135",
+        "37.744392",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "CA",
+      "city": "Oakland",
+      "street": "9725 E 14th St",
+      "country": "USA",
+      "last_checked": "Checked 4 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-121.659477",
+        "36.656793",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "CA",
+      "city": "Salinas",
+      "street": "1213 S Main St",
+      "country": "USA",
+      "last_checked": "Checked 4 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-121.993866",
+        "37.338303",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "CA",
+      "city": "Santa Clara",
+      "street": "3509 Home Stead Rd",
+      "country": "USA",
+      "last_checked": "Checked 4 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-122.196098",
+        "37.763855",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "CA",
+      "city": "Oakland",
+      "street": "6300 East 14th Street",
+      "country": "USA",
+      "last_checked": "Checked 4 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-122.304916",
+        "37.996067",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "CA",
+      "city": "Pinole",
+      "street": "1402 Tara Hills Dr",
+      "country": "USA",
+      "last_checked": "Checked 4 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-121.992832",
+        "37.322662",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "CA",
+      "city": "San Jose",
+      "street": "5122 Stevens Creek Blvd",
+      "country": "USA",
+      "last_checked": "Checked 4 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-122.177842",
+        "37.714534",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "CA",
+      "city": "San Leandro",
+      "street": "1919 Davis St",
+      "country": "USA",
+      "last_checked": "Checked 4 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-122.028837",
+        "37.393509",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "CA",
+      "city": "Sunnyvale",
+      "street": "696 N Mathilda Ave",
+      "country": "USA",
+      "last_checked": "Checked 4 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-121.959808",
+        "37.243828",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "CA",
+      "city": "Los Gatos",
+      "street": "15475 Los Gatos Blvd",
+      "country": "USA",
+      "last_checked": "Checked 4 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-122.195553",
+        "37.745892",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": false,
+      "dot": "inactive",
+      "state": "CA",
+      "city": "Oakland",
+      "street": "640 Hegenberger Rd",
+      "country": "USA",
+      "last_checked": "Checked 4 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-122.027153",
+        "37.362938",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "CA",
+      "city": "Sunnyvale",
+      "street": "556 E El Camino Real",
+      "country": "USA",
+      "last_checked": "Checked 4 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-122.318678",
+        "37.983789",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "CA",
+      "city": "Richmond",
+      "street": "3350 Klose Way",
+      "country": "USA",
+      "last_checked": "Checked 4 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-121.996793",
+        "37.29185",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "CA",
+      "city": "Saratoga",
+      "street": "18578 Prospect Road",
+      "country": "USA",
+      "last_checked": "Checked 4 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-122.268577",
+        "37.872278",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "CA",
+      "city": "Berkeley",
+      "street": "1998 Shattuck Ave",
+      "country": "USA",
+      "last_checked": "Checked 4 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-122.223462",
+        "37.768325",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "CA",
+      "city": "Oakland",
+      "street": "4010 Alameda Ave",
+      "country": "USA",
+      "last_checked": "Checked 4 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-122.234238",
+        "37.781475",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "CA",
+      "city": "Oakland",
+      "street": "2520 E 12th St",
+      "country": "USA",
+      "last_checked": "Checked 4 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-122.477066",
+        "38.303112",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "CA",
+      "city": "Sonoma",
+      "street": "18988 Sonoma Hwy",
+      "country": "USA",
+      "last_checked": "Checked 4 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-122.320831",
+        "37.928219",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "CA",
+      "city": "El Cerrito",
+      "street": "11821 San Pablo Ave",
+      "country": "USA",
+      "last_checked": "Checked 4 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-122.286114",
+        "37.849432",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "CA",
+      "city": "Oakland",
+      "street": "6623 San Pablo Ave",
+      "country": "USA",
+      "last_checked": "Checked 4 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-122.031822",
+        "37.303898",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "CA",
+      "city": "San Jose",
+      "street": "1150 S De Anza Blvd",
+      "country": "USA",
+      "last_checked": "Checked 4 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-122.264999",
+        "37.80175",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": false,
+      "dot": "inactive",
+      "state": "CA",
+      "city": "Oakland",
+      "street": "1330 Jackson St",
+      "country": "USA",
+      "last_checked": "Checked 4 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-122.343895",
+        "37.966892",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "CA",
+      "city": "San Pablo",
+      "street": "14480 San Pablo Ave",
+      "country": "USA",
+      "last_checked": "Checked 4 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-122.093608",
+        "37.41941",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "CA",
+      "city": "Mountain View",
+      "street": "1060 Rengstorff Ave",
+      "country": "USA",
+      "last_checked": "Checked 4 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-122.252029",
+        "37.755219",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "CA",
+      "city": "Alameda",
+      "street": "2239 Shoreline Dr",
+      "country": "USA",
+      "last_checked": "Checked 4 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-122.282188",
+        "37.803181",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "CA",
+      "city": "Oakland",
+      "street": "800 Market St",
+      "country": "USA",
+      "last_checked": "Checked 4 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-122.347244",
+        "37.936394",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "CA",
+      "city": "Richmond",
+      "street": "2301 Macdonald Ave",
+      "country": "USA",
+      "last_checked": "Checked 4 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-122.096405",
+        "37.391403",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "CA",
+      "city": "Mountain View",
+      "street": "952 El Monte Ave",
+      "country": "USA",
+      "last_checked": "Checked 4 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-122.276077",
+        "37.771774",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "CA",
+      "city": "Alameda",
+      "street": "715 Central Ave",
+      "country": "USA",
+      "last_checked": "Checked 4 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-122.140205",
+        "37.471874",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "CA",
+      "city": "East Palo Alto",
+      "street": "2401 University Ave",
+      "country": "USA",
+      "last_checked": "Checked 4 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-122.137714",
+        "37.460234",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "CA",
+      "city": "East Palo Alto",
+      "street": "1721 E Bayshore Avenue",
+      "country": "USA",
+      "last_checked": "Checked 4 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-122.139534",
+        "37.421143",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": true,
+      "is_active": true,
+      "dot": "broken",
+      "state": "CA",
+      "city": "Palo Alto",
+      "street": "3128 El Camino Real",
+      "country": "USA",
+      "last_checked": "Checked 4 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-121.794555",
+        "36.685592",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": true,
+      "is_active": true,
+      "dot": "broken",
+      "state": "CA",
+      "city": "Marina",
+      "street": "267 Reservation Rd",
+      "country": "USA",
+      "last_checked": "Checked 4 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-122.171203",
+        "37.44293",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "CA",
+      "city": "Palo Alto",
+      "street": "208 Stanford Shopping Ctr",
+      "country": "USA",
+      "last_checked": "Checked 4 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-122.183139",
+        "37.453926",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "CA",
+      "city": "Menlo Park",
+      "street": "1100 El Camino Real",
+      "country": "USA",
+      "last_checked": "Checked 5 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-121.963762",
+        "36.975302",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "CA",
+      "city": "Capitola",
+      "street": "1760 41st Ave",
+      "country": "USA",
+      "last_checked": "Checked 4 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-122.924362",
+        "39.032295",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": false,
+      "dot": "inactive",
+      "state": "CA",
+      "city": "Lakeport",
+      "street": "1077 Lakeport Blvd",
+      "country": "USA",
+      "last_checked": "Checked 4 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-122.67342",
+        "38.457938",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "CA",
+      "city": "Santa Rosa",
+      "street": "50 Mission Cir",
+      "country": "USA",
+      "last_checked": "Checked 4 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-122.224258",
+        "37.479259",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "CA",
+      "city": "Redwood City",
+      "street": "185 Chestnut St",
+      "country": "USA",
+      "last_checked": "Checked 5 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-122.22363",
+        "37.467598",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "CA",
+      "city": "Redwood City",
+      "street": "709 Woodside Rd",
+      "country": "USA",
+      "last_checked": "Checked 4 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-122.271698",
+        "37.563316",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "CA",
+      "city": "Foster City",
+      "street": "1101 Triton Dr",
+      "country": "USA",
+      "last_checked": "Checked 4 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-122.032551",
+        "37.047197",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "CA",
+      "city": "Scotts Valley",
+      "street": "259 Mount Hermon Rd",
+      "country": "USA",
+      "last_checked": "Checked 4 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-122.265778",
+        "37.511166",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "CA",
+      "city": "San Carlos",
+      "street": "180 El Camino Real",
+      "country": "USA",
+      "last_checked": "Checked 5 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-122.399109",
+        "37.79389",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "CA",
+      "city": "San Francisco",
+      "street": "235 N Front St",
+      "country": "USA",
+      "last_checked": "Checked 4 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-122.401488",
+        "37.788946",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "CA",
+      "city": "San Francisco",
+      "street": "609 Market St",
+      "country": "USA",
+      "last_checked": "Checked 4 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-121.844073",
+        "36.61904",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "CA",
+      "city": "Sand City",
+      "street": "990 Playa Avenue",
+      "country": "USA",
+      "last_checked": "Checked 4 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-122.022357",
+        "36.983059",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": true,
+      "is_active": true,
+      "dot": "broken",
+      "state": "CA",
+      "city": "Santa Cruz",
+      "street": "1210 Ocean Ave",
+      "country": "USA",
+      "last_checked": "Checked 5 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-122.281845",
+        "37.524906",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "CA",
+      "city": "Belmont",
+      "street": "522 El Camino Real",
+      "country": "USA",
+      "last_checked": "Checked 4 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-122.41449",
+        "37.808235",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "CA",
+      "city": "San Francisco",
+      "street": "145 Jefferson St",
+      "country": "USA",
+      "last_checked": "Checked 4 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-122.53213",
+        "38.061424",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "CA",
+      "city": "Novato",
+      "street": "5600 Nave Dr",
+      "country": "USA",
+      "last_checked": "Checked 4 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-122.407641",
+        "37.789217",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "CA",
+      "city": "San Francisco",
+      "street": "441 Sutter St",
+      "country": "USA",
+      "last_checked": "Checked 5 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-122.716835",
+        "38.452908",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "CA",
+      "city": "Santa Rosa",
+      "street": "1264 Mendocino Ave",
+      "country": "USA",
+      "last_checked": "Checked 4 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-122.623001",
+        "38.235634",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "CA",
+      "city": "Petaluma",
+      "street": "981 Lakeville Hwy",
+      "country": "USA",
+      "last_checked": "Checked 4 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-121.856101",
+        "36.60836",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "CA",
+      "city": "Seaside",
+      "street": "1516 Canyon Del Rey Boulevard",
+      "country": "USA",
+      "last_checked": "Checked 5 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-122.407924",
+        "37.765404",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "CA",
+      "city": "San Francisco",
+      "street": "302 Potrero Ave",
+      "country": "USA",
+      "last_checked": "Checked 4 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-122.735923",
+        "38.480387",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "CA",
+      "city": "Santa Rosa",
+      "street": "879 Hopper Ave",
+      "country": "USA",
+      "last_checked": "Checked 5 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-122.392781",
+        "37.728005",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "CA",
+      "city": "San Francisco",
+      "street": "5411 3rd Street",
+      "country": "USA",
+      "last_checked": "Checked 4 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-122.569916",
+        "38.106724",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "CA",
+      "city": "Novato",
+      "street": "7340 Redwood Hwy",
+      "country": "USA",
+      "last_checked": "Checked 5 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-122.316364",
+        "37.553954",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "CA",
+      "city": "San Mateo",
+      "street": "1420 El Camino Real",
+      "country": "USA",
+      "last_checked": "Checked 4 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-122.676689",
+        "38.335677",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "CA",
+      "city": "Rohnert Park",
+      "street": "1702 E Cotati Ave",
+      "country": "USA",
+      "last_checked": "Checked 5 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-122.405205",
+        "37.742161",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "CA",
+      "city": "San Francisco",
+      "street": "345 Bayshore Blvd",
+      "country": "USA",
+      "last_checked": "Checked 4 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-122.713009",
+        "38.413494",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "CA",
+      "city": "Santa Rosa",
+      "street": "2642 Santa Rosa Ave",
+      "country": "USA",
+      "last_checked": "Checked 5 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-122.039064",
+        "36.967133",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "CA",
+      "city": "Santa Cruz",
+      "street": "1421 Mission St",
+      "country": "USA",
+      "last_checked": "Checked 4 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-122.418215",
+        "37.752127",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "CA",
+      "city": "San Francisco",
+      "street": "2801 Mission St",
+      "country": "USA",
+      "last_checked": "Checked 5 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-122.431717",
+        "37.779861",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "CA",
+      "city": "San Francisco",
+      "street": "1100 Fillmore St",
+      "country": "USA",
+      "last_checked": "Checked 4 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-122.534585",
+        "37.996441",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "CA",
+      "city": "San Rafael",
+      "street": "190 Merrydale Rd",
+      "country": "USA",
+      "last_checked": "Checked 5 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-122.415321",
+        "37.706612",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "CA",
+      "city": "Daly City",
+      "street": "2750 Geneva Ave",
+      "country": "USA",
+      "last_checked": "Checked 5 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-121.88805",
+        "36.599783",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "CA",
+      "city": "Monterey",
+      "street": "610 Del Monte Ave",
+      "country": "USA",
+      "last_checked": "Checked 4 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-122.711586",
+        "38.344402",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "CA",
+      "city": "Rohnert Park",
+      "street": "6600 Commerce Blvd",
+      "country": "USA",
+      "last_checked": "Checked 5 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-122.547035",
+        "37.975933",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": true,
+      "is_active": true,
+      "dot": "broken",
+      "state": "CA",
+      "city": "San Rafael",
+      "street": "2114 4th St",
+      "country": "USA",
+      "last_checked": "Checked 5 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-122.81158",
+        "38.547535",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "CA",
+      "city": "Windsor",
+      "street": "125 Windsor River Rd",
+      "country": "USA",
+      "last_checked": "Checked 5 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-122.770523",
+        "38.452928",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "CA",
+      "city": "Santa Rosa",
+      "street": "2521 Guerneville Rd",
+      "country": "USA",
+      "last_checked": "Checked 4 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-122.516022",
+        "37.890682",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "CA",
+      "city": "Mill Valley",
+      "street": "600 Redwood Hwy",
+      "country": "USA",
+      "last_checked": "Checked 5 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-122.40362",
+        "37.643961",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "CA",
+      "city": "South San Francisco",
+      "street": "381 S Airport Blvd",
+      "country": "USA",
+      "last_checked": "Checked 5 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-122.444542",
+        "37.713135",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "CA",
+      "city": "San Francisco",
+      "street": "5454 Mission St",
+      "country": "USA",
+      "last_checked": "Checked 5 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-122.398421",
+        "37.606554",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "CA",
+      "city": "Millbrae",
+      "street": "1101 El Camino Real",
+      "country": "USA",
+      "last_checked": "Checked 4 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-122.45546",
+        "37.723492",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "CA",
+      "city": "San Francisco",
+      "street": "1201 Ocean Ave",
+      "country": "USA",
+      "last_checked": "Checked 5 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-122.429626",
+        "37.648029",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "CA",
+      "city": "South San Francisco",
+      "street": "587 Elcamino Real",
+      "country": "USA",
+      "last_checked": "Checked 5 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-122.868411",
+        "38.605525",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "CA",
+      "city": "Healdsburg",
+      "street": "110 Healdsburg Ave",
+      "country": "USA",
+      "last_checked": "Checked 5 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-124.28712",
+        "42.053332",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "OR",
+      "city": "Brookings",
+      "street": "815 Chetco Ave",
+      "country": "USA",
+      "last_checked": "Checked 4 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-122.476528",
+        "37.72658",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "CA",
+      "city": "San Francisco",
+      "street": "255 Winston Dr",
+      "country": "USA",
+      "last_checked": "Checked 5 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-122.471275",
+        "37.692028",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "CA",
+      "city": "Daly City",
+      "street": "2450 Junipero Serra Blvd",
+      "country": "USA",
+      "last_checked": "Checked 5 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-122.453667",
+        "37.643787",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "CA",
+      "city": "South San Francisco",
+      "street": "2298 Gellert Blvd",
+      "country": "USA",
+      "last_checked": "Checked 5 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-124.193527",
+        "41.755344",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "CA",
+      "city": "Crescent City",
+      "street": "380 M St",
+      "country": "USA",
+      "last_checked": "Checked 4 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-122.469986",
+        "37.668903",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "CA",
+      "city": "Daly City",
+      "street": "505 Serramonte Blvd",
+      "country": "USA",
+      "last_checked": "Checked 5 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-122.491196",
+        "37.65226",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "CA",
+      "city": "Pacifica",
+      "street": "125 Monterey Rd",
+      "country": "USA",
+      "last_checked": "Checked 5 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-123.013211",
+        "38.784095",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": false,
+      "dot": "inactive",
+      "state": "CA",
+      "city": "Cloverdale",
+      "street": "1149 S Cloverdale Blvd",
+      "country": "USA",
+      "last_checked": "Checked 5 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-122.434441",
+        "37.470356",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": false,
+      "dot": "inactive",
+      "state": "CA",
+      "city": "Half Moon Bay",
+      "street": "100 N Cabrillo Hwy",
+      "country": "USA",
+      "last_checked": "Checked 4 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-123.198693",
+        "39.152005",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "CA",
+      "city": "Ukiah",
+      "street": "115 N Orchard Ave",
+      "country": "USA",
+      "last_checked": "Checked 5 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-123.211872",
+        "39.167996",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "CA",
+      "city": "Ukiah",
+      "street": "1310 N State St",
+      "country": "USA",
+      "last_checked": "Checked 5 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-122.50216",
+        "37.594349",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": true,
+      "is_active": true,
+      "dot": "broken",
+      "state": "CA",
+      "city": "Pacifica",
+      "street": "576 Linda Mar Blvd",
+      "country": "USA",
+      "last_checked": "Checked 5 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-123.349533",
+        "39.394604",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": false,
+      "dot": "inactive",
+      "state": "CA",
+      "city": "Willits",
+      "street": "1488 S Main St",
+      "country": "USA",
+      "last_checked": "Checked 4 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-124.083884",
+        "40.902796",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": true,
+      "is_active": true,
+      "dot": "broken",
+      "state": "CA",
+      "city": "Arcata",
+      "street": "4901 Valley West Blvd",
+      "country": "USA",
+      "last_checked": "Checked 5 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-124.101319",
+        "40.932548",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "CA",
+      "city": "Mckinleyville",
+      "street": "1500 Anna Sparks Way",
+      "country": "USA",
+      "last_checked": "Checked 5 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-124.152796",
+        "40.804472",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "CA",
+      "city": "Eureka",
+      "street": "1730 4th St",
+      "country": "USA",
+      "last_checked": "Checked 5 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-124.190687",
+        "40.776316",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "CA",
+      "city": "Eureka",
+      "street": "3450 S Broadway",
+      "country": "USA",
+      "last_checked": "Checked 4 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-124.146309",
+        "40.58245",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "CA",
+      "city": "Fortuna",
+      "street": "761 S Fortuna Blvd",
+      "country": "USA",
+      "last_checked": "Checked 5 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-123.806906",
+        "39.423978",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": false,
+      "dot": "inactive",
+      "state": "CA",
+      "city": "Ft Bragg",
+      "street": "1190 S Main St",
+      "country": "USA",
+      "last_checked": "Checked 5 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-131.672389",
+        "55.34867",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "AK",
+      "city": "Ketchikan",
+      "street": "2417 Tongass Ave",
+      "country": "USA",
+      "last_checked": "Checked 5 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-134.576119",
+        "58.364486",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "AK",
+      "city": "Juneau",
+      "street": "2285 Trout St",
+      "country": "USA",
+      "last_checked": "Checked 4 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-135.349288",
+        "57.060111",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "AK",
+      "city": "Sitka",
+      "street": "913 Halibut Point Rd",
+      "country": "USA",
+      "last_checked": "Checked 5 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-132.543",
+        "38.46479",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "Maharastra",
+      "city": "Pune",
+      "street": "Morocco Mole Lab Pacific Ocean",
+      "country": "USA",
+      "last_checked": "Checked 5 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-147.350929",
+        "64.7576",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "AK",
+      "city": "North Pole",
+      "street": "352 N Santa Claus Ln",
+      "country": "USA",
+      "last_checked": "Checked 5 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-147.696844",
+        "64.859406",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "AK",
+      "city": "Fairbanks",
+      "street": "449 Harold Bentley Ave",
+      "country": "USA",
+      "last_checked": "Checked 4 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-147.759486",
+        "64.837255",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "AK",
+      "city": "Fairbanks",
+      "street": "1930 Airport Way",
+      "country": "USA",
+      "last_checked": "Checked 5 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-147.820013",
+        "64.848734",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "AK",
+      "city": "Fairbanks",
+      "street": "3905 Geist Rd",
+      "country": "USA",
+      "last_checked": "Checked 5 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-149.12364",
+        "61.598982",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": true,
+      "is_active": true,
+      "dot": "broken",
+      "state": "AK",
+      "city": "Palmer",
+      "street": "600 Daron Dr",
+      "country": "USA",
+      "last_checked": "Checked 5 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-149.430913",
+        "61.581584",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "AK",
+      "city": "Wasilla",
+      "street": "801 E Parks Hwy",
+      "country": "USA",
+      "last_checked": "Checked 5 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-149.571341",
+        "61.327018",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "AK",
+      "city": "Eagle River",
+      "street": "11808 Old Glenn Hwy",
+      "country": "USA",
+      "last_checked": "Checked 5 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-149.732514",
+        "61.221444",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "AK",
+      "city": "Anchorage",
+      "street": "255 Muldoon Rd",
+      "country": "USA",
+      "last_checked": "Checked 5 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-149.832403",
+        "61.18132",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "AK",
+      "city": "Anchorage",
+      "street": "2601 Tudor Rd",
+      "country": "USA",
+      "last_checked": "Checked 6 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-149.835083",
+        "61.138219",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "AK",
+      "city": "Anchorage",
+      "street": "9100 Lake Otis Pky",
+      "country": "USA",
+      "last_checked": "Checked 5 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-149.870531",
+        "61.188539",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "AK",
+      "city": "Anchorage",
+      "street": "701 E 36th Ave",
+      "country": "USA",
+      "last_checked": "Checked 6 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-149.863216",
+        "61.139912",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "AK",
+      "city": "Anchorage",
+      "street": "8915 Old Seward Hwy",
+      "country": "USA",
+      "last_checked": "Checked 6 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-149.857891",
+        "61.108265",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "AK",
+      "city": "Anchorage",
+      "street": "1320 Huffman Blvd",
+      "country": "USA",
+      "last_checked": "Checked 6 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-149.898632",
+        "61.194617",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "AK",
+      "city": "Anchorage",
+      "street": "800 W Northern Lights",
+      "country": "USA",
+      "last_checked": "Checked 6 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-149.937022",
+        "61.181581",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "AK",
+      "city": "Anchorage",
+      "street": "4350 Spenard Rd",
+      "country": "USA",
+      "last_checked": "Checked 6 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-149.950886",
+        "61.137134",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "AK",
+      "city": "Anchorage",
+      "street": "3828 Dimond Blvd",
+      "country": "USA",
+      "last_checked": "Checked 6 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-149.982613",
+        "61.174275",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": false,
+      "dot": "inactive",
+      "state": "AK",
+      "city": "Anchorage",
+      "street": "5000 W International Airport Rd",
+      "country": "USA",
+      "last_checked": "Checked 6 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-151.070798",
+        "60.483175",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "AK",
+      "city": "Soldotna",
+      "street": "44420 Sterling Hwy",
+      "country": "USA",
+      "last_checked": "Checked 6 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-151.235538",
+        "60.559686",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "AK",
+      "city": "Kenai",
+      "street": "10447 Spur Hwy",
+      "country": "USA",
+      "last_checked": "Checked 6 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-151.522907",
+        "59.642583",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "AK",
+      "city": "Homer",
+      "street": "3656 Ben Walters Ln",
+      "country": "USA",
+      "last_checked": "Checked 6 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-152.406555",
+        "57.790794",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": false,
+      "dot": "inactive",
+      "state": "AK",
+      "city": "Kodiak",
+      "street": "209 Thorsheim Ave",
+      "country": "USA",
+      "last_checked": "Checked 6 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-155.061947",
+        "19.700173",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "HI",
+      "city": "Hilo",
+      "street": "325 E Makaala St",
+      "country": "USA",
+      "last_checked": "Checked 6 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-155.087408",
+        "19.723204",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "HI",
+      "city": "Hilo",
+      "street": "255 Kinoole St",
+      "country": "USA",
+      "last_checked": "Checked 6 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-155.066512",
+        "19.691164",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "HI",
+      "city": "Hilo",
+      "street": "2100 Kanoelehua Ave",
+      "country": "USA",
+      "last_checked": "Checked 6 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-155.039268",
+        "19.622084",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "HI",
+      "city": "Keaau",
+      "street": "16-565 Old Volcano Road",
+      "country": "USA",
+      "last_checked": "Checked 6 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-155.666841",
+        "20.022401",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": true,
+      "is_active": true,
+      "dot": "broken",
+      "state": "HI",
+      "city": "Kamuela",
+      "street": "65-1154 Mamalahoa Hwy",
+      "country": "USA",
+      "last_checked": "Checked 6 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-156.337278",
+        "20.836092",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "HI",
+      "city": "Makawao",
+      "street": "3320 Old Haleakala Hwy",
+      "country": "USA",
+      "last_checked": "Checked 6 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-156.453627",
+        "20.883133",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": false,
+      "dot": "inactive",
+      "state": "HI",
+      "city": "Kahului",
+      "street": "340 Dairy Rd",
+      "country": "USA",
+      "last_checked": "Checked 6 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-156.455001",
+        "20.87822",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": false,
+      "dot": "inactive",
+      "state": "HI",
+      "city": "Kahului",
+      "street": "101 Pakaula St",
+      "country": "USA",
+      "last_checked": "Checked 6 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-156.465045",
+        "20.887603",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "HI",
+      "city": "Kahului",
+      "street": "155 Puunene Ave",
+      "country": "USA",
+      "last_checked": "Checked 6 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-156.487458",
+        "20.906114",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "HI",
+      "city": "Wailuku",
+      "street": "790 Eha St",
+      "country": "USA",
+      "last_checked": "Checked 6 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-156.503724",
+        "20.887568",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "HI",
+      "city": "Wailuku",
+      "street": "2138 Main St",
+      "country": "USA",
+      "last_checked": "Checked 6 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-156.500388",
+        "20.872414",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "HI",
+      "city": "Wailuku",
+      "street": "105 Kehalani Village Drive",
+      "country": "USA",
+      "last_checked": "Checked 6 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-156.456286",
+        "20.750603",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "HI",
+      "city": "Kihei",
+      "street": "1214 S Kihei Rd Po Box 1105",
+      "country": "USA",
+      "last_checked": "Checked 6 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-156.67753",
+        "20.971772",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "HI",
+      "city": "Lahaina",
+      "street": "4403 Honoapiilani Hwy",
+      "country": "USA",
+      "last_checked": "Checked 6 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-156.679397",
+        "20.877909",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "HI",
+      "city": "Lahaina",
+      "street": "885 Wainee St",
+      "country": "USA",
+      "last_checked": "Checked 6 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-155.990828",
+        "19.646235",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "HI",
+      "city": "Kailua Kona",
+      "street": "75-1015 Henry St",
+      "country": "USA",
+      "last_checked": "Checked 6 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-155.990748",
+        "19.639758",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "HI",
+      "city": "Kailua Kona",
+      "street": "75-5729 Kuakini Hwy",
+      "country": "USA",
+      "last_checked": "Checked 6 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-156.003992",
+        "19.649047",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "HI",
+      "city": "Kailua-Kona",
+      "street": "74-5453 Makala Blvd",
+      "country": "USA",
+      "last_checked": "Checked 6 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-155.920444",
+        "19.51759",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": true,
+      "is_active": true,
+      "dot": "broken",
+      "state": "HI",
+      "city": "Kealakekua",
+      "street": "81-6655 Mamalahoa Hwy",
+      "country": "USA",
+      "last_checked": "Checked 6 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-157.744955",
+        "21.442464",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "HI",
+      "city": "Kailua",
+      "street": "6691 Mokapu Rd",
+      "country": "USA",
+      "last_checked": "Checked 6 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-157.919927",
+        "21.64239",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "HI",
+      "city": "Laie",
+      "street": "55-442 Kamehameha Highway",
+      "country": "USA",
+      "last_checked": "Checked 6 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-157.742782",
+        "21.395311",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "HI",
+      "city": "Kailua",
+      "street": "406 Kuulei Rd",
+      "country": "USA",
+      "last_checked": "Checked 6 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-157.728776",
+        "21.377948",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "HI",
+      "city": "Kailua",
+      "street": "1058 Keolu Dr",
+      "country": "USA",
+      "last_checked": "Checked 6 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-157.704103",
+        "21.340635",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "HI",
+      "city": "Waimanalo",
+      "street": "41-1033 Kalanianaole Hwy",
+      "country": "USA",
+      "last_checked": "Checked 6 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-157.797779",
+        "21.402491",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "HI",
+      "city": "Kaneohe",
+      "street": "45-480 Kaneohe Bay Drive",
+      "country": "USA",
+      "last_checked": "Checked 6 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-157.826344",
+        "21.435486",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "HI",
+      "city": "Kaneohe",
+      "street": "47-250 Hui Iwa Street",
+      "country": "USA",
+      "last_checked": "Checked 6 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-157.708106",
+        "21.28524",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "HI",
+      "city": "Honolulu",
+      "street": "377 Keahole Street",
+      "country": "USA",
+      "last_checked": "Checked 6 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-157.754181",
+        "21.278297",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "HI",
+      "city": "Honolulu",
+      "street": "Aina Haina Shopping Center",
+      "country": "USA",
+      "last_checked": "Checked 6 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-157.809588",
+        "21.309661",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": false,
+      "dot": "inactive",
+      "state": "HI",
+      "city": "Honolulu",
+      "street": "2915 E Manoa Rd",
+      "country": "USA",
+      "last_checked": "Checked 6 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-157.78567",
+        "21.275447",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "HI",
+      "city": "Honolulu",
+      "street": "4618 Kilauea Ave",
+      "country": "USA",
+      "last_checked": "Checked 6 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-157.806451",
+        "21.286847",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "HI",
+      "city": "Honolulu",
+      "street": "3254 Waialae Ave",
+      "country": "USA",
+      "last_checked": "Checked 6 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-157.8282",
+        "21.293925",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": true,
+      "is_active": true,
+      "dot": "broken",
+      "state": "HI",
+      "city": "Honolulu",
+      "street": "2121 S King St",
+      "country": "USA",
+      "last_checked": "Checked 6 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-157.868494",
+        "21.335327",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "HI",
+      "city": "Honolulu",
+      "street": "1620 North School Street",
+      "country": "USA",
+      "last_checked": "Checked 6 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-157.859667",
+        "21.321575",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "HI",
+      "city": "Honolulu",
+      "street": "414 N School St",
+      "country": "USA",
+      "last_checked": "Checked 6 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-157.841009",
+        "21.297285",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": true,
+      "is_active": true,
+      "dot": "broken",
+      "state": "HI",
+      "city": "Honolulu",
+      "street": "910 Keeaumoku St",
+      "country": "USA",
+      "last_checked": "Checked 6 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-157.827558",
+        "21.280471",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": true,
+      "is_active": true,
+      "dot": "broken",
+      "state": "HI",
+      "city": "Honolulu",
+      "street": "2237 Kuhio Ave",
+      "country": "USA",
+      "last_checked": "Checked 6 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-157.846474",
+        "21.302412",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": true,
+      "is_active": true,
+      "dot": "broken",
+      "state": "HI",
+      "city": "Honolulu",
+      "street": "1055 S Beretania St",
+      "country": "USA",
+      "last_checked": "Checked 6 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-157.824149",
+        "21.274599",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": true,
+      "is_active": true,
+      "dot": "broken",
+      "state": "HI",
+      "city": "Honolulu",
+      "street": "2476 Kalakaua Ave",
+      "country": "USA",
+      "last_checked": "Checked 6 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-157.838445",
+        "21.285637",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "HI",
+      "city": "Honolulu",
+      "street": "1778 Ala Moana Blvd",
+      "country": "USA",
+      "last_checked": "Checked 6 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-157.860991",
+        "21.30986",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "HI",
+      "city": "Honolulu",
+      "street": "1101 Fort Street Mall",
+      "country": "USA",
+      "last_checked": "Checked 6 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-157.875919",
+        "21.324232",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": true,
+      "is_active": true,
+      "dot": "broken",
+      "state": "HI",
+      "city": "Honolulu",
+      "street": "1414 Dillingham Blvd",
+      "country": "USA",
+      "last_checked": "Checked 6 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-158.001668",
+        "21.467467",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "HI",
+      "city": "Mililani",
+      "street": "95-1860 Meheula Parkway",
+      "country": "USA",
+      "last_checked": "Checked 6 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-157.886055",
+        "21.327114",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "HI",
+      "city": "Honolulu",
+      "street": "2121 N Nimitz Hwy",
+      "country": "USA",
+      "last_checked": "Checked 6 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-157.930208",
+        "21.378909",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "HI",
+      "city": "Aiea",
+      "street": "99-115 Aiea Hts Drive",
+      "country": "USA",
+      "last_checked": "Checked 6 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-158.028696",
+        "21.494338",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "HI",
+      "city": "Wahiawa",
+      "street": "114 S Kamehameha Hwy",
+      "country": "USA",
+      "last_checked": "Checked 6 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-158.105528",
+        "21.581169",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "HI",
+      "city": "Haleiwa",
+      "street": "66-457 Kam Hwy",
+      "country": "USA",
+      "last_checked": "Checked 6 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-157.930041",
+        "21.367076",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "HI",
+      "city": "Honolulu",
+      "street": "4561 Salt Lake Blvd",
+      "country": "USA",
+      "last_checked": "Checked 6 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-157.913406",
+        "21.345912",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "HI",
+      "city": "Honolulu",
+      "street": "848 Ala Lilikoi St",
+      "country": "USA",
+      "last_checked": "Checked 6 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-157.943709",
+        "21.381949",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "HI",
+      "city": "Aiea",
+      "street": "98-147 Kamehameha Hwy",
+      "country": "USA",
+      "last_checked": "Checked 6 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-158.005546",
+        "21.449894",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "HI",
+      "city": "Mililani",
+      "street": "95-550 Lanikuhana Ave",
+      "country": "USA",
+      "last_checked": "Checked 6 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-157.914062",
+        "21.336128",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "HI",
+      "city": "Honolulu",
+      "street": "3299 North Nimitz Hwy",
+      "country": "USA",
+      "last_checked": "Checked 6 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-158.015757",
+        "21.456484",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "HI",
+      "city": "Mililani",
+      "street": "95-281 Kipapa Drive",
+      "country": "USA",
+      "last_checked": "Checked 6 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-157.930476",
+        "21.34893",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": false,
+      "dot": "inactive",
+      "state": "HI",
+      "city": "Honolulu",
+      "street": "4725 Bougainville Dr",
+      "country": "USA",
+      "last_checked": "Checked 6 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-157.974135",
+        "21.400147",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "HI",
+      "city": "Pearl City",
+      "street": "1180 Kuala Street",
+      "country": "USA",
+      "last_checked": "Checked 6 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-157.928129",
+        "21.344114",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": true,
+      "is_active": true,
+      "dot": "broken",
+      "state": "HI",
+      "city": "Honolulu",
+      "street": "928 Valkenburgh St",
+      "country": "USA",
+      "last_checked": "Checked 6 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-157.969645",
+        "21.394489",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": true,
+      "is_active": true,
+      "dot": "broken",
+      "state": "HI",
+      "city": "Pearl City",
+      "street": "1065 Waimano Home Rd",
+      "country": "USA",
+      "last_checked": "Checked 6 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-157.974458",
+        "21.397234",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "HI",
+      "city": "Pearl City",
+      "street": "1131 Kuala Street",
+      "country": "USA",
+      "last_checked": "Checked 6 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-157.945114",
+        "21.349632",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "HI",
+      "city": "Honolulu",
+      "street": "881 Fredrick St",
+      "country": "USA",
+      "last_checked": "Checked 6 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-158.005198",
+        "21.419327",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "HI",
+      "city": "Waipahu",
+      "street": "94-1015 Ka Uka Blvd",
+      "country": "USA",
+      "last_checked": "Checked 6 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-158.007572",
+        "21.400332",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "HI",
+      "city": "Waipahu",
+      "street": "94-795 Lumiaina St",
+      "country": "USA",
+      "last_checked": "Checked 6 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-158.034436",
+        "21.39137",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "HI",
+      "city": "Waipahu",
+      "street": "94-595 Kapuohi St",
+      "country": "USA",
+      "last_checked": "Checked 6 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-158.024173",
+        "21.378413",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "HI",
+      "city": "Waipahu",
+      "street": "94-212 Leoku St",
+      "country": "USA",
+      "last_checked": "Checked 6 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-158.013887",
+        "21.317707",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "HI",
+      "city": "Ewa Beach",
+      "street": "91-919 Ft Weaver Road",
+      "country": "USA",
+      "last_checked": "Checked 6 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-158.022659",
+        "21.326761",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "HI",
+      "city": "Ewa Beach",
+      "street": "91-1051 Keaunui Dr",
+      "country": "USA",
+      "last_checked": "Checked 6 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-158.075231",
+        "21.34195",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "HI",
+      "city": "Kapolei",
+      "street": "91-600 Farrington Hwy",
+      "country": "USA",
+      "last_checked": "Checked 6 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-158.077026",
+        "21.339842",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "HI",
+      "city": "Kapolei",
+      "street": "91-590 Farrington Hwy",
+      "country": "USA",
+      "last_checked": "Checked 6 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-158.08786",
+        "21.328431",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": true,
+      "is_active": true,
+      "dot": "broken",
+      "state": "HI",
+      "city": "Kapolei",
+      "street": "4600 Kapolei Parkway",
+      "country": "USA",
+      "last_checked": "Checked 6 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-158.188961",
+        "21.447831",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "HI",
+      "city": "Waianae",
+      "street": "85-770 Farrington Highway",
+      "country": "USA",
+      "last_checked": "Checked 6 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-158.151428",
+        "21.387552",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "HI",
+      "city": "Waianae",
+      "street": "87-2028 Farrington Highway",
+      "country": "USA",
+      "last_checked": "Checked 6 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-159.321851",
+        "22.061149",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "HI",
+      "city": "Kapaa",
+      "street": "4-0771 Kuhio Hwy",
+      "country": "USA",
+      "last_checked": "Checked 6 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-159.368738",
+        "21.977832",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "HI",
+      "city": "Lihue",
+      "street": "3113 Kuhio Hwy",
+      "country": "USA",
+      "last_checked": "Checked 6 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-159.584882",
+        "21.904751",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "HI",
+      "city": "Eleele",
+      "street": "4469 Waialo Rd",
+      "country": "USA",
+      "last_checked": "Checked 6 minutes ago"
+    },
+    "type": "Feature"
+  }
+]
