@@ -51,9 +51,9 @@
       "type": "Point"
     },
     "properties": {
-      "is_broken": true,
+      "is_broken": false,
       "is_active": true,
-      "dot": "broken",
+      "dot": "working",
       "state": null,
       "city": "Toronto",
       "street": "356 Yonge Street",
@@ -345,9 +345,9 @@
       "type": "Point"
     },
     "properties": {
-      "is_broken": true,
+      "is_broken": false,
       "is_active": true,
-      "dot": "broken",
+      "dot": "working",
       "state": null,
       "city": "Toronto",
       "street": "25 Joe Shuster Way ",
@@ -688,7 +688,7 @@
       "city": "Scarborough",
       "street": "2480 Gerrard Street East",
       "country": "CA",
-      "last_checked": "Checked 6 minutes ago"
+      "last_checked": "Checked 7 minutes ago"
     },
     "type": "Feature"
   },
@@ -709,7 +709,7 @@
       "city": "Toronto",
       "street": "3400 Yonge St",
       "country": "CA",
-      "last_checked": "Checked 7 minutes ago"
+      "last_checked": "Checked 8 minutes ago"
     },
     "type": "Feature"
   },
@@ -751,7 +751,7 @@
       "city": "North York",
       "street": "1890 Avenue Rd ",
       "country": "CA",
-      "last_checked": "Checked 6 minutes ago"
+      "last_checked": "Checked 7 minutes ago"
     },
     "type": "Feature"
   },
@@ -772,7 +772,7 @@
       "city": "Scarborough",
       "street": "3150 St. Clair E., ",
       "country": "CA",
-      "last_checked": "Checked 6 minutes ago"
+      "last_checked": "Checked 7 minutes ago"
     },
     "type": "Feature"
   },
@@ -793,7 +793,7 @@
       "city": "Toronto",
       "street": "(Wal-Mart) 1305 Lawrence Avenue West, Wal-Mart - North Park S.C.",
       "country": "CA",
-      "last_checked": "Checked 7 minutes ago"
+      "last_checked": "Checked 8 minutes ago"
     },
     "type": "Feature"
   },
@@ -814,7 +814,7 @@
       "city": "Etobicoke",
       "street": "2736 Lakeshore Blvd W",
       "country": "CA",
-      "last_checked": "Checked 6 minutes ago"
+      "last_checked": "Checked 7 minutes ago"
     },
     "type": "Feature"
   },
@@ -835,7 +835,7 @@
       "city": "Toronto",
       "street": "(Wal-Mart) 1900 Eglinton Avenue East ",
       "country": "CA",
-      "last_checked": "Checked 6 minutes ago"
+      "last_checked": "Checked 7 minutes ago"
     },
     "type": "Feature"
   },
@@ -856,7 +856,7 @@
       "city": "Etobicoke",
       "street": "1001 Islington Avenue South",
       "country": "CA",
-      "last_checked": "Checked 7 minutes ago"
+      "last_checked": "Checked 8 minutes ago"
     },
     "type": "Feature"
   },
@@ -877,7 +877,7 @@
       "city": "North York",
       "street": "808 York Mills Rd., Building D Unit 1",
       "country": "CA",
-      "last_checked": "Checked 6 minutes ago"
+      "last_checked": "Checked 7 minutes ago"
     },
     "type": "Feature"
   },
@@ -898,7 +898,7 @@
       "city": "Toronto",
       "street": "1966 Eglinton Ave E",
       "country": "CA",
-      "last_checked": "Checked 6 minutes ago"
+      "last_checked": "Checked 7 minutes ago"
     },
     "type": "Feature"
   },
@@ -919,7 +919,7 @@
       "city": "Downsview",
       "street": "2020 Jane Street",
       "country": "CA",
-      "last_checked": "Checked 6 minutes ago"
+      "last_checked": "Checked 7 minutes ago"
     },
     "type": "Feature"
   },
@@ -940,7 +940,7 @@
       "city": "Toronto",
       "street": "4808 Yonge Street, Unit 6 ",
       "country": "CA",
-      "last_checked": "Checked 7 minutes ago"
+      "last_checked": "Checked 8 minutes ago"
     },
     "type": "Feature"
   },
@@ -961,7 +961,7 @@
       "city": "Scarborough",
       "street": "85 Ellesmere Road, Unit #C1 ",
       "country": "CA",
-      "last_checked": "Checked 6 minutes ago"
+      "last_checked": "Checked 7 minutes ago"
     },
     "type": "Feature"
   },
@@ -982,7 +982,7 @@
       "city": "North York",
       "street": "1125 Sheppard Avenue East",
       "country": "CA",
-      "last_checked": "Checked 6 minutes ago"
+      "last_checked": "Checked 7 minutes ago"
     },
     "type": "Feature"
   },
@@ -1003,7 +1003,7 @@
       "city": "Toronto",
       "street": "5453 Dundas Street St.W",
       "country": "CA",
-      "last_checked": "Checked 6 minutes ago"
+      "last_checked": "Checked 7 minutes ago"
     },
     "type": "Feature"
   },
@@ -1024,7 +1024,7 @@
       "city": "Toronto",
       "street": "2 Greystone Walk Drive",
       "country": "CA",
-      "last_checked": "Checked 7 minutes ago"
+      "last_checked": "Checked 8 minutes ago"
     },
     "type": "Feature"
   },
@@ -1045,7 +1045,7 @@
       "city": "Toronto",
       "street": "150 Rimrock Road",
       "country": "CA",
-      "last_checked": "Checked 6 minutes ago"
+      "last_checked": "Checked 7 minutes ago"
     },
     "type": "Feature"
   },
@@ -1066,7 +1066,7 @@
       "city": "North York",
       "street": "2625F Weston Road",
       "country": "CA",
-      "last_checked": "Checked 6 minutes ago"
+      "last_checked": "Checked 7 minutes ago"
     },
     "type": "Feature"
   },
@@ -1087,7 +1087,7 @@
       "city": "North York",
       "street": "(Food Court) 1800 Sheppard Ave. East ",
       "country": "CA",
-      "last_checked": "Checked 6 minutes ago"
+      "last_checked": "Checked 7 minutes ago"
     },
     "type": "Feature"
   },
@@ -1108,7 +1108,7 @@
       "city": "Etobicoke",
       "street": "(Wal-Mart) 165 North Queen St. ",
       "country": "CA",
-      "last_checked": "Checked 7 minutes ago"
+      "last_checked": "Checked 8 minutes ago"
     },
     "type": "Feature"
   },
@@ -1129,7 +1129,7 @@
       "city": "Etobicoke",
       "street": "195 North Queen Street",
       "country": "CA",
-      "last_checked": "Checked 6 minutes ago"
+      "last_checked": "Checked 7 minutes ago"
     },
     "type": "Feature"
   },
@@ -1150,7 +1150,7 @@
       "city": "Etobicoke",
       "street": "1735 Kipling Avenue, Westway Plaza",
       "country": "CA",
-      "last_checked": "Checked 6 minutes ago"
+      "last_checked": "Checked 7 minutes ago"
     },
     "type": "Feature"
   },
@@ -1171,7 +1171,7 @@
       "city": "Scarborough",
       "street": "2701 Lawrence Avenue East",
       "country": "CA",
-      "last_checked": "Checked 6 minutes ago"
+      "last_checked": "Checked 7 minutes ago"
     },
     "type": "Feature"
   },
@@ -1192,7 +1192,7 @@
       "city": "Etobicoke",
       "street": "(Food Court) 25 The West Mall ",
       "country": "CA",
-      "last_checked": "Checked 7 minutes ago"
+      "last_checked": "Checked 8 minutes ago"
     },
     "type": "Feature"
   },
@@ -1213,7 +1213,7 @@
       "city": "Toronto",
       "street": "3929 Keele Street",
       "country": "CA",
-      "last_checked": "Checked 6 minutes ago"
+      "last_checked": "Checked 7 minutes ago"
     },
     "type": "Feature"
   },
@@ -1234,7 +1234,7 @@
       "city": "North York",
       "street": "3030 Don Mills Road",
       "country": "CA",
-      "last_checked": "Checked 6 minutes ago"
+      "last_checked": "Checked 7 minutes ago"
     },
     "type": "Feature"
   },
@@ -1255,7 +1255,7 @@
       "city": "Scarborough",
       "street": "2870 Eglinton Ave E",
       "country": "CA",
-      "last_checked": "Checked 6 minutes ago"
+      "last_checked": "Checked 7 minutes ago"
     },
     "type": "Feature"
   },
@@ -1276,7 +1276,7 @@
       "city": "Scarborough",
       "street": "(Mall) 3305 Sheppard Ave.E., ",
       "country": "CA",
-      "last_checked": "Checked 7 minutes ago"
+      "last_checked": "Checked 8 minutes ago"
     },
     "type": "Feature"
   },
@@ -1297,7 +1297,7 @@
       "city": "Toronto",
       "street": "(Wal-Mart) 2267 Islington Avenue ",
       "country": "CA",
-      "last_checked": "Checked 6 minutes ago"
+      "last_checked": "Checked 7 minutes ago"
     },
     "type": "Feature"
   },
@@ -1318,7 +1318,7 @@
       "city": "Etobicoke",
       "street": "4333 Bloor St. W  (Mill Road)",
       "country": "CA",
-      "last_checked": "Checked 6 minutes ago"
+      "last_checked": "Checked 7 minutes ago"
     },
     "type": "Feature"
   },
@@ -1339,7 +1339,7 @@
       "city": "Toronto",
       "street": "17 William Kitchen Road",
       "country": "CA",
-      "last_checked": "Checked 6 minutes ago"
+      "last_checked": "Checked 7 minutes ago"
     },
     "type": "Feature"
   },
@@ -1360,7 +1360,7 @@
       "city": "Downsview",
       "street": "1831 Finch Avenue W.",
       "country": "CA",
-      "last_checked": "Checked 7 minutes ago"
+      "last_checked": "Checked 8 minutes ago"
     },
     "type": "Feature"
   },
@@ -1381,7 +1381,7 @@
       "city": "Willowdale",
       "street": "6170 Bathurst St.",
       "country": "CA",
-      "last_checked": "Checked 6 minutes ago"
+      "last_checked": "Checked 7 minutes ago"
     },
     "type": "Feature"
   },
@@ -1402,7 +1402,7 @@
       "city": "Scarborough",
       "street": "(Wal-Mart) 3132 Eglinton Avenue East  ",
       "country": "CA",
-      "last_checked": "Checked 6 minutes ago"
+      "last_checked": "Checked 7 minutes ago"
     },
     "type": "Feature"
   },
@@ -1423,7 +1423,7 @@
       "city": "Agincourt",
       "street": "(Mall) 2936 Finch Ave E ",
       "country": "CA",
-      "last_checked": "Checked 7 minutes ago"
+      "last_checked": "Checked 8 minutes ago"
     },
     "type": "Feature"
   },
@@ -1444,7 +1444,7 @@
       "city": "Agincourt",
       "street": "(Wal-Mart) 3850 Sheppard Avenue East, Wal-Mart - Agincourt S.C.",
       "country": "CA",
-      "last_checked": "Checked 6 minutes ago"
+      "last_checked": "Checked 7 minutes ago"
     },
     "type": "Feature"
   },
@@ -1486,7 +1486,7 @@
       "city": "Mississauga",
       "street": "(Wal-Mart) 1500 Dundas Street East  ",
       "country": "CA",
-      "last_checked": "Checked 6 minutes ago"
+      "last_checked": "Checked 7 minutes ago"
     },
     "type": "Feature"
   },
@@ -1507,7 +1507,7 @@
       "city": "Rexdale",
       "street": "2116 Kipling Ave N.,",
       "country": "CA",
-      "last_checked": "Checked 7 minutes ago"
+      "last_checked": "Checked 8 minutes ago"
     },
     "type": "Feature"
   },
@@ -1528,7 +1528,7 @@
       "city": "Mississauga",
       "street": "2800 Skymark Avenue",
       "country": "CA",
-      "last_checked": "Checked 6 minutes ago"
+      "last_checked": "Checked 7 minutes ago"
     },
     "type": "Feature"
   },
@@ -1570,7 +1570,7 @@
       "city": "Scarborough",
       "street": "(Food Court) 3495 Lawrence Ave. East ",
       "country": "CA",
-      "last_checked": "Checked 6 minutes ago"
+      "last_checked": "Checked 7 minutes ago"
     },
     "type": "Feature"
   },
@@ -1591,7 +1591,7 @@
       "city": "Toronto",
       "street": "2362 Finch Avenue West",
       "country": "CA",
-      "last_checked": "Checked 7 minutes ago"
+      "last_checked": "Checked 8 minutes ago"
     },
     "type": "Feature"
   },
@@ -1612,7 +1612,7 @@
       "city": "Scarborough",
       "street": "(Food Court) 2900 Warden Ave ",
       "country": "CA",
-      "last_checked": "Checked 6 minutes ago"
+      "last_checked": "Checked 7 minutes ago"
     },
     "type": "Feature"
   },
@@ -1654,7 +1654,7 @@
       "city": "Mississauga",
       "street": "Cavenshore Shopping Centre, 601 Lakeshore Road East",
       "country": "CA",
-      "last_checked": "Checked 6 minutes ago"
+      "last_checked": "Checked 7 minutes ago"
     },
     "type": "Feature"
   },
@@ -1675,7 +1675,7 @@
       "city": "Mississauga",
       "street": "1050 Dundas Street East",
       "country": "CA",
-      "last_checked": "Checked 7 minutes ago"
+      "last_checked": "Checked 8 minutes ago"
     },
     "type": "Feature"
   },
@@ -1696,7 +1696,7 @@
       "city": "Vaughan",
       "street": "3320 Steeles Avenue West",
       "country": "CA",
-      "last_checked": "Checked 6 minutes ago"
+      "last_checked": "Checked 7 minutes ago"
     },
     "type": "Feature"
   },
@@ -1738,7 +1738,7 @@
       "city": "Scarborough",
       "street": "1280 Markham Rd",
       "country": "CA",
-      "last_checked": "Checked 6 minutes ago"
+      "last_checked": "Checked 7 minutes ago"
     },
     "type": "Feature"
   },
@@ -1759,7 +1759,7 @@
       "city": "Scarborough",
       "street": "395 Bamburgh Circle",
       "country": "CA",
-      "last_checked": "Checked 7 minutes ago"
+      "last_checked": "Checked 8 minutes ago"
     },
     "type": "Feature"
   },
@@ -1780,7 +1780,7 @@
       "city": "Concord",
       "street": "1600 Highway 7",
       "country": "CA",
-      "last_checked": "Checked 6 minutes ago"
+      "last_checked": "Checked 7 minutes ago"
     },
     "type": "Feature"
   },
@@ -1822,7 +1822,7 @@
       "city": "Scarborough",
       "street": "1571 Sandhurst Circle",
       "country": "CA",
-      "last_checked": "Checked 6 minutes ago"
+      "last_checked": "Checked 7 minutes ago"
     },
     "type": "Feature"
   },
@@ -1843,7 +1843,7 @@
       "city": "Mississauga",
       "street": "5310 Dixie Road",
       "country": "CA",
-      "last_checked": "Checked 7 minutes ago"
+      "last_checked": "Checked 8 minutes ago"
     },
     "type": "Feature"
   },
@@ -1864,7 +1864,7 @@
       "city": "Scarborough",
       "street": "4435 Kingston Rd.,",
       "country": "CA",
-      "last_checked": "Checked 6 minutes ago"
+      "last_checked": "Checked 7 minutes ago"
     },
     "type": "Feature"
   },
@@ -1906,7 +1906,7 @@
       "city": "Vaughan",
       "street": "(Wal-Mart) 670 Applewood Cres. ",
       "country": "CA",
-      "last_checked": "Checked 6 minutes ago"
+      "last_checked": "Checked 7 minutes ago"
     },
     "type": "Feature"
   },
@@ -1927,7 +1927,7 @@
       "city": "Mississauga",
       "street": "2500 Hurontario St",
       "country": "CA",
-      "last_checked": "Checked 7 minutes ago"
+      "last_checked": "Checked 8 minutes ago"
     },
     "type": "Feature"
   },
@@ -1948,7 +1948,7 @@
       "city": "Mississauga",
       "street": "377 Burnhamthorpe Road East",
       "country": "CA",
-      "last_checked": "Checked 6 minutes ago"
+      "last_checked": "Checked 7 minutes ago"
     },
     "type": "Feature"
   },
@@ -1990,7 +1990,7 @@
       "city": "Malton",
       "street": "3510 Derry Road East",
       "country": "CA",
-      "last_checked": "Checked 6 minutes ago"
+      "last_checked": "Checked 7 minutes ago"
     },
     "type": "Feature"
   },
@@ -2011,7 +2011,7 @@
       "city": "Woodbridge",
       "street": "4535 Highway #7",
       "country": "CA",
-      "last_checked": "Checked 7 minutes ago"
+      "last_checked": "Checked 8 minutes ago"
     },
     "type": "Feature"
   },
@@ -2032,7 +2032,7 @@
       "city": "Richmond Hill",
       "street": "(Wal-Mart) 255 Silver Linden Drive ",
       "country": "CA",
-      "last_checked": "Checked 6 minutes ago"
+      "last_checked": "Checked 7 minutes ago"
     },
     "type": "Feature"
   },
@@ -2074,7 +2074,7 @@
       "city": "Scarborough",
       "street": "(Mall) Malvern Town Centre, 31 Tapscott Road",
       "country": "CA",
-      "last_checked": "Checked 6 minutes ago"
+      "last_checked": "Checked 7 minutes ago"
     },
     "type": "Feature"
   },
@@ -2095,7 +2095,7 @@
       "city": "Mississauga",
       "street": "3025 Clayhill Rd.",
       "country": "CA",
-      "last_checked": "Checked 7 minutes ago"
+      "last_checked": "Checked 8 minutes ago"
     },
     "type": "Feature"
   },
@@ -2116,7 +2116,7 @@
       "city": "Scarborough",
       "street": "(Wal-Mart) 785 Milner Avenue ",
       "country": "CA",
-      "last_checked": "Checked 6 minutes ago"
+      "last_checked": "Checked 7 minutes ago"
     },
     "type": "Feature"
   },
@@ -2158,7 +2158,7 @@
       "city": "Mississauga",
       "street": "(Wal-Mart) 100 City Centre Drive, Wal-Mart - Square One Sc",
       "country": "CA",
-      "last_checked": "Checked 6 minutes ago"
+      "last_checked": "Checked 7 minutes ago"
     },
     "type": "Feature"
   },
@@ -2179,7 +2179,7 @@
       "city": "Richmond Hill",
       "street": "9301 Yonge Street",
       "country": "CA",
-      "last_checked": "Checked 7 minutes ago"
+      "last_checked": "Checked 8 minutes ago"
     },
     "type": "Feature"
   },
@@ -2200,7 +2200,7 @@
       "city": "Mississauga",
       "street": "44 Bristol Road East",
       "country": "CA",
-      "last_checked": "Checked 6 minutes ago"
+      "last_checked": "Checked 7 minutes ago"
     },
     "type": "Feature"
   },
@@ -2242,7 +2242,7 @@
       "city": "Richmond Hill",
       "street": "1383 16Th Avenue , Unit 1",
       "country": "CA",
-      "last_checked": "Checked 6 minutes ago"
+      "last_checked": "Checked 7 minutes ago"
     },
     "type": "Feature"
   },
@@ -2263,7 +2263,7 @@
       "city": "Vaughan",
       "street": "3140 Rutherford Road",
       "country": "CA",
-      "last_checked": "Checked 7 minutes ago"
+      "last_checked": "Checked 8 minutes ago"
     },
     "type": "Feature"
   },
@@ -2284,7 +2284,7 @@
       "city": "Mississauga",
       "street": "796 Burnhamthorpe Rd West",
       "country": "CA",
-      "last_checked": "Checked 6 minutes ago"
+      "last_checked": "Checked 7 minutes ago"
     },
     "type": "Feature"
   },
@@ -2326,7 +2326,7 @@
       "city": "Vaughan",
       "street": "9200 Weston Road",
       "country": "CA",
-      "last_checked": "Checked 6 minutes ago"
+      "last_checked": "Checked 7 minutes ago"
     },
     "type": "Feature"
   },
@@ -2347,7 +2347,7 @@
       "city": "Mississauga",
       "street": "670 Eglinton Ave.West",
       "country": "CA",
-      "last_checked": "Checked 7 minutes ago"
+      "last_checked": "Checked 8 minutes ago"
     },
     "type": "Feature"
   },
@@ -2368,7 +2368,7 @@
       "city": "Mississauga",
       "street": "930 Derry Road East",
       "country": "CA",
-      "last_checked": "Checked 6 minutes ago"
+      "last_checked": "Checked 7 minutes ago"
     },
     "type": "Feature"
   },
@@ -2410,7 +2410,7 @@
       "city": "Vaughan",
       "street": "(Wal-Mart) 8300 Highway #27 ",
       "country": "CA",
-      "last_checked": "Checked 6 minutes ago"
+      "last_checked": "Checked 7 minutes ago"
     },
     "type": "Feature"
   },
@@ -2431,7 +2431,7 @@
       "city": "Clarkson",
       "street": "1829 Lakeshore Blvd West",
       "country": "CA",
-      "last_checked": "Checked 7 minutes ago"
+      "last_checked": "Checked 8 minutes ago"
     },
     "type": "Feature"
   },
@@ -2452,7 +2452,7 @@
       "city": "Brampton",
       "street": "2439 Steeles Ave.East",
       "country": "CA",
-      "last_checked": "Checked 6 minutes ago"
+      "last_checked": "Checked 7 minutes ago"
     },
     "type": "Feature"
   },
@@ -2494,7 +2494,7 @@
       "city": "Vaughan",
       "street": "(Wal-Mart) 1900 Major Mackenzie Drive ",
       "country": "CA",
-      "last_checked": "Checked 6 minutes ago"
+      "last_checked": "Checked 7 minutes ago"
     },
     "type": "Feature"
   },
@@ -2515,7 +2515,7 @@
       "city": "Markham",
       "street": "(Wal-Mart) 5000 Highway #7, Wal-Mart - Markville S.C.",
       "country": "CA",
-      "last_checked": "Checked 7 minutes ago"
+      "last_checked": "Checked 8 minutes ago"
     },
     "type": "Feature"
   },
@@ -2536,7 +2536,7 @@
       "city": "Markham",
       "street": "5225 Hwy. #7",
       "country": "CA",
-      "last_checked": "Checked 6 minutes ago"
+      "last_checked": "Checked 7 minutes ago"
     },
     "type": "Feature"
   },
@@ -2578,7 +2578,7 @@
       "city": "Vaughan",
       "street": "150 Mcnaughton Road East, Building J",
       "country": "CA",
-      "last_checked": "Checked 6 minutes ago"
+      "last_checked": "Checked 7 minutes ago"
     },
     "type": "Feature"
   },
@@ -2599,7 +2599,7 @@
       "city": "Mississauga",
       "street": "30 Courtneypark Drive East",
       "country": "CA",
-      "last_checked": "Checked 7 minutes ago"
+      "last_checked": "Checked 8 minutes ago"
     },
     "type": "Feature"
   },
@@ -2620,7 +2620,7 @@
       "city": "Maple",
       "street": "2810 Major Mackenzie Drive, Building 'C'",
       "country": "CA",
-      "last_checked": "Checked 6 minutes ago"
+      "last_checked": "Checked 7 minutes ago"
     },
     "type": "Feature"
   },
@@ -2662,7 +2662,7 @@
       "city": "Vaughan",
       "street": "3500 Major Mackenzie Drive West - Bldg C ",
       "country": "CA",
-      "last_checked": "Checked 6 minutes ago"
+      "last_checked": "Checked 7 minutes ago"
     },
     "type": "Feature"
   },
@@ -2683,7 +2683,7 @@
       "city": "Mississauga",
       "street": "(Wal-Mart) 800 Matheson Blvd. West ",
       "country": "CA",
-      "last_checked": "Checked 7 minutes ago"
+      "last_checked": "Checked 8 minutes ago"
     },
     "type": "Feature"
   },
@@ -2704,7 +2704,7 @@
       "city": "Mississauga",
       "street": "5995 Mavis Road",
       "country": "CA",
-      "last_checked": "Checked 6 minutes ago"
+      "last_checked": "Checked 7 minutes ago"
     },
     "type": "Feature"
   },
@@ -2746,7 +2746,7 @@
       "city": "Mississauga",
       "street": "2255 Erin Mills Parkway",
       "country": "CA",
-      "last_checked": "Checked 6 minutes ago"
+      "last_checked": "Checked 7 minutes ago"
     },
     "type": "Feature"
   },
@@ -2767,7 +2767,7 @@
       "city": "Vaughan",
       "street": "9600 Islington Ave, Bldg C1",
       "country": "CA",
-      "last_checked": "Checked 7 minutes ago"
+      "last_checked": "Checked 8 minutes ago"
     },
     "type": "Feature"
   },
@@ -2788,7 +2788,7 @@
       "city": "Brampton",
       "street": "(Wal-Mart) 30 Coventry Road ",
       "country": "CA",
-      "last_checked": "Checked 6 minutes ago"
+      "last_checked": "Checked 7 minutes ago"
     },
     "type": "Feature"
   },
@@ -2830,7 +2830,7 @@
       "city": "Mississauga",
       "street": "7050 Mclaughlin Road",
       "country": "CA",
-      "last_checked": "Checked 6 minutes ago"
+      "last_checked": "Checked 7 minutes ago"
     },
     "type": "Feature"
   },
@@ -2851,7 +2851,7 @@
       "city": "Richmond Hill",
       "street": "11005 Yonge Street",
       "country": "CA",
-      "last_checked": "Checked 7 minutes ago"
+      "last_checked": "Checked 8 minutes ago"
     },
     "type": "Feature"
   },
@@ -2872,7 +2872,7 @@
       "city": "Brampton",
       "street": "2450 Queen Street East Rr#4",
       "country": "CA",
-      "last_checked": "Checked 6 minutes ago"
+      "last_checked": "Checked 7 minutes ago"
     },
     "type": "Feature"
   },
@@ -2914,7 +2914,7 @@
       "city": "Markham",
       "street": "(Wal-Mart) 500 Copper Creek Blvd. ",
       "country": "CA",
-      "last_checked": "Checked 6 minutes ago"
+      "last_checked": "Checked 7 minutes ago"
     },
     "type": "Feature"
   },
@@ -2935,7 +2935,7 @@
       "city": "Brampton",
       "street": "235 Castle Oaks Crossing",
       "country": "CA",
-      "last_checked": "Checked 7 minutes ago"
+      "last_checked": "Checked 8 minutes ago"
     },
     "type": "Feature"
   },
@@ -2956,7 +2956,7 @@
       "city": "Brampton",
       "street": "(Food Court) 25 Peel Centre Drive, Unit F1",
       "country": "CA",
-      "last_checked": "Checked 6 minutes ago"
+      "last_checked": "Checked 7 minutes ago"
     },
     "type": "Feature"
   },
@@ -2998,7 +2998,7 @@
       "city": "Oakville",
       "street": "2510 Hampshire Gate",
       "country": "CA",
-      "last_checked": "Checked 6 minutes ago"
+      "last_checked": "Checked 7 minutes ago"
     },
     "type": "Feature"
   },
@@ -3019,7 +3019,7 @@
       "city": "Brampton",
       "street": "50 Kennedy Rd S",
       "country": "CA",
-      "last_checked": "Checked 7 minutes ago"
+      "last_checked": "Checked 8 minutes ago"
     },
     "type": "Feature"
   },
@@ -3040,7 +3040,7 @@
       "city": "Mississauga",
       "street": "2965 Eglinton Ave.W",
       "country": "CA",
-      "last_checked": "Checked 6 minutes ago"
+      "last_checked": "Checked 7 minutes ago"
     },
     "type": "Feature"
   },
@@ -3082,7 +3082,7 @@
       "city": "Mississauga",
       "street": "5636 Glen Erin Drive",
       "country": "CA",
-      "last_checked": "Checked 6 minutes ago"
+      "last_checked": "Checked 7 minutes ago"
     },
     "type": "Feature"
   },
@@ -3103,7 +3103,7 @@
       "city": "Mississauga",
       "street": "6410 Millcreek Drive",
       "country": "CA",
-      "last_checked": "Checked 7 minutes ago"
+      "last_checked": "Checked 8 minutes ago"
     },
     "type": "Feature"
   },
@@ -3124,7 +3124,7 @@
       "city": "Brampton",
       "street": "45 Mountain Ash Rd.",
       "country": "CA",
-      "last_checked": "Checked 6 minutes ago"
+      "last_checked": "Checked 7 minutes ago"
     },
     "type": "Feature"
   },
@@ -3166,7 +3166,7 @@
       "city": "Mississauga",
       "street": "6650 Meadowvale Town Centre Circle",
       "country": "CA",
-      "last_checked": "Checked 6 minutes ago"
+      "last_checked": "Checked 7 minutes ago"
     },
     "type": "Feature"
   },
@@ -3187,7 +3187,7 @@
       "city": "Brampton",
       "street": "Kingspoint Plaza, 372 Main Street North",
       "country": "CA",
-      "last_checked": "Checked 7 minutes ago"
+      "last_checked": "Checked 8 minutes ago"
     },
     "type": "Feature"
   },
@@ -3208,7 +3208,7 @@
       "city": "Oakville",
       "street": "375 Iroquois Shore Rd",
       "country": "CA",
-      "last_checked": "Checked 6 minutes ago"
+      "last_checked": "Checked 7 minutes ago"
     },
     "type": "Feature"
   },
@@ -3250,7 +3250,7 @@
       "city": "Oakville",
       "street": "227 Cross Ave",
       "country": "CA",
-      "last_checked": "Checked 6 minutes ago"
+      "last_checked": "Checked 7 minutes ago"
     },
     "type": "Feature"
   },
@@ -3271,7 +3271,7 @@
       "city": "Brampton",
       "street": "(Wal-Mart) 50 Quarry Edge Drive ",
       "country": "CA",
-      "last_checked": "Checked 7 minutes ago"
+      "last_checked": "Checked 8 minutes ago"
     },
     "type": "Feature"
   },
@@ -3292,7 +3292,7 @@
       "city": "Pickering",
       "street": "1899 Brock Road",
       "country": "CA",
-      "last_checked": "Checked 6 minutes ago"
+      "last_checked": "Checked 7 minutes ago"
     },
     "type": "Feature"
   },
@@ -3306,9 +3306,9 @@
       "type": "Point"
     },
     "properties": {
-      "is_broken": false,
+      "is_broken": true,
       "is_active": true,
-      "dot": "working",
+      "dot": "broken",
       "state": null,
       "city": "Oakville",
       "street": "(Wal-Mart) 235 Hays Blvd ",
@@ -3355,7 +3355,7 @@
       "city": "Richmond Hill",
       "street": "13233 Yonge St",
       "country": "CA",
-      "last_checked": "Checked 7 minutes ago"
+      "last_checked": "Checked 8 minutes ago"
     },
     "type": "Feature"
   },
@@ -3376,7 +3376,7 @@
       "city": "Brampton",
       "street": "160 Sandalwood Parkway East",
       "country": "CA",
-      "last_checked": "Checked 6 minutes ago"
+      "last_checked": "Checked 7 minutes ago"
     },
     "type": "Feature"
   },
@@ -3439,7 +3439,7 @@
       "city": "Brampton",
       "street": "(Wal-Mart) 9521 Mississauga Road ",
       "country": "CA",
-      "last_checked": "Checked 7 minutes ago"
+      "last_checked": "Checked 8 minutes ago"
     },
     "type": "Feature"
   },
@@ -3831,9 +3831,9 @@
       "type": "Point"
     },
     "properties": {
-      "is_broken": true,
+      "is_broken": false,
       "is_active": true,
-      "dot": "broken",
+      "dot": "working",
       "state": null,
       "city": "Aurora",
       "street": "229 Earl Stewart Drive ",
@@ -4741,7 +4741,7 @@
       "city": "Waterdown",
       "street": "(Wal-Mart) 90 Dundas Street East ",
       "country": "CA",
-      "last_checked": "Checked 5 minutes ago"
+      "last_checked": "Checked 6 minutes ago"
     },
     "type": "Feature"
   },
@@ -4825,7 +4825,7 @@
       "city": "Niagara On The Lake",
       "street": "300 Taylor Road",
       "country": "CA",
-      "last_checked": "Checked 5 minutes ago"
+      "last_checked": "Checked 6 minutes ago"
     },
     "type": "Feature"
   },
@@ -4909,7 +4909,7 @@
       "city": "St Catharines",
       "street": "460 St David Rd",
       "country": "CA",
-      "last_checked": "Checked 5 minutes ago"
+      "last_checked": "Checked 6 minutes ago"
     },
     "type": "Feature"
   },
@@ -4993,7 +4993,7 @@
       "city": "Hamilton",
       "street": "(Wal-Mart) 675 Upper James Street ",
       "country": "CA",
-      "last_checked": "Checked 5 minutes ago"
+      "last_checked": "Checked 6 minutes ago"
     },
     "type": "Feature"
   },
@@ -5077,7 +5077,7 @@
       "city": "Hamilton",
       "street": "(Wal-Mart) 2190 Rymal Road ",
       "country": "CA",
-      "last_checked": "Checked 5 minutes ago"
+      "last_checked": "Checked 6 minutes ago"
     },
     "type": "Feature"
   },
@@ -5161,7 +5161,7 @@
       "city": "Niagara Falls",
       "street": "6161 Thorold Stone Road",
       "country": "CA",
-      "last_checked": "Checked 5 minutes ago"
+      "last_checked": "Checked 6 minutes ago"
     },
     "type": "Feature"
   },
@@ -5245,7 +5245,7 @@
       "city": "Ancaster",
       "street": "1015 Golf Links Rd",
       "country": "CA",
-      "last_checked": "Checked 5 minutes ago"
+      "last_checked": "Checked 6 minutes ago"
     },
     "type": "Feature"
   },
@@ -5329,7 +5329,7 @@
       "city": "Niagara Falls",
       "street": "6348 Lundys Lane",
       "country": "CA",
-      "last_checked": "Checked 5 minutes ago"
+      "last_checked": "Checked 6 minutes ago"
     },
     "type": "Feature"
   },
@@ -5392,7 +5392,7 @@
       "city": "Niagara Falls",
       "street": "(Wal-Mart) 7481 Oakwood Drive ",
       "country": "CA",
-      "last_checked": "Checked 5 minutes ago"
+      "last_checked": "Checked 6 minutes ago"
     },
     "type": "Feature"
   },
@@ -5413,7 +5413,7 @@
       "city": "Newcastle",
       "street": "1000 Regional Road # 17",
       "country": "CA",
-      "last_checked": "Checked 5 minutes ago"
+      "last_checked": "Checked 6 minutes ago"
     },
     "type": "Feature"
   },
@@ -5476,7 +5476,7 @@
       "city": "Ancaster",
       "street": "(Wal-Mart) 1051 Highway 53 West ",
       "country": "CA",
-      "last_checked": "Checked 5 minutes ago"
+      "last_checked": "Checked 6 minutes ago"
     },
     "type": "Feature"
   },
@@ -5497,7 +5497,7 @@
       "city": "Welland",
       "street": "(Wal-Mart) 102 Primeway Drive ",
       "country": "CA",
-      "last_checked": "Checked 5 minutes ago"
+      "last_checked": "Checked 6 minutes ago"
     },
     "type": "Feature"
   },
@@ -5560,7 +5560,7 @@
       "city": "Guelph",
       "street": "(Wal-Mart) 11 Woodlawn Road West ",
       "country": "CA",
-      "last_checked": "Checked 5 minutes ago"
+      "last_checked": "Checked 6 minutes ago"
     },
     "type": "Feature"
   },
@@ -5581,7 +5581,7 @@
       "city": "Guelph",
       "street": "243 Woodlawn Road West",
       "country": "CA",
-      "last_checked": "Checked 5 minutes ago"
+      "last_checked": "Checked 6 minutes ago"
     },
     "type": "Feature"
   },
@@ -5644,7 +5644,7 @@
       "city": "Fergus",
       "street": "870 Tower Street South",
       "country": "CA",
-      "last_checked": "Checked 5 minutes ago"
+      "last_checked": "Checked 6 minutes ago"
     },
     "type": "Feature"
   },
@@ -5665,7 +5665,7 @@
       "city": "Barrie",
       "street": "(Wal-Mart) 35 Mapleview Drive West, Walmart - Barrie",
       "country": "CA",
-      "last_checked": "Checked 5 minutes ago"
+      "last_checked": "Checked 6 minutes ago"
     },
     "type": "Feature"
   },
@@ -5728,7 +5728,7 @@
       "city": "Cambridge",
       "street": "400 Main Street East",
       "country": "CA",
-      "last_checked": "Checked 5 minutes ago"
+      "last_checked": "Checked 6 minutes ago"
     },
     "type": "Feature"
   },
@@ -5749,7 +5749,7 @@
       "city": "Caledonia",
       "street": "282 Argyle Street South",
       "country": "CA",
-      "last_checked": "Checked 5 minutes ago"
+      "last_checked": "Checked 6 minutes ago"
     },
     "type": "Feature"
   },
@@ -5812,7 +5812,7 @@
       "city": "Barrie",
       "street": "347 Yonge Street",
       "country": "CA",
-      "last_checked": "Checked 5 minutes ago"
+      "last_checked": "Checked 6 minutes ago"
     },
     "type": "Feature"
   },
@@ -5833,7 +5833,7 @@
       "city": "Port Colborne",
       "street": "569 Main Street, West",
       "country": "CA",
-      "last_checked": "Checked 5 minutes ago"
+      "last_checked": "Checked 6 minutes ago"
     },
     "type": "Feature"
   },
@@ -5896,7 +5896,7 @@
       "city": "Dunnville",
       "street": "630 Broad Street East",
       "country": "CA",
-      "last_checked": "Checked 5 minutes ago"
+      "last_checked": "Checked 6 minutes ago"
     },
     "type": "Feature"
   },
@@ -5917,7 +5917,7 @@
       "city": "Kitchener",
       "street": "40 Sportsworld Drive",
       "country": "CA",
-      "last_checked": "Checked 5 minutes ago"
+      "last_checked": "Checked 6 minutes ago"
     },
     "type": "Feature"
   },
@@ -5973,14 +5973,14 @@
       "type": "Point"
     },
     "properties": {
-      "is_broken": false,
+      "is_broken": true,
       "is_active": true,
-      "dot": "working",
+      "dot": "broken",
       "state": null,
       "city": "Barrie",
       "street": "637 Cundles Rd East, Bldg R",
       "country": "CA",
-      "last_checked": "Checked 5 minutes ago"
+      "last_checked": "Checked 6 minutes ago"
     },
     "type": "Feature"
   },
@@ -6001,7 +6001,7 @@
       "city": "Barrie",
       "street": "446 Bayfield Street",
       "country": "CA",
-      "last_checked": "Checked 5 minutes ago"
+      "last_checked": "Checked 6 minutes ago"
     },
     "type": "Feature"
   },
@@ -6064,7 +6064,7 @@
       "city": "Kitchener",
       "street": "1020 Ottawa Street North",
       "country": "CA",
-      "last_checked": "Checked 5 minutes ago"
+      "last_checked": "Checked 6 minutes ago"
     },
     "type": "Feature"
   },
@@ -6085,7 +6085,7 @@
       "city": "Beaverton",
       "street": "B4 Beaver Avenue",
       "country": "CA",
-      "last_checked": "Checked 5 minutes ago"
+      "last_checked": "Checked 6 minutes ago"
     },
     "type": "Feature"
   },
@@ -6148,7 +6148,7 @@
       "city": "Brantford",
       "street": "27 Stanley Street",
       "country": "CA",
-      "last_checked": "Checked 5 minutes ago"
+      "last_checked": "Checked 6 minutes ago"
     },
     "type": "Feature"
   },
@@ -6169,7 +6169,7 @@
       "city": "Kitchener",
       "street": "666 Fairway Rd",
       "country": "CA",
-      "last_checked": "Checked 5 minutes ago"
+      "last_checked": "Checked 6 minutes ago"
     },
     "type": "Feature"
   },
@@ -6232,7 +6232,7 @@
       "city": "Kitchener",
       "street": "715 Ottawa Street South",
       "country": "CA",
-      "last_checked": "Checked 5 minutes ago"
+      "last_checked": "Checked 6 minutes ago"
     },
     "type": "Feature"
   },
@@ -6253,7 +6253,7 @@
       "city": "Lindsay",
       "street": "333 Kent Street",
       "country": "CA",
-      "last_checked": "Checked 5 minutes ago"
+      "last_checked": "Checked 6 minutes ago"
     },
     "type": "Feature"
   },
@@ -6316,7 +6316,7 @@
       "city": "Waterloo",
       "street": "362 King Street North",
       "country": "CA",
-      "last_checked": "Checked 5 minutes ago"
+      "last_checked": "Checked 6 minutes ago"
     },
     "type": "Feature"
   },
@@ -6337,7 +6337,7 @@
       "city": "Kitchener",
       "street": "Fischer Hallman & Westmount, 1191 Fischer Hallman Road",
       "country": "CA",
-      "last_checked": "Checked 5 minutes ago"
+      "last_checked": "Checked 6 minutes ago"
     },
     "type": "Feature"
   },
@@ -6400,7 +6400,7 @@
       "city": "Paris",
       "street": "307 Grand River Street North",
       "country": "CA",
-      "last_checked": "Checked 5 minutes ago"
+      "last_checked": "Checked 6 minutes ago"
     },
     "type": "Feature"
   },
@@ -6421,7 +6421,7 @@
       "city": "Elmira",
       "street": "45 Industrial Drive",
       "country": "CA",
-      "last_checked": "Checked 5 minutes ago"
+      "last_checked": "Checked 6 minutes ago"
     },
     "type": "Feature"
   },
@@ -6484,7 +6484,7 @@
       "city": "Kitchener",
       "street": "(Wal-Mart) 100 The Boardwalk ",
       "country": "CA",
-      "last_checked": "Checked 5 minutes ago"
+      "last_checked": "Checked 6 minutes ago"
     },
     "type": "Feature"
   },
@@ -6505,7 +6505,7 @@
       "city": "Cobourg",
       "street": "805 William Street",
       "country": "CA",
-      "last_checked": "Checked 5 minutes ago"
+      "last_checked": "Checked 6 minutes ago"
     },
     "type": "Feature"
   },
@@ -6568,7 +6568,7 @@
       "city": "Orillia",
       "street": "(Wal-Mart) 175 Murphy Road(Walmart) ",
       "country": "CA",
-      "last_checked": "Checked 5 minutes ago"
+      "last_checked": "Checked 6 minutes ago"
     },
     "type": "Feature"
   },
@@ -6589,7 +6589,7 @@
       "city": "Wasaga Beach",
       "street": "1269 - 1275 Mosley Street",
       "country": "CA",
-      "last_checked": "Checked 5 minutes ago"
+      "last_checked": "Checked 6 minutes ago"
     },
     "type": "Feature"
   },
@@ -6652,7 +6652,7 @@
       "city": "Elmvale",
       "street": "24 Yonge Street North, Hwy 27 & John",
       "country": "CA",
-      "last_checked": "Checked 5 minutes ago"
+      "last_checked": "Checked 6 minutes ago"
     },
     "type": "Feature"
   },
@@ -6673,7 +6673,7 @@
       "city": "New Hamburg",
       "street": "3589 Bleams Road",
       "country": "CA",
-      "last_checked": "Checked 5 minutes ago"
+      "last_checked": "Checked 6 minutes ago"
     },
     "type": "Feature"
   },
@@ -6736,7 +6736,7 @@
       "city": "Simcoe",
       "street": "(Wal-Mart) 160 Queensway Road East ",
       "country": "CA",
-      "last_checked": "Checked 5 minutes ago"
+      "last_checked": "Checked 6 minutes ago"
     },
     "type": "Feature"
   },
@@ -6757,7 +6757,7 @@
       "city": "Collingwood",
       "street": "285 First Street",
       "country": "CA",
-      "last_checked": "Checked 5 minutes ago"
+      "last_checked": "Checked 6 minutes ago"
     },
     "type": "Feature"
   },
@@ -6820,7 +6820,7 @@
       "city": "Woodstock",
       "street": "980 Dundas St",
       "country": "CA",
-      "last_checked": "Checked 5 minutes ago"
+      "last_checked": "Checked 6 minutes ago"
     },
     "type": "Feature"
   },
@@ -6841,7 +6841,7 @@
       "city": "Woodstock",
       "street": "507 Norwich Avenue",
       "country": "CA",
-      "last_checked": "Checked 5 minutes ago"
+      "last_checked": "Checked 6 minutes ago"
     },
     "type": "Feature"
   },
@@ -6904,7 +6904,7 @@
       "city": "Midland",
       "street": "9195 County Rd 93",
       "country": "CA",
-      "last_checked": "Checked 5 minutes ago"
+      "last_checked": "Checked 6 minutes ago"
     },
     "type": "Feature"
   },
@@ -6925,7 +6925,7 @@
       "city": "Stratford",
       "street": "1040 Ontario St.",
       "country": "CA",
-      "last_checked": "Checked 5 minutes ago"
+      "last_checked": "Checked 6 minutes ago"
     },
     "type": "Feature"
   },
@@ -6988,7 +6988,7 @@
       "city": "Tillsonburg",
       "street": "170 Simcoe Street",
       "country": "CA",
-      "last_checked": "Checked 5 minutes ago"
+      "last_checked": "Checked 6 minutes ago"
     },
     "type": "Feature"
   },
@@ -7009,7 +7009,7 @@
       "city": "Ingersoll",
       "street": "120 Thames Street North",
       "country": "CA",
-      "last_checked": "Checked 5 minutes ago"
+      "last_checked": "Checked 6 minutes ago"
     },
     "type": "Feature"
   },
@@ -7072,7 +7072,7 @@
       "city": "Meaford",
       "street": "334 Sykes St S",
       "country": "CA",
-      "last_checked": "Checked 5 minutes ago"
+      "last_checked": "Checked 6 minutes ago"
     },
     "type": "Feature"
   },
@@ -7093,7 +7093,7 @@
       "city": "Trenton",
       "street": "(Wal-Mart) R.R.#4 ",
       "country": "CA",
-      "last_checked": "Checked 5 minutes ago"
+      "last_checked": "Checked 6 minutes ago"
     },
     "type": "Feature"
   },
@@ -7156,7 +7156,7 @@
       "city": "Trenton",
       "street": "266 Dundas St East Trenton Town Ctr",
       "country": "CA",
-      "last_checked": "Checked 5 minutes ago"
+      "last_checked": "Checked 6 minutes ago"
     },
     "type": "Feature"
   },
@@ -7240,7 +7240,7 @@
       "city": "London",
       "street": "(Wal-Mart) 330 Clarke Road ",
       "country": "CA",
-      "last_checked": "Checked 5 minutes ago"
+      "last_checked": "Checked 6 minutes ago"
     },
     "type": "Feature"
   },
@@ -7324,7 +7324,7 @@
       "city": "London",
       "street": "959 Hamilton Road East",
       "country": "CA",
-      "last_checked": "Checked 5 minutes ago"
+      "last_checked": "Checked 6 minutes ago"
     },
     "type": "Feature"
   },
@@ -7779,9 +7779,9 @@
       "type": "Point"
     },
     "properties": {
-      "is_broken": false,
+      "is_broken": true,
       "is_active": true,
-      "dot": "working",
+      "dot": "broken",
       "state": null,
       "city": "Picton",
       "street": "97 Main St., Compartment 13",
@@ -9172,7 +9172,7 @@
       "city": "Nepean",
       "street": "3773 Strandherd Drive",
       "country": "CA",
-      "last_checked": "Checked 4 minutes ago"
+      "last_checked": "Checked 5 minutes ago"
     },
     "type": "Feature"
   },
@@ -9256,7 +9256,7 @@
       "city": "Gatineau",
       "street": "213, Ch. D'Aylmer",
       "country": "CA",
-      "last_checked": "Checked 4 minutes ago"
+      "last_checked": "Checked 5 minutes ago"
     },
     "type": "Feature"
   },
@@ -9340,7 +9340,7 @@
       "city": "Espanola",
       "street": "711 Centre St",
       "country": "CA",
-      "last_checked": "Checked 4 minutes ago"
+      "last_checked": "Checked 5 minutes ago"
     },
     "type": "Feature"
   },
@@ -9424,7 +9424,7 @@
       "city": "Ottawa",
       "street": "(Wal-Mart) 1375 Baseline Road ",
       "country": "CA",
-      "last_checked": "Checked 4 minutes ago"
+      "last_checked": "Checked 5 minutes ago"
     },
     "type": "Feature"
   },
@@ -9508,7 +9508,7 @@
       "city": "Ottawa",
       "street": "670 Bronson Avenue",
       "country": "CA",
-      "last_checked": "Checked 4 minutes ago"
+      "last_checked": "Checked 5 minutes ago"
     },
     "type": "Feature"
   },
@@ -9550,7 +9550,7 @@
       "city": "Ottawa",
       "street": "2380 Bank St",
       "country": "CA",
-      "last_checked": "Checked 5 minutes ago"
+      "last_checked": "Checked 6 minutes ago"
     },
     "type": "Feature"
   },
@@ -9592,7 +9592,7 @@
       "city": "Gatineau",
       "street": "515, Boul. St-Joseph ",
       "country": "CA",
-      "last_checked": "Checked 4 minutes ago"
+      "last_checked": "Checked 5 minutes ago"
     },
     "type": "Feature"
   },
@@ -9634,7 +9634,7 @@
       "city": "Ottawa",
       "street": "853 Bank Street",
       "country": "CA",
-      "last_checked": "Checked 5 minutes ago"
+      "last_checked": "Checked 6 minutes ago"
     },
     "type": "Feature"
   },
@@ -9676,7 +9676,7 @@
       "city": "Ottawa",
       "street": "77 Bank Street",
       "country": "CA",
-      "last_checked": "Checked 4 minutes ago"
+      "last_checked": "Checked 5 minutes ago"
     },
     "type": "Feature"
   },
@@ -9718,7 +9718,7 @@
       "city": "Ottawa",
       "street": "60 George Street",
       "country": "CA",
-      "last_checked": "Checked 5 minutes ago"
+      "last_checked": "Checked 6 minutes ago"
     },
     "type": "Feature"
   },
@@ -9760,7 +9760,7 @@
       "city": "Gatineau",
       "street": "2335, Rue Saint-Louis, Unité 3",
       "country": "CA",
-      "last_checked": "Checked 4 minutes ago"
+      "last_checked": "Checked 5 minutes ago"
     },
     "type": "Feature"
   },
@@ -9802,7 +9802,7 @@
       "city": "Gatineau",
       "street": "(Wal-Mart) 51, Boul. La Gappe ",
       "country": "CA",
-      "last_checked": "Checked 5 minutes ago"
+      "last_checked": "Checked 6 minutes ago"
     },
     "type": "Feature"
   },
@@ -9844,7 +9844,7 @@
       "city": "Chelmsford",
       "street": "Highway 144",
       "country": "CA",
-      "last_checked": "Checked 4 minutes ago"
+      "last_checked": "Checked 5 minutes ago"
     },
     "type": "Feature"
   },
@@ -9886,7 +9886,7 @@
       "city": "Ottawa",
       "street": "(Wal-Mart) 450 Terminal Avenue ",
       "country": "CA",
-      "last_checked": "Checked 5 minutes ago"
+      "last_checked": "Checked 6 minutes ago"
     },
     "type": "Feature"
   },
@@ -9900,9 +9900,9 @@
       "type": "Point"
     },
     "properties": {
-      "is_broken": true,
+      "is_broken": false,
       "is_active": true,
-      "dot": "broken",
+      "dot": "working",
       "state": null,
       "city": "Ottawa",
       "street": "1795 St. Laurent Blvd",
@@ -9928,7 +9928,7 @@
       "city": "Ottawa",
       "street": "1007 St. Laurent Blvd.",
       "country": "CA",
-      "last_checked": "Checked 4 minutes ago"
+      "last_checked": "Checked 5 minutes ago"
     },
     "type": "Feature"
   },
@@ -9970,7 +9970,7 @@
       "city": "Ottawa",
       "street": "594 Montreal Rd.",
       "country": "CA",
-      "last_checked": "Checked 5 minutes ago"
+      "last_checked": "Checked 6 minutes ago"
     },
     "type": "Feature"
   },
@@ -10012,7 +10012,7 @@
       "city": "Gatineau",
       "street": "378, Boul. Maloney Ouest",
       "country": "CA",
-      "last_checked": "Checked 4 minutes ago"
+      "last_checked": "Checked 5 minutes ago"
     },
     "type": "Feature"
   },
@@ -10033,7 +10033,7 @@
       "city": "Gloucester",
       "street": "1890 Innes Road",
       "country": "CA",
-      "last_checked": "Checked 6 minutes ago"
+      "last_checked": "Checked 7 minutes ago"
     },
     "type": "Feature"
   },
@@ -10054,7 +10054,7 @@
       "city": "Gatineau",
       "street": "695, Rue Davidson Ouest",
       "country": "CA",
-      "last_checked": "Checked 5 minutes ago"
+      "last_checked": "Checked 6 minutes ago"
     },
     "type": "Feature"
   },
@@ -10096,7 +10096,7 @@
       "city": "Morrisburg",
       "street": "12358 Country Road #2",
       "country": "CA",
-      "last_checked": "Checked 4 minutes ago"
+      "last_checked": "Checked 5 minutes ago"
     },
     "type": "Feature"
   },
@@ -10117,7 +10117,7 @@
       "city": "Gatineau",
       "street": "882, Boul. Maloney Est",
       "country": "CA",
-      "last_checked": "Checked 6 minutes ago"
+      "last_checked": "Checked 7 minutes ago"
     },
     "type": "Feature"
   },
@@ -10138,7 +10138,7 @@
       "city": "Orleans",
       "street": "(Wal-Mart) 3900 Innes Road ",
       "country": "CA",
-      "last_checked": "Checked 5 minutes ago"
+      "last_checked": "Checked 6 minutes ago"
     },
     "type": "Feature"
   },
@@ -10180,7 +10180,7 @@
       "city": "Orleans",
       "street": "4416 Innes Road",
       "country": "CA",
-      "last_checked": "Checked 4 minutes ago"
+      "last_checked": "Checked 5 minutes ago"
     },
     "type": "Feature"
   },
@@ -10201,7 +10201,7 @@
       "city": "Gatineau",
       "street": "1003, Ch. De Masson",
       "country": "CA",
-      "last_checked": "Checked 6 minutes ago"
+      "last_checked": "Checked 7 minutes ago"
     },
     "type": "Feature"
   },
@@ -10222,7 +10222,7 @@
       "city": "Rockland",
       "street": "2686 Laurier Street",
       "country": "CA",
-      "last_checked": "Checked 5 minutes ago"
+      "last_checked": "Checked 6 minutes ago"
     },
     "type": "Feature"
   },
@@ -10264,7 +10264,7 @@
       "city": "Elliot Lake",
       "street": "Highway 108",
       "country": "CA",
-      "last_checked": "Checked 4 minutes ago"
+      "last_checked": "Checked 5 minutes ago"
     },
     "type": "Feature"
   },
@@ -10285,7 +10285,7 @@
       "city": "Cornwall",
       "street": "1301 Brookdale Avenue",
       "country": "CA",
-      "last_checked": "Checked 6 minutes ago"
+      "last_checked": "Checked 7 minutes ago"
     },
     "type": "Feature"
   },
@@ -10306,7 +10306,7 @@
       "city": "Cornwall",
       "street": "(Wal-Mart) 420 Ninth St.W  ",
       "country": "CA",
-      "last_checked": "Checked 5 minutes ago"
+      "last_checked": "Checked 6 minutes ago"
     },
     "type": "Feature"
   },
@@ -10348,7 +10348,7 @@
       "city": "Maniwaki",
       "street": "182, Rue Principale Sud",
       "country": "CA",
-      "last_checked": "Checked 4 minutes ago"
+      "last_checked": "Checked 5 minutes ago"
     },
     "type": "Feature"
   },
@@ -10369,7 +10369,7 @@
       "city": "Papineauville",
       "street": "377-A, Rue Papineau ",
       "country": "CA",
-      "last_checked": "Checked 6 minutes ago"
+      "last_checked": "Checked 7 minutes ago"
     },
     "type": "Feature"
   },
@@ -10390,7 +10390,7 @@
       "city": "Lancaster",
       "street": "20387 County Road #2",
       "country": "CA",
-      "last_checked": "Checked 5 minutes ago"
+      "last_checked": "Checked 6 minutes ago"
     },
     "type": "Feature"
   },
@@ -10432,7 +10432,7 @@
       "city": "Hawkesbury",
       "street": "1580 Cameron Street",
       "country": "CA",
-      "last_checked": "Checked 4 minutes ago"
+      "last_checked": "Checked 5 minutes ago"
     },
     "type": "Feature"
   },
@@ -10453,7 +10453,7 @@
       "city": "Grenville",
       "street": "38, Rue Maple ",
       "country": "CA",
-      "last_checked": "Checked 6 minutes ago"
+      "last_checked": "Checked 7 minutes ago"
     },
     "type": "Feature"
   },
@@ -10474,7 +10474,7 @@
       "city": "Mont-Laurier",
       "street": "850, Boul. Albiny-Paquette",
       "country": "CA",
-      "last_checked": "Checked 5 minutes ago"
+      "last_checked": "Checked 6 minutes ago"
     },
     "type": "Feature"
   },
@@ -10516,7 +10516,7 @@
       "city": "Valleyfield",
       "street": "75, Rue Dufferin ",
       "country": "CA",
-      "last_checked": "Checked 4 minutes ago"
+      "last_checked": "Checked 5 minutes ago"
     },
     "type": "Feature"
   },
@@ -10537,7 +10537,7 @@
       "city": "Valleyfield",
       "street": "2076, Boul. Monseigneur Langlois",
       "country": "CA",
-      "last_checked": "Checked 6 minutes ago"
+      "last_checked": "Checked 7 minutes ago"
     },
     "type": "Feature"
   },
@@ -10558,7 +10558,7 @@
       "city": "Rigaud",
       "street": "104, Route 201, Montée Lavigne",
       "country": "CA",
-      "last_checked": "Checked 5 minutes ago"
+      "last_checked": "Checked 6 minutes ago"
     },
     "type": "Feature"
   },
@@ -10600,7 +10600,7 @@
       "city": "Vaudreuil-Dorion",
       "street": "(Wal-Mart) 3050, Rue Félix-Leclerc ",
       "country": "CA",
-      "last_checked": "Checked 4 minutes ago"
+      "last_checked": "Checked 5 minutes ago"
     },
     "type": "Feature"
   },
@@ -10621,7 +10621,7 @@
       "city": "Mont-Tremblant",
       "street": "109, Montée Ryan",
       "country": "CA",
-      "last_checked": "Checked 6 minutes ago"
+      "last_checked": "Checked 7 minutes ago"
     },
     "type": "Feature"
   },
@@ -10642,7 +10642,7 @@
       "city": "Vaudreuil-Dorion",
       "street": "610, Av. Saint-Charles",
       "country": "CA",
-      "last_checked": "Checked 5 minutes ago"
+      "last_checked": "Checked 6 minutes ago"
     },
     "type": "Feature"
   },
@@ -10684,7 +10684,7 @@
       "city": "Mont-Tremblant",
       "street": "387, Route 117 Sud",
       "country": "CA",
-      "last_checked": "Checked 4 minutes ago"
+      "last_checked": "Checked 5 minutes ago"
     },
     "type": "Feature"
   },
@@ -10705,7 +10705,7 @@
       "city": "Île-Perrot",
       "street": "430 Grand Boulevard",
       "country": "CA",
-      "last_checked": "Checked 6 minutes ago"
+      "last_checked": "Checked 7 minutes ago"
     },
     "type": "Feature"
   },
@@ -10726,7 +10726,7 @@
       "city": "Beauharnois",
       "street": "508 Boul Cadieux",
       "country": "CA",
-      "last_checked": "Checked 5 minutes ago"
+      "last_checked": "Checked 6 minutes ago"
     },
     "type": "Feature"
   },
@@ -10768,7 +10768,7 @@
       "city": "Sainte-Marthe-Sur-Le-Lac",
       "street": "2831 Boul. Des Promenades, Rr1",
       "country": "CA",
-      "last_checked": "Checked 4 minutes ago"
+      "last_checked": "Checked 5 minutes ago"
     },
     "type": "Feature"
   },
@@ -10789,7 +10789,7 @@
       "city": "Pierrefonds",
       "street": "3882, Boul. Saint-Charles",
       "country": "CA",
-      "last_checked": "Checked 6 minutes ago"
+      "last_checked": "Checked 7 minutes ago"
     },
     "type": "Feature"
   },
@@ -10810,7 +10810,7 @@
       "city": "Kirkland",
       "street": "(Wal-Mart) 17000, Autoroute Transcanadienne ",
       "country": "CA",
-      "last_checked": "Checked 5 minutes ago"
+      "last_checked": "Checked 6 minutes ago"
     },
     "type": "Feature"
   },
@@ -10852,7 +10852,7 @@
       "city": "Beaconsfield",
       "street": "44, Boul. Saint-Charles ",
       "country": "CA",
-      "last_checked": "Checked 4 minutes ago"
+      "last_checked": "Checked 5 minutes ago"
     },
     "type": "Feature"
   },
@@ -10873,7 +10873,7 @@
       "city": "Saint-Sauveur-Des-Monts",
       "street": "105-A, Rue Guindon",
       "country": "CA",
-      "last_checked": "Checked 6 minutes ago"
+      "last_checked": "Checked 7 minutes ago"
     },
     "type": "Feature"
   },
@@ -10894,7 +10894,7 @@
       "city": "Saint-Eustache",
       "street": "(Wal-Mart) 764, Boul. Arthur-Sauvé ",
       "country": "CA",
-      "last_checked": "Checked 5 minutes ago"
+      "last_checked": "Checked 6 minutes ago"
     },
     "type": "Feature"
   },
@@ -12322,7 +12322,7 @@
       "city": "Montréal",
       "street": "3026, Rue Notre-Dame Ouest ",
       "country": "CA",
-      "last_checked": "Checked 3 minutes ago"
+      "last_checked": "Checked 4 minutes ago"
     },
     "type": "Feature"
   },
@@ -12406,7 +12406,7 @@
       "city": "Montréal",
       "street": "6501, Rue Saint-Hubert",
       "country": "CA",
-      "last_checked": "Checked 3 minutes ago"
+      "last_checked": "Checked 4 minutes ago"
     },
     "type": "Feature"
   },
@@ -12490,7 +12490,7 @@
       "city": "Montréal",
       "street": "(Food Court) 1500, Boul. Mcgill College , Local #025",
       "country": "CA",
-      "last_checked": "Checked 3 minutes ago"
+      "last_checked": "Checked 4 minutes ago"
     },
     "type": "Feature"
   },
@@ -12574,7 +12574,7 @@
       "city": "Montréal",
       "street": "(Mall) 895, Rue De La Gauchetière Ouest ",
       "country": "CA",
-      "last_checked": "Checked 3 minutes ago"
+      "last_checked": "Checked 4 minutes ago"
     },
     "type": "Feature"
   },
@@ -12637,7 +12637,7 @@
       "city": "Montréal",
       "street": "150 Rue Ste-Catherine Ouest, Suites 163 & 214",
       "country": "CA",
-      "last_checked": "Checked 3 minutes ago"
+      "last_checked": "Checked 4 minutes ago"
     },
     "type": "Feature"
   },
@@ -12721,7 +12721,7 @@
       "city": "Montréal-Nord",
       "street": "(Wal-Mart) 6140, Boul. Henri-Bourassa Est ",
       "country": "CA",
-      "last_checked": "Checked 3 minutes ago"
+      "last_checked": "Checked 4 minutes ago"
     },
     "type": "Feature"
   },
@@ -12735,9 +12735,9 @@
       "type": "Point"
     },
     "properties": {
-      "is_broken": false,
+      "is_broken": true,
       "is_active": true,
-      "dot": "working",
+      "dot": "broken",
       "state": null,
       "city": "La Plaine",
       "street": "5531, Boul. Laurier",
@@ -12805,7 +12805,7 @@
       "city": "Montréal",
       "street": "2010, Av. Papineau ",
       "country": "CA",
-      "last_checked": "Checked 3 minutes ago"
+      "last_checked": "Checked 4 minutes ago"
     },
     "type": "Feature"
   },
@@ -12847,7 +12847,7 @@
       "city": "Saint-Léonard",
       "street": "4900, Boul. Jean-Talon Est",
       "country": "CA",
-      "last_checked": "Checked 4 minutes ago"
+      "last_checked": "Checked 5 minutes ago"
     },
     "type": "Feature"
   },
@@ -12889,7 +12889,7 @@
       "city": "Montréal",
       "street": "2600, Rue Ontario Est",
       "country": "CA",
-      "last_checked": "Checked 3 minutes ago"
+      "last_checked": "Checked 4 minutes ago"
     },
     "type": "Feature"
   },
@@ -12931,7 +12931,7 @@
       "city": "Terrebonne",
       "street": "1400, Boul. Moody ",
       "country": "CA",
-      "last_checked": "Checked 4 minutes ago"
+      "last_checked": "Checked 5 minutes ago"
     },
     "type": "Feature"
   },
@@ -12973,7 +12973,7 @@
       "city": "Terrebonne",
       "street": "(Food Court) 1185, Boul. Moody ",
       "country": "CA",
-      "last_checked": "Checked 3 minutes ago"
+      "last_checked": "Checked 4 minutes ago"
     },
     "type": "Feature"
   },
@@ -13015,7 +13015,7 @@
       "city": "Saint-Léonard",
       "street": "(Wal-Mart) 7445, Boul. Langelier, Wal-Mart - Centre Langelier",
       "country": "CA",
-      "last_checked": "Checked 4 minutes ago"
+      "last_checked": "Checked 5 minutes ago"
     },
     "type": "Feature"
   },
@@ -13078,7 +13078,7 @@
       "city": "Val-D'Or",
       "street": "1795 3Rd Avenue",
       "country": "CA",
-      "last_checked": "Checked 4 minutes ago"
+      "last_checked": "Checked 5 minutes ago"
     },
     "type": "Feature"
   },
@@ -13162,7 +13162,7 @@
       "city": "Longueuil",
       "street": "822, Rue Saint-Laurent Ouest",
       "country": "CA",
-      "last_checked": "Checked 4 minutes ago"
+      "last_checked": "Checked 5 minutes ago"
     },
     "type": "Feature"
   },
@@ -13246,7 +13246,7 @@
       "city": "Greenfield Park",
       "street": "3279, Boul. Taschereau",
       "country": "CA",
-      "last_checked": "Checked 4 minutes ago"
+      "last_checked": "Checked 5 minutes ago"
     },
     "type": "Feature"
   },
@@ -13330,7 +13330,7 @@
       "city": "Rouyn-Noranda",
       "street": "(Wal-Mart) 275, Boul. Rideau  ",
       "country": "CA",
-      "last_checked": "Checked 4 minutes ago"
+      "last_checked": "Checked 5 minutes ago"
     },
     "type": "Feature"
   },
@@ -13414,7 +13414,7 @@
       "city": "Montréal",
       "street": "8235, Boul. Notre-Dame Est",
       "country": "CA",
-      "last_checked": "Checked 4 minutes ago"
+      "last_checked": "Checked 5 minutes ago"
     },
     "type": "Feature"
   },
@@ -13498,7 +13498,7 @@
       "city": "Pointe-Aux-Trembles",
       "street": "12090, Rue Sherbrooke Est",
       "country": "CA",
-      "last_checked": "Checked 4 minutes ago"
+      "last_checked": "Checked 5 minutes ago"
     },
     "type": "Feature"
   },
@@ -13582,7 +13582,7 @@
       "city": "Saint-Jean-Sur-Richelieu",
       "street": "(Wal-Mart) 100, Boul. Omer-Marcil ",
       "country": "CA",
-      "last_checked": "Checked 4 minutes ago"
+      "last_checked": "Checked 5 minutes ago"
     },
     "type": "Feature"
   },
@@ -14625,9 +14625,9 @@
       "type": "Point"
     },
     "properties": {
-      "is_broken": false,
+      "is_broken": true,
       "is_active": true,
-      "dot": "working",
+      "dot": "broken",
       "state": null,
       "city": "Louiseville",
       "street": "1460 Boulevard Saint-Laurent Est",
@@ -15640,7 +15640,7 @@
       "city": "Neufchatel",
       "street": "9400, Boul. De L'Ormière",
       "country": "CA",
-      "last_checked": "Checked 2 minutes ago"
+      "last_checked": "Checked 3 minutes ago"
     },
     "type": "Feature"
   },
@@ -15724,7 +15724,7 @@
       "city": "Québec",
       "street": "3900, Boul. Wilfrid-Hamel",
       "country": "CA",
-      "last_checked": "Checked 2 minutes ago"
+      "last_checked": "Checked 3 minutes ago"
     },
     "type": "Feature"
   },
@@ -15808,7 +15808,7 @@
       "city": "Québec",
       "street": "(Wal-Mart) 1700, Boul.  Lebourgneuf  ",
       "country": "CA",
-      "last_checked": "Checked 2 minutes ago"
+      "last_checked": "Checked 3 minutes ago"
     },
     "type": "Feature"
   },
@@ -15892,7 +15892,7 @@
       "city": "Sainte-Marie",
       "street": "900, Boul. Vachon Nord ",
       "country": "CA",
-      "last_checked": "Checked 2 minutes ago"
+      "last_checked": "Checked 3 minutes ago"
     },
     "type": "Feature"
   },
@@ -15976,7 +15976,7 @@
       "city": "Charlesbourg",
       "street": "4100, 1Re Avenue",
       "country": "CA",
-      "last_checked": "Checked 2 minutes ago"
+      "last_checked": "Checked 3 minutes ago"
     },
     "type": "Feature"
   },
@@ -16039,7 +16039,7 @@
       "city": "Lévis",
       "street": "44 D, Route Du Président-Kennedy",
       "country": "CA",
-      "last_checked": "Checked 3 minutes ago"
+      "last_checked": "Checked 4 minutes ago"
     },
     "type": "Feature"
   },
@@ -16060,7 +16060,7 @@
       "city": "Beauport",
       "street": "3481,  Rue Clémenceau",
       "country": "CA",
-      "last_checked": "Checked 2 minutes ago"
+      "last_checked": "Checked 3 minutes ago"
     },
     "type": "Feature"
   },
@@ -16123,7 +16123,7 @@
       "city": "Beauport",
       "street": "724, Rue Cambronne",
       "country": "CA",
-      "last_checked": "Checked 3 minutes ago"
+      "last_checked": "Checked 4 minutes ago"
     },
     "type": "Feature"
   },
@@ -16144,7 +16144,7 @@
       "city": "Lévis",
       "street": "1-7400, Boul. Guillaume-Couture",
       "country": "CA",
-      "last_checked": "Checked 2 minutes ago"
+      "last_checked": "Checked 3 minutes ago"
     },
     "type": "Feature"
   },
@@ -16207,7 +16207,7 @@
       "city": "Saint-Georges-De-Beauce",
       "street": "850 Rue Dionne ",
       "country": "CA",
-      "last_checked": "Checked 3 minutes ago"
+      "last_checked": "Checked 4 minutes ago"
     },
     "type": "Feature"
   },
@@ -16228,7 +16228,7 @@
       "city": "Saint-Georges-De-Beauce",
       "street": "(Wal-Mart) 750, 107E Rue ",
       "country": "CA",
-      "last_checked": "Checked 2 minutes ago"
+      "last_checked": "Checked 3 minutes ago"
     },
     "type": "Feature"
   },
@@ -16291,7 +16291,7 @@
       "city": "Saint-Félicien",
       "street": "1345, Boul. Sacré-Coeur ",
       "country": "CA",
-      "last_checked": "Checked 3 minutes ago"
+      "last_checked": "Checked 4 minutes ago"
     },
     "type": "Feature"
   },
@@ -16312,7 +16312,7 @@
       "city": "Roberval",
       "street": "420, Boul. Marcotte",
       "country": "CA",
-      "last_checked": "Checked 2 minutes ago"
+      "last_checked": "Checked 3 minutes ago"
     },
     "type": "Feature"
   },
@@ -16375,7 +16375,7 @@
       "city": "Dolbeau",
       "street": "1731, Boul. Wallberg ",
       "country": "CA",
-      "last_checked": "Checked 3 minutes ago"
+      "last_checked": "Checked 4 minutes ago"
     },
     "type": "Feature"
   },
@@ -16438,7 +16438,7 @@
       "city": "St-Jean-Port-Joli",
       "street": "697, Route De L'Église ",
       "country": "CA",
-      "last_checked": "Checked 3 minutes ago"
+      "last_checked": "Checked 4 minutes ago"
     },
     "type": "Feature"
   },
@@ -16522,7 +16522,7 @@
       "city": "Chicoutimi",
       "street": "(Wal-Mart) 1451, Boul. Talbot, Wal-Mart - Centre Commercial ",
       "country": "CA",
-      "last_checked": "Checked 3 minutes ago"
+      "last_checked": "Checked 4 minutes ago"
     },
     "type": "Feature"
   },
@@ -16606,7 +16606,7 @@
       "city": "La Pocatière",
       "street": "465, Rue De La Grande-Anse",
       "country": "CA",
-      "last_checked": "Checked 3 minutes ago"
+      "last_checked": "Checked 4 minutes ago"
     },
     "type": "Feature"
   },
@@ -16648,7 +16648,7 @@
       "city": "La Malbaie",
       "street": "635,  De Comporte ",
       "country": "CA",
-      "last_checked": "Checked 6 minutes ago"
+      "last_checked": "Checked 5 minutes ago"
     },
     "type": "Feature"
   },
@@ -16669,7 +16669,7 @@
       "city": "Rivière-Du-Loup",
       "street": "234, Rue Hôtel-De-Ville ",
       "country": "CA",
-      "last_checked": "Checked 3 minutes ago"
+      "last_checked": "Checked 4 minutes ago"
     },
     "type": "Feature"
   },
@@ -16711,7 +16711,7 @@
       "city": "Thunder Bay",
       "street": "(Wal-Mart) 777 Memorial Avenue ",
       "country": "CA",
-      "last_checked": "Checked 6 minutes ago"
+      "last_checked": "Checked 5 minutes ago"
     },
     "type": "Feature"
   },
@@ -16753,7 +16753,7 @@
       "city": "Thunder Bay",
       "street": "201 Arthur St.",
       "country": "CA",
-      "last_checked": "Checked 3 minutes ago"
+      "last_checked": "Checked 4 minutes ago"
     },
     "type": "Feature"
   },
@@ -16795,7 +16795,7 @@
       "city": "Témiscouata-Sur-Le-Lac",
       "street": "7 Boulevard Industriel",
       "country": "CA",
-      "last_checked": "Checked 6 minutes ago"
+      "last_checked": "Checked 5 minutes ago"
     },
     "type": "Feature"
   },
@@ -16837,7 +16837,7 @@
       "city": "Woodstock",
       "street": "392 Connell Street",
       "country": "CA",
-      "last_checked": "Checked 3 minutes ago"
+      "last_checked": "Checked 4 minutes ago"
     },
     "type": "Feature"
   },
@@ -16879,7 +16879,7 @@
       "city": "St Leonard",
       "street": "365 Rue St-Jean",
       "country": "CA",
-      "last_checked": "Checked 6 minutes ago"
+      "last_checked": "Checked 5 minutes ago"
     },
     "type": "Feature"
   },
@@ -16921,7 +16921,7 @@
       "city": "Grand Falls",
       "street": "230 Madawaska Road",
       "country": "CA",
-      "last_checked": "Checked 3 minutes ago"
+      "last_checked": "Checked 4 minutes ago"
     },
     "type": "Feature"
   },
@@ -18853,7 +18853,7 @@
       "city": "Port Hawkesbury",
       "street": "704 Reeves Street",
       "country": "CA",
-      "last_checked": "1 minute ago"
+      "last_checked": "Checked 2 minutes ago"
     },
     "type": "Feature"
   },
@@ -18937,7 +18937,7 @@
       "city": "Winnipeg",
       "street": "11 Devonshire Drive",
       "country": "CA",
-      "last_checked": "1 minute ago"
+      "last_checked": "Checked 2 minutes ago"
     },
     "type": "Feature"
   },
@@ -19021,7 +19021,7 @@
       "city": "Selkirk",
       "street": "(Wal-Mart) 1016 Manitoba Ave. ",
       "country": "CA",
-      "last_checked": "1 minute ago"
+      "last_checked": "Checked 2 minutes ago"
     },
     "type": "Feature"
   },
@@ -19105,7 +19105,7 @@
       "city": "Winnipeg",
       "street": "1501 St. Mary'S Road",
       "country": "CA",
-      "last_checked": "1 minute ago"
+      "last_checked": "Checked 2 minutes ago"
     },
     "type": "Feature"
   },
@@ -19189,7 +19189,7 @@
       "city": "Winnipeg",
       "street": "680 Nairn Ave",
       "country": "CA",
-      "last_checked": "1 minute ago"
+      "last_checked": "Checked 2 minutes ago"
     },
     "type": "Feature"
   },
@@ -19273,7 +19273,7 @@
       "city": "Winnipeg",
       "street": "979 Henderson Hwy",
       "country": "CA",
-      "last_checked": "1 minute ago"
+      "last_checked": "Checked 2 minutes ago"
     },
     "type": "Feature"
   },
@@ -19357,7 +19357,7 @@
       "city": "Winnipeg",
       "street": "(Food Court) Unit 102-H 333 St. Mary Avenue ",
       "country": "CA",
-      "last_checked": "1 minute ago"
+      "last_checked": "Checked 2 minutes ago"
     },
     "type": "Feature"
   },
@@ -19441,7 +19441,7 @@
       "city": "Winnipeg",
       "street": "664 Portage Ave",
       "country": "CA",
-      "last_checked": "1 minute ago"
+      "last_checked": "Checked 2 minutes ago"
     },
     "type": "Feature"
   },
@@ -19525,7 +19525,7 @@
       "city": "Winnipeg",
       "street": "1049 Notre Dame Ave",
       "country": "CA",
-      "last_checked": "1 minute ago"
+      "last_checked": "Checked 2 minutes ago"
     },
     "type": "Feature"
   },
@@ -19609,7 +19609,7 @@
       "city": "Winnipeg",
       "street": "(Wal-Mart) 2370 Mcphillips St ",
       "country": "CA",
-      "last_checked": "1 minute ago"
+      "last_checked": "Checked 2 minutes ago"
     },
     "type": "Feature"
   },
@@ -19693,7 +19693,7 @@
       "city": "Winnipeg",
       "street": "994 Keewatin",
       "country": "CA",
-      "last_checked": "1 minute ago"
+      "last_checked": "Checked 2 minutes ago"
     },
     "type": "Feature"
   },
@@ -19735,7 +19735,7 @@
       "city": "Winnipeg",
       "street": "2475 Portage Avenue",
       "country": "CA",
-      "last_checked": "Checked 3 minutes ago"
+      "last_checked": "Checked 2 minutes ago"
     },
     "type": "Feature"
   },
@@ -19777,7 +19777,7 @@
       "city": "Winnipeg",
       "street": "3401 Portage Avenue",
       "country": "CA",
-      "last_checked": "1 minute ago"
+      "last_checked": "Checked 2 minutes ago"
     },
     "type": "Feature"
   },
@@ -19819,7 +19819,7 @@
       "city": "North Sydney",
       "street": "101 King Street",
       "country": "CA",
-      "last_checked": "Checked 3 minutes ago"
+      "last_checked": "Checked 2 minutes ago"
     },
     "type": "Feature"
   },
@@ -19861,7 +19861,7 @@
       "city": "Sydney",
       "street": "417 Welton Street",
       "country": "CA",
-      "last_checked": "1 minute ago"
+      "last_checked": "Checked 2 minutes ago"
     },
     "type": "Feature"
   },
@@ -19903,7 +19903,7 @@
       "city": "Winkler",
       "street": "750 Norquay Drive",
       "country": "CA",
-      "last_checked": "Checked 3 minutes ago"
+      "last_checked": "Checked 2 minutes ago"
     },
     "type": "Feature"
   },
@@ -19945,7 +19945,7 @@
       "city": "Morden",
       "street": "881 Thornhill Street ",
       "country": "CA",
-      "last_checked": "1 minute ago"
+      "last_checked": "Checked 2 minutes ago"
     },
     "type": "Feature"
   },
@@ -19966,7 +19966,7 @@
       "city": "Portage La Prairie",
       "street": "25 - 25Th Street N.W.",
       "country": "CA",
-      "last_checked": "Checked 3 minutes ago"
+      "last_checked": "Checked 2 minutes ago"
     },
     "type": "Feature"
   },
@@ -20008,7 +20008,7 @@
       "city": "Stephenville",
       "street": "221 Main Street",
       "country": "CA",
-      "last_checked": "1 minute ago"
+      "last_checked": "Checked 2 minutes ago"
     },
     "type": "Feature"
   },
@@ -20029,7 +20029,7 @@
       "city": "Brandon",
       "street": "1906 Richmond Avenue",
       "country": "CA",
-      "last_checked": "Checked 5 minutes ago"
+      "last_checked": "Checked 4 minutes ago"
     },
     "type": "Feature"
   },
@@ -20050,7 +20050,7 @@
       "city": "Brandon",
       "street": "(Wal-Mart) 903-18Th Street N ",
       "country": "CA",
-      "last_checked": "Checked 3 minutes ago"
+      "last_checked": "Checked 2 minutes ago"
     },
     "type": "Feature"
   },
@@ -20092,7 +20092,7 @@
       "city": "Brandon",
       "street": "2626 Victoria Ave.",
       "country": "CA",
-      "last_checked": "1 minute ago"
+      "last_checked": "Checked 2 minutes ago"
     },
     "type": "Feature"
   },
@@ -20113,7 +20113,7 @@
       "city": "Corner Brook",
       "street": "(Wal-Mart) 16 Murphy Square ",
       "country": "CA",
-      "last_checked": "Checked 5 minutes ago"
+      "last_checked": "Checked 4 minutes ago"
     },
     "type": "Feature"
   },
@@ -20134,7 +20134,7 @@
       "city": "Corner Brook",
       "street": "16 Confederation Drive",
       "country": "CA",
-      "last_checked": "Checked 3 minutes ago"
+      "last_checked": "Checked 2 minutes ago"
     },
     "type": "Feature"
   },
@@ -20176,7 +20176,7 @@
       "city": "Thompson",
       "street": "217 Mystery Lake Road",
       "country": "CA",
-      "last_checked": "1 minute ago"
+      "last_checked": "Checked 2 minutes ago"
     },
     "type": "Feature"
   },
@@ -20197,7 +20197,7 @@
       "city": "Estevan",
       "street": "1310 - 6Th Street",
       "country": "CA",
-      "last_checked": "Checked 5 minutes ago"
+      "last_checked": "Checked 4 minutes ago"
     },
     "type": "Feature"
   },
@@ -20218,7 +20218,7 @@
       "city": "Grand Falls-Windsor",
       "street": "13 Cromer Ave",
       "country": "CA",
-      "last_checked": "Checked 3 minutes ago"
+      "last_checked": "Checked 2 minutes ago"
     },
     "type": "Feature"
   },
@@ -20260,7 +20260,7 @@
       "city": "Yorkton",
       "street": "(Wal-Mart) 240 Hamilton Rd. ",
       "country": "CA",
-      "last_checked": "1 minute ago"
+      "last_checked": "Checked 2 minutes ago"
     },
     "type": "Feature"
   },
@@ -20281,7 +20281,7 @@
       "city": "Yorkton",
       "street": "94 Broadway Street West",
       "country": "CA",
-      "last_checked": "Checked 5 minutes ago"
+      "last_checked": "Checked 4 minutes ago"
     },
     "type": "Feature"
   },
@@ -20302,7 +20302,7 @@
       "city": "Marystown",
       "street": "81-85 Mcgettigan Blvd",
       "country": "CA",
-      "last_checked": "Checked 3 minutes ago"
+      "last_checked": "Checked 2 minutes ago"
     },
     "type": "Feature"
   },
@@ -20344,7 +20344,7 @@
       "city": "Lewisporte",
       "street": "466 - 472 Main Street",
       "country": "CA",
-      "last_checked": "1 minute ago"
+      "last_checked": "Checked 2 minutes ago"
     },
     "type": "Feature"
   },
@@ -20365,7 +20365,7 @@
       "city": "Weyburn",
       "street": "7 Allen St.",
       "country": "CA",
-      "last_checked": "Checked 5 minutes ago"
+      "last_checked": "Checked 4 minutes ago"
     },
     "type": "Feature"
   },
@@ -20428,7 +20428,7 @@
       "city": "Clarenville",
       "street": "68 Manitoba Drive",
       "country": "CA",
-      "last_checked": "1 minute ago"
+      "last_checked": "Checked 2 minutes ago"
     },
     "type": "Feature"
   },
@@ -20449,7 +20449,7 @@
       "city": "Flin Flon",
       "street": "(Wal-Mart) 200 P.T.H. No 10A ",
       "country": "CA",
-      "last_checked": "Checked 5 minutes ago"
+      "last_checked": "Checked 4 minutes ago"
     },
     "type": "Feature"
   },
@@ -20533,7 +20533,7 @@
       "city": "Regina",
       "street": "924 Victoria Avenue East",
       "country": "CA",
-      "last_checked": "Checked 5 minutes ago"
+      "last_checked": "Checked 4 minutes ago"
     },
     "type": "Feature"
   },
@@ -24999,9 +24999,9 @@
       "type": "Point"
     },
     "properties": {
-      "is_broken": false,
+      "is_broken": true,
       "is_active": true,
-      "dot": "working",
+      "dot": "broken",
       "state": null,
       "city": "Calgary",
       "street": "8235 Bowridge Cres N.W.",
@@ -25489,7 +25489,7 @@
       "city": "Hinton",
       "street": "840 Carmichael Lane",
       "country": "CA",
-      "last_checked": "Checked 9 minutes ago"
+      "last_checked": "1 minute ago"
     },
     "type": "Feature"
   },
@@ -25510,7 +25510,7 @@
       "city": "Revelstoke",
       "street": "P.O. Box 1240, 1880 Trans Canada Highway",
       "country": "CA",
-      "last_checked": "Checked 8 minutes ago"
+      "last_checked": "Checked 9 minutes ago"
     },
     "type": "Feature"
   },
@@ -25573,7 +25573,7 @@
       "city": "Yellowknife",
       "street": "202 Old Airport Road",
       "country": "CA",
-      "last_checked": "Checked 9 minutes ago"
+      "last_checked": "1 minute ago"
     },
     "type": "Feature"
   },
@@ -25594,7 +25594,7 @@
       "city": "Yellowknife",
       "street": "(Wal-Mart) 313 Old Airport Road, Wal-Mart",
       "country": "CA",
-      "last_checked": "Checked 8 minutes ago"
+      "last_checked": "Checked 9 minutes ago"
     },
     "type": "Feature"
   },
@@ -25657,7 +25657,7 @@
       "city": "Clairmont",
       "street": "8301 - 99 St",
       "country": "CA",
-      "last_checked": "Checked 9 minutes ago"
+      "last_checked": "1 minute ago"
     },
     "type": "Feature"
   },
@@ -25678,7 +25678,7 @@
       "city": "Grande Prairie",
       "street": "10714 - 79 Avenue",
       "country": "CA",
-      "last_checked": "Checked 8 minutes ago"
+      "last_checked": "Checked 9 minutes ago"
     },
     "type": "Feature"
   },
@@ -25720,7 +25720,7 @@
       "city": "Vernon",
       "street": "2601-58Th Ave.",
       "country": "CA",
-      "last_checked": "Checked 9 minutes ago"
+      "last_checked": "1 minute ago"
     },
     "type": "Feature"
   },
@@ -25741,7 +25741,7 @@
       "city": "Grande Prairie",
       "street": "11469 - 100Th Avenue",
       "country": "CA",
-      "last_checked": "Checked 9 minutes ago"
+      "last_checked": "1 minute ago"
     },
     "type": "Feature"
   },
@@ -25783,7 +25783,7 @@
       "city": "Kelowna",
       "street": "120 Old Vernon Rd",
       "country": "CA",
-      "last_checked": "Checked 9 minutes ago"
+      "last_checked": "1 minute ago"
     },
     "type": "Feature"
   },
@@ -25804,7 +25804,7 @@
       "city": "Winfield",
       "street": "#20-9522 Main St",
       "country": "CA",
-      "last_checked": "Checked 9 minutes ago"
+      "last_checked": "1 minute ago"
     },
     "type": "Feature"
   },
@@ -25825,7 +25825,7 @@
       "city": "Kelowna",
       "street": "155 Hollywood Road North",
       "country": "CA",
-      "last_checked": "Checked 9 minutes ago"
+      "last_checked": "1 minute ago"
     },
     "type": "Feature"
   },
@@ -25867,7 +25867,7 @@
       "city": "Kelowna",
       "street": "1938 Kane Road",
       "country": "CA",
-      "last_checked": "Checked 9 minutes ago"
+      "last_checked": "1 minute ago"
     },
     "type": "Feature"
   },
@@ -25888,7 +25888,7 @@
       "city": "Kelowna",
       "street": "2120 Harvey Avenue",
       "country": "CA",
-      "last_checked": "Checked 9 minutes ago"
+      "last_checked": "1 minute ago"
     },
     "type": "Feature"
   },
@@ -25909,7 +25909,7 @@
       "city": "Kelowna",
       "street": "3100 Lakeshore Road",
       "country": "CA",
-      "last_checked": "Checked 9 minutes ago"
+      "last_checked": "1 minute ago"
     },
     "type": "Feature"
   },
@@ -25951,7 +25951,7 @@
       "city": "Westbank",
       "street": "(Wal-Mart) 2170 Louie Drive ",
       "country": "CA",
-      "last_checked": "Checked 9 minutes ago"
+      "last_checked": "1 minute ago"
     },
     "type": "Feature"
   },
@@ -25972,7 +25972,7 @@
       "city": "Penticton",
       "street": "1804 Main St",
       "country": "CA",
-      "last_checked": "Checked 9 minutes ago"
+      "last_checked": "1 minute ago"
     },
     "type": "Feature"
   },
@@ -25993,7 +25993,7 @@
       "city": "Penticton",
       "street": "(Wal-Mart) 275 Green Ave ",
       "country": "CA",
-      "last_checked": "Checked 9 minutes ago"
+      "last_checked": "1 minute ago"
     },
     "type": "Feature"
   },
@@ -26035,7 +26035,7 @@
       "city": "Kamloops",
       "street": "1751 E. Trans Canada Hwy",
       "country": "CA",
-      "last_checked": "Checked 9 minutes ago"
+      "last_checked": "1 minute ago"
     },
     "type": "Feature"
   },
@@ -26056,7 +26056,7 @@
       "city": "Kamloops",
       "street": "500 Notre Dame Drive",
       "country": "CA",
-      "last_checked": "Checked 9 minutes ago"
+      "last_checked": "1 minute ago"
     },
     "type": "Feature"
   },
@@ -26098,7 +26098,7 @@
       "city": "Kamloops",
       "street": "(Wal-Mart) 1055 Hillside Drive ",
       "country": "CA",
-      "last_checked": "Checked 9 minutes ago"
+      "last_checked": "1 minute ago"
     },
     "type": "Feature"
   },
@@ -26119,7 +26119,7 @@
       "city": "Kamloops",
       "street": "1465 W Trans Canada Hwy",
       "country": "CA",
-      "last_checked": "Checked 8 minutes ago"
+      "last_checked": "Checked 9 minutes ago"
     },
     "type": "Feature"
   },
@@ -26140,7 +26140,7 @@
       "city": "Dawson Creek",
       "street": "11620-8 Street",
       "country": "CA",
-      "last_checked": "Checked 9 minutes ago"
+      "last_checked": "1 minute ago"
     },
     "type": "Feature"
   },
@@ -26182,7 +26182,7 @@
       "city": "Fort St John",
       "street": "(Wal-Mart) 9007  96A Street ",
       "country": "CA",
-      "last_checked": "Checked 9 minutes ago"
+      "last_checked": "1 minute ago"
     },
     "type": "Feature"
   },
@@ -26203,7 +26203,7 @@
       "city": "Fort St John",
       "street": "10920 Alaska Hwy",
       "country": "CA",
-      "last_checked": "Checked 8 minutes ago"
+      "last_checked": "Checked 9 minutes ago"
     },
     "type": "Feature"
   },
@@ -26224,7 +26224,7 @@
       "city": "Hope",
       "street": "453 Old Hope Princeton Way",
       "country": "CA",
-      "last_checked": "Checked 9 minutes ago"
+      "last_checked": "1 minute ago"
     },
     "type": "Feature"
   },
@@ -26266,7 +26266,7 @@
       "city": "Chilliwack",
       "street": "45816 Yale Road",
       "country": "CA",
-      "last_checked": "Checked 8 minutes ago"
+      "last_checked": "Checked 9 minutes ago"
     },
     "type": "Feature"
   },
@@ -26287,7 +26287,7 @@
       "city": "Chilliwack",
       "street": "5718 Vedder Road",
       "country": "CA",
-      "last_checked": "Checked 9 minutes ago"
+      "last_checked": "1 minute ago"
     },
     "type": "Feature"
   },
@@ -26329,7 +26329,7 @@
       "city": "Chilliwack",
       "street": "(Wal-Mart) 8249 Eagle Landing Parkway ",
       "country": "CA",
-      "last_checked": "Checked 8 minutes ago"
+      "last_checked": "Checked 9 minutes ago"
     },
     "type": "Feature"
   },
@@ -26350,7 +26350,7 @@
       "city": "Quesnel",
       "street": "105 N. Star Road",
       "country": "CA",
-      "last_checked": "Checked 9 minutes ago"
+      "last_checked": "1 minute ago"
     },
     "type": "Feature"
   },
@@ -26392,7 +26392,7 @@
       "city": "Abbotsford",
       "street": "34618 Delair Road",
       "country": "CA",
-      "last_checked": "Checked 8 minutes ago"
+      "last_checked": "Checked 9 minutes ago"
     },
     "type": "Feature"
   },
@@ -26434,7 +26434,7 @@
       "city": "Abbotsford",
       "street": "1858 Mccallum Road",
       "country": "CA",
-      "last_checked": "Checked 9 minutes ago"
+      "last_checked": "1 minute ago"
     },
     "type": "Feature"
   },
@@ -26476,7 +26476,7 @@
       "city": "Abbotsford",
       "street": "32983 South Fraser Way",
       "country": "CA",
-      "last_checked": "Checked 8 minutes ago"
+      "last_checked": "Checked 9 minutes ago"
     },
     "type": "Feature"
   },
@@ -26518,7 +26518,7 @@
       "city": "Abbotsford",
       "street": "(Wal-Mart) 3122 Mt. Lehman Rd. ",
       "country": "CA",
-      "last_checked": "Checked 9 minutes ago"
+      "last_checked": "1 minute ago"
     },
     "type": "Feature"
   },
@@ -26560,7 +26560,7 @@
       "city": "Prince George",
       "street": "2001 Victoria St.",
       "country": "CA",
-      "last_checked": "Checked 8 minutes ago"
+      "last_checked": "Checked 9 minutes ago"
     },
     "type": "Feature"
   },
@@ -26602,7 +26602,7 @@
       "city": "Prince George",
       "street": "5099 Domano Blvd. ",
       "country": "CA",
-      "last_checked": "Checked 9 minutes ago"
+      "last_checked": "1 minute ago"
     },
     "type": "Feature"
   },
@@ -26644,7 +26644,7 @@
       "city": "Prince George",
       "street": "3250 Massey Drive",
       "country": "CA",
-      "last_checked": "Checked 8 minutes ago"
+      "last_checked": "Checked 9 minutes ago"
     },
     "type": "Feature"
   },
@@ -26686,7 +26686,7 @@
       "city": "Prince George",
       "street": "(Wal-Mart) 6565 Southridge Ave. ",
       "country": "CA",
-      "last_checked": "Checked 9 minutes ago"
+      "last_checked": "1 minute ago"
     },
     "type": "Feature"
   },
@@ -26728,7 +26728,7 @@
       "city": "Maple Ridge",
       "street": "300-23981 Dewdney Trunk Rd.",
       "country": "CA",
-      "last_checked": "Checked 8 minutes ago"
+      "last_checked": "Checked 9 minutes ago"
     },
     "type": "Feature"
   },
@@ -26770,7 +26770,7 @@
       "city": "Pemberton",
       "street": "1441 Vine Rd",
       "country": "CA",
-      "last_checked": "Checked 9 minutes ago"
+      "last_checked": "1 minute ago"
     },
     "type": "Feature"
   },
@@ -26812,7 +26812,7 @@
       "city": "Langley",
       "street": "20394-88Th Avenue",
       "country": "CA",
-      "last_checked": "Checked 8 minutes ago"
+      "last_checked": "Checked 9 minutes ago"
     },
     "type": "Feature"
   },
@@ -26854,7 +26854,7 @@
       "city": "Langley",
       "street": "(Wal-Mart) 20202  66Th Avenue ",
       "country": "CA",
-      "last_checked": "Checked 9 minutes ago"
+      "last_checked": "1 minute ago"
     },
     "type": "Feature"
   },
@@ -26896,7 +26896,7 @@
       "city": "Langley",
       "street": "100 - 20020 Willowbrook Drive",
       "country": "CA",
-      "last_checked": "Checked 8 minutes ago"
+      "last_checked": "Checked 9 minutes ago"
     },
     "type": "Feature"
   },
@@ -26938,7 +26938,7 @@
       "city": "Langley",
       "street": "19780 Fraser Hwy",
       "country": "CA",
-      "last_checked": "Checked 9 minutes ago"
+      "last_checked": "1 minute ago"
     },
     "type": "Feature"
   },
@@ -26980,7 +26980,7 @@
       "city": "Port Coquitlam",
       "street": "(Wal-Mart) 2150 Hawkins Street, (Freemont Village)",
       "country": "CA",
-      "last_checked": "Checked 8 minutes ago"
+      "last_checked": "Checked 9 minutes ago"
     },
     "type": "Feature"
   },
@@ -27022,7 +27022,7 @@
       "city": "Cloverdale",
       "street": "17960 - 56Th Avenue",
       "country": "CA",
-      "last_checked": "Checked 9 minutes ago"
+      "last_checked": "1 minute ago"
     },
     "type": "Feature"
   },
@@ -27085,7 +27085,7 @@
       "city": "Coquitlam",
       "street": "(Mall) 1401 - 2929 Barnet Highway ",
       "country": "CA",
-      "last_checked": "Checked 9 minutes ago"
+      "last_checked": "1 minute ago"
     },
     "type": "Feature"
   },
@@ -27169,7 +27169,7 @@
       "city": "Surrey",
       "street": "(Wal-Mart) 2355 - 160Th St. ",
       "country": "CA",
-      "last_checked": "Checked 9 minutes ago"
+      "last_checked": "1 minute ago"
     },
     "type": "Feature"
   },
@@ -27253,7 +27253,7 @@
       "city": "Surrey",
       "street": "1789 - 152Nd Street",
       "country": "CA",
-      "last_checked": "Checked 9 minutes ago"
+      "last_checked": "1 minute ago"
     },
     "type": "Feature"
   },
@@ -27337,7 +27337,7 @@
       "city": "Coquitlam",
       "street": "1131 Austin Avenue",
       "country": "CA",
-      "last_checked": "Checked 9 minutes ago"
+      "last_checked": "1 minute ago"
     },
     "type": "Feature"
   },
@@ -27421,7 +27421,7 @@
       "city": "Surrey",
       "street": "12930 96Th Avenue",
       "country": "CA",
-      "last_checked": "Checked 9 minutes ago"
+      "last_checked": "1 minute ago"
     },
     "type": "Feature"
   },
@@ -27505,7 +27505,7 @@
       "city": "Coquitlam",
       "street": "515 North Rd.,",
       "country": "CA",
-      "last_checked": "Checked 9 minutes ago"
+      "last_checked": "1 minute ago"
     },
     "type": "Feature"
   },
@@ -27589,7 +27589,7 @@
       "city": "New Westminster",
       "street": "815 Mcbride Blvd.",
       "country": "CA",
-      "last_checked": "Checked 9 minutes ago"
+      "last_checked": "1 minute ago"
     },
     "type": "Feature"
   },
@@ -27673,7 +27673,7 @@
       "city": "Delta",
       "street": "1285 Cliveden Avenue",
       "country": "CA",
-      "last_checked": "Checked 9 minutes ago"
+      "last_checked": "1 minute ago"
     },
     "type": "Feature"
   },
@@ -27757,7 +27757,7 @@
       "city": "Burnaby",
       "street": "4410 Still Creek Drive",
       "country": "CA",
-      "last_checked": "Checked 9 minutes ago"
+      "last_checked": "1 minute ago"
     },
     "type": "Feature"
   },
@@ -27841,7 +27841,7 @@
       "city": "North Vancouver",
       "street": "1366 Main Street",
       "country": "CA",
-      "last_checked": "Checked 9 minutes ago"
+      "last_checked": "1 minute ago"
     },
     "type": "Feature"
   },
@@ -27925,7 +27925,7 @@
       "city": "Vancouver",
       "street": "2021 Kingsway",
       "country": "CA",
-      "last_checked": "Checked 9 minutes ago"
+      "last_checked": "1 minute ago"
     },
     "type": "Feature"
   },
@@ -28009,7 +28009,7 @@
       "city": "Squamish",
       "street": "38451 Cleveland Avenue",
       "country": "CA",
-      "last_checked": "Checked 9 minutes ago"
+      "last_checked": "1 minute ago"
     },
     "type": "Feature"
   },
@@ -28093,7 +28093,7 @@
       "city": "Ladner",
       "street": "5776 Ladner Trunk Rd",
       "country": "CA",
-      "last_checked": "Checked 9 minutes ago"
+      "last_checked": "1 minute ago"
     },
     "type": "Feature"
   },
@@ -28177,7 +28177,7 @@
       "city": "Vancouver",
       "street": "Unit 1001 - 86 W. Pender",
       "country": "CA",
-      "last_checked": "Checked 9 minutes ago"
+      "last_checked": "1 minute ago"
     },
     "type": "Feature"
   },
@@ -28261,7 +28261,7 @@
       "city": "Vancouver",
       "street": "211-275 Robson Street",
       "country": "CA",
-      "last_checked": "Checked 9 minutes ago"
+      "last_checked": "1 minute ago"
     },
     "type": "Feature"
   },
@@ -28345,7 +28345,7 @@
       "city": "Vancouver",
       "street": "160 S.W. Marine Dr.",
       "country": "CA",
-      "last_checked": "Checked 9 minutes ago"
+      "last_checked": "1 minute ago"
     },
     "type": "Feature"
   },
@@ -28429,7 +28429,7 @@
       "city": "Vancouver",
       "street": "1701 Robson Street",
       "country": "CA",
-      "last_checked": "Checked 9 minutes ago"
+      "last_checked": "1 minute ago"
     },
     "type": "Feature"
   },
@@ -28464,9 +28464,9 @@
       "type": "Point"
     },
     "properties": {
-      "is_broken": false,
+      "is_broken": true,
       "is_active": true,
-      "dot": "working",
+      "dot": "broken",
       "state": null,
       "city": "Vancouver",
       "street": "830 Sw Marine Dr",
