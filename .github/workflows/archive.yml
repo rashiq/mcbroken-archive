@@ -13,7 +13,7 @@ jobs:
     - uses: actions/checkout@v2
     - name: Download recently changed data.
       run: |
-        curl --compressed https://mcbroken2.nyc3.digitaloceanspaces.com/markers.json \
+        curl --compressed https://mcbroken.com/markers.json \
           | jq '[ .features[] | select(.properties.last_checked | match("[0-9]+").string | tonumber < 180) ]' > mcbroken.json
     - name: Commit data
       run: |
