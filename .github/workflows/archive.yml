@@ -13,7 +13,22 @@ jobs:
     - uses: actions/checkout@v2
     - name: Download recently changed data.
       run: |
-        curl --http1.1 --compressed --retry 3 --retry-delay 2 https://mcbroken.com/markers.json \
+        set -euo pipefail
+        response=$(mktemp)
+        trap 'rm -f "$response"' EXIT
+
+        curl --http1.1 --fail --location --silent --show-error \
+          --retry 3 --retry-delay 2 \
+          https://mcbroken.com/markers.json -o "$response"
+
+        # mcbroken.com currently returns gzip bytes without a Content-Encoding
+        # header. Handle that response, while remaining compatible with plain
+        # JSON and correctly advertised gzip responses.
+        if gzip -t "$response" 2>/dev/null; then
+          gzip -dc "$response"
+        else
+          cat "$response"
+        fi \
           | jq '[ .features[] | select(.properties.last_checked | match("[0-9]+").string | tonumber < 180) ]' > mcbroken.json
     - name: Commit data
       run: |
