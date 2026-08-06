@@ -1,23 +1,25 @@
 # mcbroken-archive
+
 <!-- hy-mt2-i18n:start -->
-**English** · [中文](./README_zh-CN.md) · [日本語](./README_ja.md) · [Español](./README_es.md)
+[English](./README.md) | [中文](./README_zh-CN.md) | [日本語](./README_ja.md) | **Español**
 <!-- hy-mt2-i18n:end -->
-Archive for data from [mcbroken.com](https://mcbroken.com). It updates the `mcbroken.json` file every hour.
 
-Mirror of [this repository](https://github.com/MrFlynn/mcbroken-archive).
+Archivo de datos de [mcbroken.com](https://mcbroken.com). Actualiza el archivo `mcbroken.json` cada hora.
 
-# How do I get historical data?
+Espejo de [este repositorio](https://github.com/MrFlynn/mcbroken-archive).
 
-If you want to find historical data of ice cream machine failures you can dump all past reversions of the `mcbroken.json` file with the `list-revisions.sh` script.
+# ¿Cómo obtengo datos históricos?
 
-```
-$ ./list-revisions.sh mcbroken.json
-```
-
-This will create a folder called `revisions` with a separate file for each version of the file:
+Si desea encontrar datos históricos sobre fallas en máquinas de helado, puede extraer todas las versiones anteriores del archivo `mcbroken.json` con el script `list-revisions.sh`.
 
 ```
-$ ls ./revisions
+$./list-revisions.sh mcbroken.json
+```
+
+Esto creará una carpeta llamada `revisions` que contará con un archivo separado para cada versión del archivo:
+
+```
+$ ls./revisions
 
 0001.13-Apr-2021.689154f175c488b91fa6d8fcc05d34c61bd5a9a4.mcbroken.json
 0002.13-Apr-2021.73865f3df4ac11a76482d404a703d612072b4f0d.mcbroken.json
