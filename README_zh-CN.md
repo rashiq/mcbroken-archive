@@ -1,23 +1,25 @@
 # mcbroken-archive
+
 <!-- hy-mt2-i18n:start -->
-**English** · [中文](./README_zh-CN.md) · [日本語](./README_ja.md) · [Español](./README_es.md)
+[English](./README.md) | **中文** | [日本語](./README_ja.md) | [Español](./README_es.md)
 <!-- hy-mt2-i18n:end -->
-Archive for data from [mcbroken.com](https://mcbroken.com). It updates the `mcbroken.json` file every hour.
 
-Mirror of [this repository](https://github.com/MrFlynn/mcbroken-archive).
+用于存储来自[mcbroken.com](https://mcbroken.com)的数据档案。该工具会每小时更新一次`mcbroken.json`文件。
 
-# How do I get historical data?
+这是[此仓库](https://github.com/MrFlynn/mcbroken-archive)的镜像站点。
 
-If you want to find historical data of ice cream machine failures you can dump all past reversions of the `mcbroken.json` file with the `list-revisions.sh` script.
+# 如何获取历史数据？
 
-```
-$ ./list-revisions.sh mcbroken.json
-```
-
-This will create a folder called `revisions` with a separate file for each version of the file:
+如果您想查找冰淇淋机故障的历史数据，可以使用`list-revisions.sh`脚本来导出`mcbroken.json`文件的所有过往版本。
 
 ```
-$ ls ./revisions
+$./list-revisions.sh mcbroken.json
+```
+
+这样就会生成一个名为`revisions`的文件夹，其中每个文件版本都会对应一个独立的文件：
+
+```
+$ ls./revisions
 
 0001.13-Apr-2021.689154f175c488b91fa6d8fcc05d34c61bd5a9a4.mcbroken.json
 0002.13-Apr-2021.73865f3df4ac11a76482d404a703d612072b4f0d.mcbroken.json

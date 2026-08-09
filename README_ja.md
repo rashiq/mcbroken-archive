@@ -1,23 +1,25 @@
 # mcbroken-archive
+
 <!-- hy-mt2-i18n:start -->
-**English** · [中文](./README_zh-CN.md) · [日本語](./README_ja.md) · [Español](./README_es.md)
+[English](./README.md) | [中文](./README_zh-CN.md) | **日本語** | [Español](./README_es.md)
 <!-- hy-mt2-i18n:end -->
-Archive for data from [mcbroken.com](https://mcbroken.com). It updates the `mcbroken.json` file every hour.
 
-Mirror of [this repository](https://github.com/MrFlynn/mcbroken-archive).
+[mcbroken.com](https://mcbroken.com)からのデータを収録したアーカイブです。1時間ごとに`mcbroken.json`ファイルが更新されます。
 
-# How do I get historical data?
+[このリポジトリ](https://github.com/MrFlynn/mcbroken-archive)のミラーです。
 
-If you want to find historical data of ice cream machine failures you can dump all past reversions of the `mcbroken.json` file with the `list-revisions.sh` script.
+# 過去のデータはどうやって取得するのですか？
 
-```
-$ ./list-revisions.sh mcbroken.json
-```
-
-This will create a folder called `revisions` with a separate file for each version of the file:
+アイスクリーム製造機の故障に関する過去のデータを探したい場合は、`list-revisions.sh`スクリプトを使って`mcbroken.json`ファイルの過去のすべてのリビジョンを抽出できます。
 
 ```
-$ ls ./revisions
+$./list-revisions.sh mcbroken.json
+```
+
+これにより`revisions`という名前のフォルダが作成され、各バージョンのファイルが別々のファイルとして格納されます：
+
+```
+$ ls./revisions
 
 0001.13-Apr-2021.689154f175c488b91fa6d8fcc05d34c61bd5a9a4.mcbroken.json
 0002.13-Apr-2021.73865f3df4ac11a76482d404a703d612072b4f0d.mcbroken.json
